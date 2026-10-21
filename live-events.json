@@ -1,78 +1,78 @@
 [
     {
-        "cat": "Cricket",
+        "cat": "Football",
         "eventInfo": {
-            "endTime": "",
-            "eventCat": "Cricket",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
-            "eventName": "ODI Tri-Series in United Arab Emirates",
+            "endTime": "21/10/2026",
+            "eventCat": "Football",
+            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "False",
+            "isHot": "True",
             "startTime": "21/10/2026",
-            "teamA": "Afghanistan",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-            "teamB": "Bangladesh",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image"
+            "teamA": "Real Madrid",
+            "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+            "teamB": "RB Leipzig",
+            "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image"
         },
         "formats": [
-            "WILLOW - AQ",
-            "TAPMAD - AQ",
-            "WILLOW S2 - AQ",
-            "TAPMAD HD",
-            "FANCODE IN ",
-            "T SPORTS HD"
+            "TNT SPORTS FHD",
+            "PARAMOUNT+ HD",
+            "HD STREAM ",
+            "PlayZ TV Live ",
+            "TAPMAD - AQ ",
+            "SONYLIV IN - AQ "
         ],
         "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
-        "isHot": 0,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+        "isHot": 1,
         "position": 0,
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
                 "publish": 1,
-                "title": "WILLOW - AQ",
+                "title": "TNT SPORTS FHD",
                 "type": "1"
             },
             {
                 "api": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+                "link": "https://chatgpt.hereisman.net/playlist/58359/load-playlist?",
                 "publish": 1,
-                "title": "TAPMAD - AQ",
-                "type": "0"
-            },
-            {
-                "api": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd",
-                "publish": 1,
-                "title": "WILLOW S2 - AQ",
-                "type": "1"
-            },
-            {
-                "api": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-                "publish": 1,
-                "title": "TAPMAD HD",
+                "title": "PARAMOUNT+ HD",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/index.m3u8",
+                "link": "https://edgestream2.pro/hls/hflfkrtib42.m3u8",
                 "publish": 1,
-                "title": "FANCODE IN ",
+                "title": "HD STREAM ",
                 "type": "0"
             },
             {
                 "api": "",
-                "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+                "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8?sign=0c8789d286b1fc8d51a0940cc5368b94&t=1792607129",
                 "publish": 1,
-                "title": "T SPORTS HD",
+                "title": "PlayZ TV Live ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
                 "type": "0"
             }
         ],
-        "slug": "pro/T0RJIFRyaS1TZXJpZXMgaW4gVW5pdGVkIEFyYWIgRW1pcmF0ZXMtQWZnaGFuaXN0YW4tdnMtQmFuZ2xhZGVzaDE3OTI0Njg2NjAwOTU",
-        "title": "ODI Tri-Series in United Arab Emirates"
+        "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVJlYWwgTWFkcmlkLXZzLVJCIExlaXB6aWcxNzkyNTgxODc2NzA3",
+        "title": "UEFA Champions League"
     },
     {
         "cat": "Cricket",
@@ -1341,26 +1341,36 @@
         "eventInfo": {
             "endTime": "21/10/2026",
             "eventCat": "Football",
-            "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-            "eventName": "UCL | Golazo Show",
+            "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
+            "eventName": "UCL - Golazo Show",
             "eventType": "",
             "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Golazo Show",
-            "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+            "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
             "teamB": "Golazo Show",
-            "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image"
+            "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10"
         },
         "formats": [
+            "TNT SPORTS - AQ ",
             "PARAMOUNT+ - FHD",
-            "SD STREAM "
+            "SD STREAM ",
+            "HD STREAM ",
+            "FHD STREAM "
         ],
         "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
         "isHot": 0,
         "position": 0,
         "publish": 1,
         "resolved_streams": [
+            {
+                "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+                "publish": 1,
+                "title": "TNT SPORTS - AQ ",
+                "type": "1"
+            },
             {
                 "api": "",
                 "link": "",
@@ -1374,10 +1384,24 @@
                 "publish": 1,
                 "title": "SD STREAM ",
                 "type": "0"
+            },
+            {
+                "api": "",
+                "link": "",
+                "publish": 1,
+                "title": "HD STREAM ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "",
+                "publish": 1,
+                "title": "FHD STREAM ",
+                "type": "0"
             }
         ],
         "slug": "pro/VUNMIHwgR29sYXpvIFNob3ctR29sYXpvIFNob3ctdnMtR29sYXpvIFNob3cxNzkxOTE3NDM2OTAw",
-        "title": "UCL | Golazo Show"
+        "title": "UCL - Golazo Show"
     },
     {
         "cat": "Football",
@@ -1840,91 +1864,18 @@
             "eventType": "",
             "isHot": "False",
             "startTime": "21/10/2026",
-            "teamA": "Lille",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-            "teamB": "Galatasaray",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image"
-        },
-        "formats": [
-            "TNT SPORTS - AQ",
-            "CBS SPORTS - AQ"
-        ],
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "isHot": 0,
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-                "publish": 1,
-                "title": "TNT SPORTS - AQ",
-                "type": "1"
-            },
-            {
-                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-                "publish": 1,
-                "title": "CBS SPORTS - AQ",
-                "type": "1"
-            }
-        ],
-        "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUxpbGxlLXZzLUdhbGF0YXNhcmF5MTc5MjQ3MzUyODgxMQ",
-        "title": "UEFA Champions League"
-    },
-    {
-        "cat": "Football",
-        "eventInfo": {
-            "endTime": "21/10/2026",
-            "eventCat": "Football",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-            "eventName": "UEFA Champions League",
-            "eventType": "",
-            "isHot": "False",
-            "startTime": "21/10/2026",
-            "teamA": "Como",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-            "teamB": "Manchester United",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
-        },
-        "formats": [
-            "TNT SPORTS - AQ"
-        ],
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "isHot": 0,
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-                "publish": 1,
-                "title": "TNT SPORTS - AQ",
-                "type": "1"
-            }
-        ],
-        "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUNvbW8tdnMtTWFuY2hlc3RlciBVbml0ZWQxNzkyNDczNjM2ODQz",
-        "title": "UEFA Champions League"
-    },
-    {
-        "cat": "Football",
-        "eventInfo": {
-            "endTime": "21/10/2026",
-            "eventCat": "Football",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-            "eventName": "UEFA Champions League",
-            "eventType": "",
-            "isHot": "False",
-            "startTime": "21/10/2026",
             "teamA": "FC Bayern München",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
             "teamB": "Arsenal",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
         },
         "formats": [
-            "TNT SPORTS - AQ"
+            "TNT SPORTS - AQ",
+            "PlayZ TV Live ",
+            "HD STREAM ",
+            "SONYLIV IN - AQ ",
+            "PARAMOUNT+ HD",
+            "SD SERVER"
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -1938,6 +1889,41 @@
                 "publish": 1,
                 "title": "TNT SPORTS - AQ",
                 "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8?sign=e024573f8e74c2f841b095cd6a43e94e&t=1792607139",
+                "publish": 1,
+                "title": "PlayZ TV Live ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
+                "publish": 1,
+                "title": "HD STREAM ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58360/load-playlist?",
+                "publish": 1,
+                "title": "PARAMOUNT+ HD",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://pull.qjkngv.com/live/stream-597728_lhd.m3u8",
+                "publish": 1,
+                "title": "SD SERVER",
+                "type": "0"
             }
         ],
         "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUZDIEJheWVybiBNw7xuY2hlbi12cy1BcnNlbmFsMTc5MjQ3MzcwNjg2MA",
@@ -1959,7 +1945,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1164/image"
         },
         "formats": [
-            "TNT SPORTS "
+            "TNT SPORTS ",
+            "ON FOOTBALL - AQ ",
+            "TAPMAD - AQ ",
+            "SONYLIV IN - AQ "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -1973,6 +1962,27 @@
                 "publish": 1,
                 "title": "TNT SPORTS ",
                 "type": "1"
+            },
+            {
+                "api": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/BONGDA_HD/manifest.mpd",
+                "publish": 1,
+                "title": "ON FOOTBALL - AQ ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
+                "type": "0"
             }
         ],
         "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUFzdG9uIFZpbGxhLXZzLVZpa2luZyBGSzE3OTI0NzM3MDY4NjE",
@@ -1986,7 +1996,7 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Sporting CP",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
@@ -1994,7 +2004,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2058/image"
         },
         "formats": [
-            "PlayZ TV Live"
+            "ON SPORTS - AQ ",
+            "HD STREAM ",
+            "TAPMAD - AQ ",
+            "SONYLIV IN - AQ "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -2003,10 +2016,31 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "Ok",
+                "api": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/HAY_TV/manifest.mpd",
                 "publish": 1,
-                "title": "PlayZ TV Live",
+                "title": "ON SPORTS - AQ ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8",
+                "publish": 1,
+                "title": "HD STREAM ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
                 "type": "0"
             }
         ],
@@ -2021,7 +2055,7 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Inter",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
@@ -2029,7 +2063,9 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image"
         },
         "formats": [
-            "PlayZ TV Live"
+            "PlayZ TV Live",
+            "TAPMAD - AQ ",
+            "SONYLIV IN - AQ "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -2042,6 +2078,20 @@
                 "link": "Ok",
                 "publish": 1,
                 "title": "PlayZ TV Live",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
                 "type": "0"
             }
         ],
@@ -2056,7 +2106,7 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Club Brugge KV",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/2888/image",
@@ -2064,7 +2114,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image"
         },
         "formats": [
-            "PlayZ TV Live"
+            "ON SPORTS - AQ ",
+            "HD STREAM ",
+            "TAPMAD - AQ ",
+            "SONYLIV IN - AQ "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -2073,10 +2126,31 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "Ok",
+                "api": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/THETHAO_HD/manifest.mpd",
                 "publish": 1,
-                "title": "PlayZ TV Live",
+                "title": "ON SPORTS - AQ ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8",
+                "publish": 1,
+                "title": "HD STREAM ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
                 "type": "0"
             }
         ],
@@ -2091,7 +2165,7 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
             "eventName": "UEFA Champions League",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Real Betis",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
@@ -2099,7 +2173,11 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image"
         },
         "formats": [
-            "PlayZ TV Live"
+            "CBS SPORTS - AQ ",
+            "ON SPORTS - AQ ",
+            "PlayZ TV Live",
+            "TAPMAD - AQ ",
+            "SONYLIV IN - AQ "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
@@ -2108,85 +2186,43 @@
         "publish": 1,
         "resolved_streams": [
             {
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+                "publish": 1,
+                "title": "CBS SPORTS - AQ ",
+                "type": "1"
+            },
+            {
+                "api": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/THETHAO_TINTUC_HD/manifest.mpd",
+                "publish": 1,
+                "title": "ON SPORTS - AQ ",
+                "type": "1"
+            },
+            {
                 "api": "",
-                "link": "Ok",
+                "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8",
                 "publish": 1,
                 "title": "PlayZ TV Live",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
+            },
+            {
+                "api": "",
+                "link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
+                "publish": 1,
+                "title": "SONYLIV IN - AQ ",
                 "type": "0"
             }
         ],
         "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVJlYWwgQmV0aXMtdnMtRmV5ZW5vb3JkMTc5MjQ3MzcwNjg2MQ",
         "title": "UEFA Champions League"
-    },
-    {
-        "cat": "Cricket",
-        "eventInfo": {
-            "endTime": "",
-            "eventCat": "Cricket",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "eventName": "ICC Men's T20 World Cup Qualifier",
-            "eventType": "",
-            "isHot": "False",
-            "startTime": "21/10/2026",
-            "teamA": "Zambia",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/1154270/image",
-            "teamB": "Nigeria",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/333957/image"
-        },
-        "formats": [
-            "ICC TV - AQ "
-        ],
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-        "isHot": 0,
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792614928~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=0f2c1cddbc2f5329507424f824e8b035f26356c16965def98599d0084253cff1/manifest.mpd",
-                "publish": 1,
-                "title": "ICC TV - AQ ",
-                "type": "1"
-            }
-        ],
-        "slug": "pro/SUNDIE1lbidzIFQyMCBXb3JsZCBDdXAgUXVhbGlmaWVyLVphbWJpYS12cy1OaWdlcmlhMTc5MjU1NTA4Njc5NA",
-        "title": "ICC Men's T20 World Cup Qualifier"
-    },
-    {
-        "cat": "Cricket",
-        "eventInfo": {
-            "endTime": "",
-            "eventCat": "Cricket",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-            "eventName": "CWC Challenge League",
-            "eventType": "",
-            "isHot": "False",
-            "startTime": "21/10/2026",
-            "teamA": "Kenya",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/189194/image",
-            "teamB": "Denmark",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/322675/image"
-        },
-        "formats": [
-            "PlayZ TV Live"
-        ],
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "isHot": 0,
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792607741~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=8d248a8746435079e66d90ffdf108974c008f2accc2f0d9153901f97964a6069/manifest.mpd",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "1"
-            }
-        ],
-        "slug": "pro/Q1dDIENoYWxsZW5nZSBMZWFndWUtS2VueWEtdnMtRGVubWFyazE3OTI1NTUwODY3OTQ",
-        "title": "CWC Challenge League"
     },
     {
         "cat": "Cricket",
@@ -2861,7 +2897,7 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
             "eventName": "CONMEBOL Sudamericana",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Montevideo City Torque",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/174972/image",
@@ -2869,7 +2905,7 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image"
         },
         "formats": [
-            "PlayZ TV Live"
+            "BeIN SPORTS "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
@@ -2878,11 +2914,11 @@
         "publish": 1,
         "resolved_streams": [
             {
-                "api": "",
-                "link": "Ok",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
                 "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
+                "title": "BeIN SPORTS ",
+                "type": "1"
             }
         ],
         "slug": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLU1vbnRldmlkZW8gQ2l0eSBUb3JxdWUtdnMtQXRsw6l0aWNvIE1pbmVpcm8xNzkyNTU2MjcyOTA1",
@@ -2931,20 +2967,30 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
             "eventName": "CONMEBOL Libertadores",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "22/10/2026",
             "teamA": "Palmeiras",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
             "teamB": "Fluminense",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image"
         },
-        "formats": [],
+        "formats": [
+            "BeIN SPORTS "
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+                "publish": 1,
+                "title": "BeIN SPORTS ",
+                "type": "1"
+            }
+        ],
         "slug": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLVBhbG1laXJhcy12cy1GbHVtaW5lbnNlMTc5MjU1NjI3MjkwNQ",
         "title": "CONMEBOL Libertadores"
     },
@@ -2956,20 +3002,38 @@
             "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
             "eventName": "League One",
             "eventType": "",
-            "isHot": "0",
+            "isHot": "False",
             "startTime": "21/10/2026",
             "teamA": "Reading",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
             "teamB": "Leyton Orient",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/83/image"
         },
-        "formats": [],
+        "formats": [
+            "BEIN SPORTS - AQ ",
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "publish": 1,
+                "title": "BEIN SPORTS - AQ ",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "http://193.47.62.55/hls/ajjjQQQQ.m3u8",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/TGVhZ3VlIE9uZS1SZWFkaW5nLXZzLUxleXRvbiBPcmllbnQxNzkyNTU2MjcyOTA1",
         "title": "League One"
     },
@@ -2989,7 +3053,10 @@
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image"
         },
         "formats": [
-            "PREMIER SPORTS "
+            "PREMIER SPORTS ",
+            "D Sports FHD",
+            "CAZE TV FHD",
+            "TAPMAD - AQ "
         ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -3003,35 +3070,31 @@
                 "publish": 1,
                 "title": "PREMIER SPORTS ",
                 "type": "1"
+            },
+            {
+                "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                "publish": 1,
+                "title": "D Sports FHD",
+                "type": "1"
+            },
+            {
+                "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+                "publish": 1,
+                "title": "CAZE TV FHD",
+                "type": "1"
+            },
+            {
+                "api": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+                "publish": 1,
+                "title": "TAPMAD - AQ ",
+                "type": "0"
             }
         ],
         "slug": "pro/TGFMaWdhLUxldmFudGUgVUQtdnMtQXRobGV0aWMgQ2x1YjE3OTI1NTYyNzI5MDY",
         "title": "LaLiga"
-    },
-    {
-        "cat": "Football",
-        "eventInfo": {
-            "endTime": "21/10/2026",
-            "eventCat": "Football",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-            "eventName": "Premier League",
-            "eventType": "",
-            "isHot": "0",
-            "startTime": "21/10/2026",
-            "teamA": "Chelsea",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-            "teamB": "Aston Villa",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
-        },
-        "formats": [],
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "isHot": 0,
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [],
-        "slug": "pro/UHJlbWllciBMZWFndWUtQ2hlbHNlYS12cy1Bc3RvbiBWaWxsYTE3OTI1NTYyNzI5MDY",
-        "title": "Premier League"
     },
     {
         "cat": "Football",
@@ -3048,13 +3111,23 @@
             "teamB": "Hapoel Be'er Sheva",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLVJveWFsZSBVbmlvbiBTYWludC1HaWxsb2lzZS12cy1IYXBvZWwgQmUnZXIgU2hldmExNzkyNTU2NDM1NTY4",
         "title": "UEFA Europa League"
     },
@@ -3218,23 +3291,13 @@
             "teamB": "Crystal Palace",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUJlxZ9pa3RhxZ8gSkstdnMtQ3J5c3RhbCBQYWxhY2UxNzkyNTU2NDM1NTY5",
         "title": "UEFA Europa League"
     },
@@ -3403,23 +3466,13 @@
             "teamB": "FC Twente",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1MaW5jb2xuIFJlZCBJbXBzLXZzLUZDIFR3ZW50ZTE3OTI1NTY0MzU1NzE",
         "title": "UEFA Conference League"
     },
@@ -3438,13 +3491,23 @@
             "teamB": "Olympique de Marseille",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLVNLIFN0dXJtIEdyYXotdnMtT2x5bXBpcXVlIGRlIE1hcnNlaWxsZTE3OTI1NTY0MzU1NzE",
         "title": "UEFA Europa League"
     },
@@ -3513,13 +3576,23 @@
             "teamB": "FC Lugano",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2443/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1HZXRhZmUtdnMtRkMgTHVnYW5vMTc5MjU1NjQzNTU3MQ",
         "title": "UEFA Conference League"
     },
@@ -3538,23 +3611,13 @@
             "teamB": "HNK Hajduk Split",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1GQyBUaHVuLXZzLUhOSyBIYWpkdWsgU3BsaXQxNzkyNTU2NDM1NTcx",
         "title": "UEFA Conference League"
     },
@@ -3573,23 +3636,13 @@
             "teamB": "Flamengo",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/248722/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q29wYSBkbyBCcmFzaWwsIEZlbWluaW5vLUZsdW1pbmVuc2UtdnMtRmxhbWVuZ28xNzkyNTU2NDM1NTcy",
         "title": "Copa do Brasil, Feminino"
     },
@@ -3608,23 +3661,13 @@
             "teamB": "Red Bull Salzburg",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLU5LIENlbGplLXZzLVJlZCBCdWxsIFNhbHpidXJnMTc5MjU1NjQzNTU3Mg",
         "title": "UEFA Europa League"
     },
@@ -3643,23 +3686,13 @@
             "teamB": "Al-Khaleej",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1BaGxpLXZzLUFsLUtoYWxlZWoxNzkyNTU2NDM1NTcy",
         "title": "Saudi Pro League"
     },
@@ -3678,13 +3711,23 @@
             "teamB": "Kuopion Palloseura",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1GSyBCb3JhYyBCYW5qYSBMdWthLXZzLUt1b3Bpb24gUGFsbG9zZXVyYTE3OTI1NTY0MzU1NzI",
         "title": "UEFA Conference League"
     },
@@ -4253,23 +4296,13 @@
             "teamB": "Athletico",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2FtcGVvbmF0byBCcmFzaWxlaXJvIFPDqXJpZSBBLVZpdMOzcmlhLXZzLUF0aGxldGljbzE3OTI1NTcwMTA2MjA",
         "title": "Campeonato Brasileiro Série A"
     },
@@ -4338,13 +4371,23 @@
             "teamB": "Red Bull Bragantino",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Q2FtcGVvbmF0byBCcmFzaWxlaXJvIFPDqXJpZSBBLVBhbG1laXJhcy12cy1SZWQgQnVsbCBCcmFnYW50aW5vMTc5MjU1NzAxMDYyMA",
         "title": "Campeonato Brasileiro Série A"
     },
@@ -4413,23 +4456,13 @@
             "teamB": "Inter Miami CF",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/TUxTLU5ldyBZb3JrIFJlZCBCdWxscy12cy1JbnRlciBNaWFtaSBDRjE3OTI1NTcwMTA2MjE",
         "title": "MLS"
     },
@@ -4548,13 +4581,23 @@
             "teamB": "Vålerenga IF",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1165/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/20/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/RWxpdGVzZXJpZW4tQm9kw7gvR2xpbXQtdnMtVsOlbGVyZW5nYSBJRjE3OTI1NTcwMTA2MjI",
         "title": "Eliteserien"
     },
@@ -4598,23 +4641,13 @@
             "teamB": "Watford",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2hhbXBpb25zaGlwLVdvbHZlcmhhbXB0b24tdnMtV2F0Zm9yZDE3OTI1NTcwMTA2MjI",
         "title": "Championship"
     },
@@ -4708,13 +4741,23 @@
             "teamB": "1. FC Kaiserslautern",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Mi4gQnVuZGVzbGlnYS0xLiBGQyBOw7xybmJlcmctdnMtMS4gRkMgS2Fpc2Vyc2xhdXRlcm4xNzkyNTU3MDEwNjIz",
         "title": "2. Bundesliga"
     },
@@ -4733,23 +4776,13 @@
             "teamB": "Espanyol",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/TGFMaWdhLVJlYWwgUmFjaW5nIENsdWItdnMtRXNwYW55b2wxNzkyNTU3MDEwNjIz",
         "title": "LaLiga"
     },
@@ -4768,23 +4801,13 @@
             "teamB": "Chelsea FC",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/V29tZW4ncyBTdXBlciBMZWFndWUtQ3J5c3RhbCBQYWxhY2UtdnMtQ2hlbHNlYSBGQzE3OTI1NTcwMTA2MjM",
         "title": "Women's Super League"
     },
@@ -4803,23 +4826,13 @@
             "teamB": "CD Tenerife",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/TGFMaWdhIDItQ0UgU2FiYWRlbGwtdnMtQ0QgVGVuZXJpZmUxNzkyNTU3MDEwNjIz",
         "title": "LaLiga 2"
     },
@@ -4838,23 +4851,13 @@
             "teamB": "Corinthians",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2FtcGVvbmF0byBCcmFzaWxlaXJvIFPDqXJpZSBBLVZhc2NvIGRhIEdhbWEtdnMtQ29yaW50aGlhbnMxNzkyNTU3MDEwNjIz",
         "title": "Campeonato Brasileiro Série A"
     },
@@ -4873,23 +4876,13 @@
             "teamB": "Birmingham City",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2hhbXBpb25zaGlwLUNhcmRpZmYgQ2l0eS12cy1CaXJtaW5naGFtIENpdHkxNzkyNTU3MDEwNjIz",
         "title": "Championship"
     },
@@ -5883,13 +5876,23 @@
             "teamB": "SV 07 Elversberg",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/QnVuZGVzbGlnYS1SQiBMZWlwemlnLXZzLVNWIDA3IEVsdmVyc2JlcmcxNzkyNTU3NzM3Mzk2",
         "title": "Bundesliga"
     },
@@ -5943,13 +5946,23 @@
             "teamB": "Nottingham Forest",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/UHJlbWllciBMZWFndWUtSXBzd2ljaCBUb3duLXZzLU5vdHRpbmdoYW0gRm9yZXN0MTc5MjU1NzczNzM5Ng",
         "title": "Premier League"
     },
@@ -6038,23 +6051,13 @@
             "teamB": "Millwall",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2hhbXBpb25zaGlwLVBvcnRzbW91dGgtdnMtTWlsbHdhbGwxNzkyNTU3NzM3Mzk3",
         "title": "Championship"
     },
@@ -6123,13 +6126,23 @@
             "teamB": "VfL Wolfsburg",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Mi4gQnVuZGVzbGlnYS1WZkwgQm9jaHVtIDE4NDgtdnMtVmZMIFdvbGZzYnVyZzE3OTI1NTc3MzczOTc",
         "title": "2. Bundesliga"
     },
@@ -6148,23 +6161,13 @@
             "teamB": "FC Schalke 04",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/QnVuZGVzbGlnYS0xLiBGQyBLw7Zsbi12cy1GQyBTY2hhbGtlIDA0MTc5MjU1NzczNzM5Nw",
         "title": "Bundesliga"
     },
@@ -6183,23 +6186,13 @@
             "teamB": "Diriyah",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/853574/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1JdHRpaGFkLXZzLURpcml5YWgxNzkyNTU3NzM3Mzk3",
         "title": "Saudi Pro League"
     },
@@ -6218,13 +6211,23 @@
             "teamB": "Arminia Bielefeld",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Mi4gQnVuZGVzbGlnYS1IZXJ0aGEgQlNDLXZzLUFybWluaWEgQmllbGVmZWxkMTc5MjU1NzczNzM5Nw",
         "title": "2. Bundesliga"
     },
@@ -6243,13 +6246,23 @@
             "teamB": "Al-Hilal",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1RYWRzaWFoLXZzLUFsLUhpbGFsMTc5MjU1NzczNzM5OA",
         "title": "Saudi Pro League"
     },
@@ -6318,13 +6331,23 @@
             "teamB": "Bologna",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/U2VyaWUgQS1DYWdsaWFyaS12cy1Cb2xvZ25hMTc5MjU1NzczNzM5OA",
         "title": "Serie A"
     },
@@ -6428,13 +6451,23 @@
             "teamB": "Eibar",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/TGFMaWdhIDItQ8OzcmRvYmEtdnMtRWliYXIxNzkyNTU3NzM3Mzk5",
         "title": "LaLiga 2"
     },
@@ -6922,40 +6955,5 @@
         "resolved_streams": [],
         "slug": "pro/TkJMLVRhc21hbmlhIEphY2tqdW1wZXJzLXZzLUJyaXNiYW5lIEJ1bGxldHMxNzkyNTcxMTQyNDMx",
         "title": "NBL"
-    },
-    {
-        "cat": "Football",
-        "eventInfo": {
-            "endTime": "21/10/2026",
-            "eventCat": "Football",
-            "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-            "eventName": "UEFA Champions League",
-            "eventType": "",
-            "isHot": "False",
-            "startTime": "21/10/2026",
-            "teamA": "Real Madrid",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-            "teamB": "RB Leipzig",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image"
-        },
-        "formats": [
-            "TNT SPORTS FHD"
-        ],
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "isHot": 0,
-        "position": 0,
-        "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-                "publish": 1,
-                "title": "TNT SPORTS FHD",
-                "type": "1"
-            }
-        ],
-        "slug": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVJlYWwgTWFkcmlkLXZzLVJCIExlaXB6aWcxNzkyNTgxODc2NzA3",
-        "title": "UEFA Champions League"
     }
 ]
