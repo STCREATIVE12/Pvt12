@@ -6,7 +6,7 @@ on:
       - master
       - main
   schedule:
-    - cron: '0 */30 * * *'  # Har 3 hours mein automatic run hoga
+    - cron: '0 */30 * * * *'  # Har 3 hours mein automatic run hoga
   workflow_dispatch:
 
 jobs:
