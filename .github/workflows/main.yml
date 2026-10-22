@@ -43,12 +43,13 @@ jobs:
         # Zip ke andar wali main python file ko run karega
         python playz_extractor.py
 
-    - name: Commit and Push live-events.json
-      run: |
+        - name: Commit and Push live-events.json
+        run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git pull --rebase origin main
+        git stash
+        git pull --rebase origin main || git pull --rebase origin master
+        git stash pop || true
         git add live-events.json
         git diff --staged --quiet || git commit -m "Auto-update live-events.json via Actions [skip ci]"
         git push
-        
