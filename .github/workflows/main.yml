@@ -6,12 +6,12 @@ on:
       - master
       - main
   schedule:
-    - cron: '*/15 * * * *'  # Har 15 minutes mein automatic run hoga
+    - cron: '*/15 * * * *'
 
   workflow_dispatch:
 
 permissions:
-  contents: write  # GitHub Actions ko repo mein changes push karne ki permission deta hai
+  contents: write
 
 jobs:
   build:
@@ -34,17 +34,13 @@ jobs:
     - name: Extract Protected ZIP
       env:
         ZIP_PASS: ${{ secrets.ZIP_PASSWORD }}
-      run: |
-        # ZipCrypto wali file ko secret password ke sath extract karega
-        unzip -P "$ZIP_PASS" playz_extractor.zip
+      run: unzip -P "$ZIP_PASS" playz_extractor.zip
 
     - name: Run Python Script
-      run: |
-        # Zip ke andar wali main python file ko run karega
-        python playz_extractor.py
+      run: python playz_extractor.py
 
-        - name: Commit and Push live-events.json
-        run: |
+    - name: Commit and Push live-events.json
+      run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git stash
@@ -53,3 +49,4 @@ jobs:
         git add live-events.json
         git diff --staged --quiet || git commit -m "Auto-update live-events.json via Actions [skip ci]"
         git push
+        
