@@ -3679,13 +3679,23 @@
             "teamB": "Atalanta",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1BRkMgQWpheC12cy1BdGFsYW50YTE3OTI1NTY0MzU1Njk",
         "title": "UEFA Conference League"
     },
@@ -3704,13 +3714,23 @@
             "teamB": "East Bengal FC",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/40655/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/SW5kaWFuIFN1cGVyIExlYWd1ZS1JbnRlciBLYXNoaSBGQy12cy1FYXN0IEJlbmdhbCBGQzE3OTI1NTY0MzU1Njk",
         "title": "Indian Super League"
     },
@@ -3804,13 +3824,23 @@
             "teamB": "AZ Alkmaar",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUZDIEFyYXJhdC1Bcm1lbmlhLXZzLUFaIEFsa21hYXIxNzkyNTU2NDM1NTcw",
         "title": "UEFA Europa League"
     },
@@ -3829,23 +3859,13 @@
             "teamB": "AC Milan",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUJvdXJuZW1vdXRoLXZzLUFDIE1pbGFuMTc5MjU1NjQzNTU3MA",
         "title": "UEFA Europa League"
     },
@@ -3864,13 +3884,23 @@
             "teamB": "Real Sociedad",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUxpbGxlc3Ryw7htIFNLLXZzLVJlYWwgU29jaWVkYWQxNzkyNTU2NDM1NTcw",
         "title": "UEFA Europa League"
     },
@@ -4049,23 +4079,13 @@
             "teamB": "HNK Hajduk Split",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1GQyBUaHVuLXZzLUhOSyBIYWpkdWsgU3BsaXQxNzkyNTU2NDM1NTcx",
         "title": "UEFA Conference League"
     },
@@ -4109,23 +4129,13 @@
             "teamB": "Red Bull Salzburg",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLU5LIENlbGplLXZzLVJlZCBCdWxsIFNhbHpidXJnMTc5MjU1NjQzNTU3Mg",
         "title": "UEFA Europa League"
     },
@@ -4144,13 +4154,23 @@
             "teamB": "Al-Khaleej",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1BaGxpLXZzLUFsLUtoYWxlZWoxNzkyNTU2NDM1NTcy",
         "title": "Saudi Pro League"
     },
@@ -4169,23 +4189,13 @@
             "teamB": "Kuopion Palloseura",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1GSyBCb3JhYyBCYW5qYSBMdWthLXZzLUt1b3Bpb24gUGFsbG9zZXVyYTE3OTI1NTY0MzU1NzI",
         "title": "UEFA Conference League"
     },
@@ -4229,13 +4239,23 @@
             "teamB": "Estudiantes de La Plata",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3206/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsYW1lbmdvLXZzLUVzdHVkaWFudGVzIGRlIExhIFBsYXRhMTc5MjU1NjQzNTU3Mg",
         "title": "CONMEBOL Libertadores"
     },
@@ -4764,13 +4784,23 @@
             "teamB": "Athletico",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Q2FtcGVvbmF0byBCcmFzaWxlaXJvIFPDqXJpZSBBLVZpdMOzcmlhLXZzLUF0aGxldGljbzE3OTI1NTcwMTA2MjA",
         "title": "Campeonato Brasileiro Série A"
     },
@@ -4839,23 +4869,13 @@
             "teamB": "Red Bull Bragantino",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2FtcGVvbmF0byBCcmFzaWxlaXJvIFPDqXJpZSBBLVBhbG1laXJhcy12cy1SZWQgQnVsbCBCcmFnYW50aW5vMTc5MjU1NzAxMDYyMA",
         "title": "Campeonato Brasileiro Série A"
     },
@@ -4949,13 +4969,23 @@
             "teamB": "Celta Fortuna",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/TGFMaWdhIDItR2lyb25hIEZDLXZzLUNlbHRhIEZvcnR1bmExNzkyNTU3MDEwNjIx",
         "title": "LaLiga 2"
     },
@@ -4999,13 +5029,23 @@
             "teamB": "Wrexham",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Q2hhbXBpb25zaGlwLUJsYWNrYnVybiBSb3ZlcnMtdnMtV3JleGhhbTE3OTI1NTcwMTA2MjE",
         "title": "Championship"
     },
@@ -5024,23 +5064,13 @@
             "teamB": "Wycombe Wanderers",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/TGVhZ3VlIE9uZS1BRkMgV2ltYmxlZG9uLXZzLVd5Y29tYmUgV2FuZGVyZXJzMTc5MjU1NzAxMDYyMQ",
         "title": "League One"
     },
@@ -5109,13 +5139,23 @@
             "teamB": "Watford",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Q2hhbXBpb25zaGlwLVdvbHZlcmhhbXB0b24tdnMtV2F0Zm9yZDE3OTI1NTcwMTA2MjI",
         "title": "Championship"
     },
@@ -5184,13 +5224,23 @@
             "teamB": "West Ham",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/297802/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/V29tZW4ncyBTdXBlciBMZWFndWUtQnJpZ2h0b24tdnMtV2VzdCBIYW0xNzkyNTU3MDEwNjIy",
         "title": "Women's Super League"
     },
@@ -6394,13 +6444,23 @@
             "teamB": "Borussia M'gladbach",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/QnVuZGVzbGlnYS1WZkIgU3R1dHRnYXJ0LXZzLUJvcnVzc2lhIE0nZ2xhZGJhY2gxNzkyNTU3NzM3Mzk2",
         "title": "Bundesliga"
     },
@@ -6444,13 +6504,23 @@
             "teamB": "CS Marítimo",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVZpdMOzcmlhIFNDLXZzLUNTIE1hcsOtdGltbzE3OTI1NTc3MzczOTc",
         "title": "Liga Portugal Betclic"
     },
@@ -6469,23 +6539,13 @@
             "teamB": "Derby County",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/Q2hhbXBpb25zaGlwLVNoZWZmaWVsZCBVbml0ZWQtdnMtRGVyYnkgQ291bnR5MTc5MjU1NzczNzM5Nw",
         "title": "Championship"
     },
@@ -6504,13 +6564,23 @@
             "teamB": "VfL Wolfsburg",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/Mi4gQnVuZGVzbGlnYS1WZkwgQm9jaHVtIDE4NDgtdnMtVmZMIFdvbGZzYnVyZzE3OTI1NTc3MzczOTc",
         "title": "2. Bundesliga"
     },
@@ -6529,23 +6599,13 @@
             "teamB": "FC Schalke 04",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/QnVuZGVzbGlnYS0xLiBGQyBLw7Zsbi12cy1GQyBTY2hhbGtlIDA0MTc5MjU1NzczNzM5Nw",
         "title": "Bundesliga"
     },
@@ -6564,13 +6624,23 @@
             "teamB": "Diriyah",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/853574/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1JdHRpaGFkLXZzLURpcml5YWgxNzkyNTU3NzM3Mzk3",
         "title": "Saudi Pro League"
     },
@@ -6639,13 +6709,23 @@
             "teamB": "Al Qadsia SC",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/23480/image"
         },
-        "formats": [],
+        "formats": [
+            "PlayZ TV Live"
+        ],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22795/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [],
+        "resolved_streams": [
+            {
+                "api": "",
+                "link": "Ok",
+                "publish": 1,
+                "title": "PlayZ TV Live",
+                "type": "0"
+            }
+        ],
         "slug": "pro/QUZDIENoYWxsZW5nZSBMZWFndWUtRkMgR29hLXZzLUFsIFFhZHNpYSBTQzE3OTI1NTc3MzczOTg",
         "title": "AFC Challenge League"
     },
@@ -6724,23 +6804,13 @@
             "teamB": "Leicester City",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image"
         },
-        "formats": [
-            "PlayZ TV Live"
-        ],
+        "formats": [],
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
         "isHot": 0,
         "position": 0,
         "publish": 1,
-        "resolved_streams": [
-            {
-                "api": "",
-                "link": "Ok",
-                "publish": 1,
-                "title": "PlayZ TV Live",
-                "type": "0"
-            }
-        ],
+        "resolved_streams": [],
         "slug": "pro/TGVhZ3VlIE9uZS1MdXRvbiBUb3duLXZzLUxlaWNlc3RlciBDaXR5MTc5MjU1NzczNzM5OA",
         "title": "League One"
     },
