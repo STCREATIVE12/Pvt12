@@ -6,7 +6,7 @@ on:
       - master
       - main
   schedule:
-    - cron: '*/15 * * * *'  # Yeh har 30 minutes mein automatic run hoga
+    - cron: '*/15 * * * *'  # Har 15 minutes mein automatic run hoga
 
   workflow_dispatch:
 
@@ -43,11 +43,12 @@ jobs:
         # Zip ke andar wali main python file ko run karega
         python playz_extractor.py
 
-          - name: Commit and Push live-events.json
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git pull --rebase origin main
-          git add live-events.json
-          git diff --staged --quiet || git commit -m "Auto-update live-events.json via Actions [skip ci]"
-          git push
+    - name: Commit and Push live-events.json
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git pull --rebase origin main
+        git add live-events.json
+        git diff --staged --quiet || git commit -m "Auto-update live-events.json via Actions [skip ci]"
+        git push
+        
