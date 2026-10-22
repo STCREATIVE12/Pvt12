@@ -14,17 +14,108 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
+                "drm_key": "cbfbd270193c2a674960b47427453daf:41912c92e12ecab217442960ea673af1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
+                "name": "PRIME VIDEO - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c",
+                "drm_scheme": "clearkey",
+                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "cbfbd270193c2a674960b47427453daf:41912c92e12ecab217442960ea673af1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
+                "name": "SONYLIV PPV EN - AQ ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "",
-                "name": "FOX CRICKET FHD",
+                "link": "https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8",
+                "name": "PLAYZTV - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8|referer=https://www.tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "2df0b8c56ff3758000c7b9bcc3f19cb7:a49270ca98c9ae3a72a4d33352075dbf",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mwlemlugiu/out/v1/83c2a248161d41f19b02d711b7cf55ec/cenc.mpd",
+                "name": "WILLOW S2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a9fb7988fa5687d620e07587aed50f4a:ad2265ffa38ab51b0b4e1d14c9192ade",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd?",
+                "name": "SONYLIV PPV HIN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV ENG - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2210-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV HIN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV TAM - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_2210-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV TEL - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV KAN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809392.m3u8",
+                "name": "SKY SPORT NZ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
+                "name": "ASTRO CRICKET HD",
                 "token_api": ""
             }
         ],
@@ -1471,15 +1562,7 @@
         },
         "id": 1,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYvbAlY7O8JQsx6IwdE1t6uXEaaZKJvjNmw&s",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://playztv.pages.dev/sss/index.m3u8",
-                "name": "PlayZ TV",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Ballon D'or Show"
     },
     {
@@ -1495,7 +1578,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "ODI Tri-series in Pakistan"
     },
     {
@@ -1511,15 +1602,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "One Day International"
     },
     {
@@ -1535,29 +1618,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream7.pro/hls/sqhdghzavbxu75.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "FHD",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -1573,7 +1634,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NBA LIVE [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream7.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                "name": "HD STREAM ",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -1589,7 +1672,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Europa League"
     },
     {
@@ -1605,7 +1696,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -1645,22 +1744,6 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "22/10/2026",
-            "event_name": "UEFA Conference League",
-            "start_time": "22/10/2026",
-            "team_a": "AFC Ajax",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2953/image",
-            "team_b": "Atalanta",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2686/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "streams": [
             {
                 "drm_key": "",
@@ -1676,6 +1759,22 @@
         "category": "Football",
         "event_info": {
             "end_time": "22/10/2026",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026",
+            "team_a": "AFC Ajax",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2953/image",
+            "team_b": "Atalanta",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2686/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026",
             "event_name": "UEFA Europa League",
             "start_time": "22/10/2026",
             "team_a": "Beşiktaş JK",
@@ -1685,7 +1784,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Europa League"
     },
     {
@@ -1717,7 +1824,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Saudi Pro League"
     },
     {
@@ -1765,15 +1880,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Europa League"
     },
     {
@@ -1981,7 +2088,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -1997,7 +2112,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "CONMEBOL Libertadores"
     },
     {
@@ -2285,7 +2408,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga 2"
     },
     {
@@ -2301,15 +2432,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2373,7 +2496,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -2421,7 +2552,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -2485,15 +2624,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2509,15 +2640,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/20/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Eliteserien"
     },
     {
@@ -2533,7 +2656,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga"
     },
     {
@@ -2565,7 +2696,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Ligue 1"
     },
     {
@@ -2613,15 +2752,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "2. Bundesliga"
     },
     {
@@ -2637,7 +2768,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga"
     },
     {
@@ -2669,7 +2808,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga 2"
     },
     {
@@ -2709,7 +2856,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -3325,15 +3480,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
@@ -3413,15 +3560,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -3453,7 +3592,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -3517,15 +3664,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "2. Bundesliga"
     },
     {
@@ -3557,15 +3696,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22795/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Challenge League"
     },
     {
@@ -3613,7 +3744,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -3629,7 +3768,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Serie A"
     },
     {
@@ -3661,7 +3808,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga 2"
     },
     {
@@ -3677,7 +3832,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22795/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "AFC Challenge League"
     },
     {
@@ -3733,7 +3896,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -3957,15 +4128,47 @@
         },
         "id": 1,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "streams": [],
+        "title": "NBL"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "CWC Challenge League",
+            "start_time": "22/10/2026",
+            "team_a": "Papua New Guinea",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/199278/image",
+            "team_b": "Jersey",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/199277/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792679728~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=4a9ca8a110cc8b880a3275fc9e7d6b80212c2095128e345a1b25f81796c227ef/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "name": "ICC TV - AQ ",
                 "token_api": ""
             }
         ],
-        "title": "NBL"
+        "title": "CWC Challenge League"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "CWC Challenge League",
+            "start_time": "22/10/2026",
+            "team_a": "Qatar",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/459350/image",
+            "team_b": "Kuwait",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187773/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark",
+        "streams": [],
+        "title": "CWC Challenge League"
     }
 ]
