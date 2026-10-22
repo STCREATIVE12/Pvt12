@@ -2,9 +2,138 @@
     {
         "category": "Cricket",
         "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "T20 International",
+            "start_time": "22/10/2026 07:00:00",
+            "team_a": "New Zealand",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187755/image",
+            "team_b": "India",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [
+            {
+                "drm_key": "cbfbd270193c2a674960b47427453daf:41912c92e12ecab217442960ea673af1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
+                "name": "PRIME VIDEO - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c",
+                "drm_scheme": "clearkey",
+                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "cbfbd270193c2a674960b47427453daf:41912c92e12ecab217442960ea673af1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
+                "name": "SONYLIV PPV EN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8",
+                "name": "PLAYZTV - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8|referer=https://www.tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "2df0b8c56ff3758000c7b9bcc3f19cb7:a49270ca98c9ae3a72a4d33352075dbf",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mwlemlugiu/out/v1/83c2a248161d41f19b02d711b7cf55ec/cenc.mpd",
+                "name": "WILLOW S2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a9fb7988fa5687d620e07587aed50f4a:ad2265ffa38ab51b0b4e1d14c9192ade",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd?",
+                "name": "SONYLIV PPV HIN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV ENG - AQ [IN]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch8872/cricodi_2210-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV HIN - AQ [IN]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV TAM - AQ [IN]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc77b/cricodi_2210-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV TEL - AQ [IN]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                "name": "SONYLIV KAN - AQ [IN]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
+                "name": "SONYLIV EN BD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809392.m3u8",
+                "name": "SKY SPORT NZ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
+                "name": "ASTRO CRICKET HD",
+                "token_api": ""
+            }
+        ],
+        "title": "T20 International"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
             "end_time": "",
             "event_name": "Twenty20 International Women",
-            "start_time": "23/10/2026 14:00:00",
+            "start_time": "23/10/2026 08:30:00",
             "team_a": "India Women",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/213119/image",
             "team_b": "Zimbabwe Women",
@@ -84,7 +213,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "T20 International",
-            "start_time": "24/10/2026 12:30:00",
+            "start_time": "24/10/2026 07:00:00",
             "team_a": "India",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/187765/image",
             "team_b": "West Indies",
@@ -171,7 +300,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "ODI Tri-Series in United Arab Emirates",
-            "start_time": "23/10/2026 17:00:00",
+            "start_time": "23/10/2026 11:30:00",
             "team_a": "Afghanistan",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
             "team_b": "Zimbabwe",
@@ -233,11 +362,63 @@
         "title": "ODI Tri-Series in United Arab Emirates"
     },
     {
+        "category": "Snooker",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "Northern Ireland Open",
+            "start_time": "22/10/2026 12:00:00",
+            "team_a": "SNOOKER ",
+            "team_a_flag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
+            "team_b": "SNOOKER",
+            "team_b_flag": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80"
+        },
+        "id": 1,
+        "image": "https://img.magnific.com/premium-vector/pool-billiards-human-red-table-with-snooker-cues-balls-logo-design-billiards-sport-ga_1151527-7157.jpg?semt=ais_test_b&w=740&q=80",
+        "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "8c17752768447a2ff801b87f7a390781:90375b77c0f6d271caef3c8accd4f1ae",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+                "name": "EUROSPORT EN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd|user-agent=Mozilla/5.0",
+                "name": "EUROSPORT CZ - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://spovt.ru/bpk-tv/000002478/tve/index.m3u8|referer=https://spovt.ru",
+                "name": "EUROSPORT RU - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "Northern Ireland Open"
+    },
+    {
         "category": "Boxing",
         "event_info": {
             "end_time": "",
             "event_name": "GROMDA FIGHT CLUB 26",
-            "start_time": "04/12/2026 00:30:00",
+            "start_time": "03/12/2026 19:00:00",
             "team_a": "GROMDA",
             "team_a_flag": "https://media.zawodtyper.pl/2020/07/czymjestgromdawyrozniajacy.jpg",
             "team_b": "GROMDA",
@@ -282,7 +463,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "Formula 1",
-            "start_time": "23/10/2026 11:00:00",
+            "start_time": "23/10/2026 05:30:00",
             "team_a": "Formula 1",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUIVWXAnm1ANXZZKjCXqoFyoZsftoMdlUOU2WAXKhzQ&s=10",
             "team_b": "Formula 1",
@@ -351,11 +532,84 @@
         "title": "Formula 1"
     },
     {
+        "category": "WWE",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "AEW Dynamite",
+            "start_time": "22/10/2026 00:00:00",
+            "team_a": "DYNAMITE",
+            "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+            "team_b": "DYNAMITE ",
+            "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+        },
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "streams": [
+            {
+                "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "name": "FOX SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+                "name": "WWE LIVE FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+                "drm_scheme": "clearkey",
+                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+                "name": "EUROSPORT - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "AEW ES PPV AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?|Referer=https://gooz.aapmains.net",
+                "name": "PLAYZTV LIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "AEW ES FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "AEW EN SD",
+                "token_api": ""
+            }
+        ],
+        "title": "AEW Dynamite"
+    },
+    {
         "category": "Motorsport",
         "event_info": {
             "end_time": "",
             "event_name": "MotoGP ",
-            "start_time": "23/10/2026 05:00:00",
+            "start_time": "22/10/2026 23:30:00",
             "team_a": "MotoGP",
             "team_a_flag": "https://i.pinimg.com/736x/bf/e6/90/bfe690b644764f99e488e4518921114a.jpg",
             "team_b": "MotoGP",
@@ -403,11 +657,70 @@
         "title": "MotoGP "
     },
     {
+        "category": " Cycling",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "Tour De France",
+            "start_time": "22/10/2026 09:00:00",
+            "team_a": "Tour De France",
+            "team_a_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tour_de_France_logo_%282018%29.svg/3840px-Tour_de_France_logo_%282018%29.svg.png",
+            "team_b": "Tour De France",
+            "team_b_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tour_de_France_logo_%282018%29.svg/3840px-Tour_de_France_logo_%282018%29.svg.png"
+        },
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tour_de_France_logo_%282018%29.svg/3840px-Tour_de_France_logo_%282018%29.svg.png",
+        "streams": [
+            {
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "8c17752768447a2ff801b87f7a390781:90375b77c0f6d271caef3c8accd4f1ae",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd",
+                "name": "EUROSPORT EN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "a31fc3b8c5af42d989f67b576ff1408b:3f49d80bd7f62e463cb1aaafcd8c3453",
+                "drm_scheme": "clearkey",
+                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/1848c8da/c56a7050.isml/.mpd?t=2026-10-22T08:55:00.000",
+                "name": "AUVIO SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://thebest.selina2.workers.dev/https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(adhoc5)/master.m3u8?hdnea=st%3D1792659643~exp%3D1792677643~acl%3D%2FContent%2FHLS_AES_TS%2Flive%2Fgeo%2Fchannel%28adhoc5%29%2F%2A~hmac%3D60e9a4a4008aa3dfceaa5b46f92a9a97f2c66fce13be454849d7ab73057699c2",
+                "name": "SBS SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+                "name": "EUROSPORT CZ - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://spovt.ru/bpk-tv/000002478/tve/index.m3u8|referer=https://spovt.ru",
+                "name": "EUROSPORT RU - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "Tour De France"
+    },
+    {
         "category": "WWE",
         "event_info": {
-            "end_time": "27/10/2026 05:30:00",
+            "end_time": "27/10/2026 00:00:00",
             "event_name": "WWE Monday Night RAW",
-            "start_time": "27/10/2026 05:30:00",
+            "start_time": "27/10/2026 00:00:00",
             "team_a": "WWE RAW",
             "team_a_flag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg",
             "team_b": "WWE RAW",
@@ -471,9 +784,9 @@
     {
         "category": "Mixed Martial Arts",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "ONE FRIDAY FIGHTS 176",
-            "start_time": "23/10/2026 19:00:00",
+            "start_time": "23/10/2026 13:30:00",
             "team_a": "ONE ",
             "team_a_flag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "team_b": "ONE",
@@ -502,9 +815,9 @@
     {
         "category": "Boxing",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "MatchRoom Boxing ",
-            "start_time": "24/10/2026 22:30:00",
+            "start_time": "24/10/2026 17:00:00",
             "team_a": "Dalton Smith",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
             "team_b": "Alberto Puello",
@@ -552,11 +865,56 @@
         "title": "MatchRoom Boxing "
     },
     {
+        "category": "Darts",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "EUROPEAN Championship",
+            "start_time": "22/10/2026 17:00:00",
+            "team_a": "Darts",
+            "team_a_flag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+            "team_b": "Darts",
+            "team_b_flag": "https://media.istockphoto.com/id/1183783901/vector/darts-game-emblem.jpg?s=612x612&w=0&k=20&c=JX59kkZMYRO_DW0YsiDAnaZeLVAIWajzA4l6jwhxeDo="
+        },
+        "id": 1,
+        "image": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "streams": [
+            {
+                "drm_key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
+                "drm_scheme": "clearkey",
+                "link": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+                "name": "SPORT 1 DE - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PDC.TV AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PDC.TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PDC.TV SD",
+                "token_api": ""
+            }
+        ],
+        "title": "EUROPEAN Championship"
+    },
+    {
         "category": "WWE",
         "event_info": {
-            "end_time": "28/10/2026 05:30:00",
+            "end_time": "28/10/2026 00:00:00",
             "event_name": "NXT",
-            "start_time": "28/10/2026 05:30:00",
+            "start_time": "28/10/2026 00:00:00",
             "team_a": "WWE NXT",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10",
             "team_b": "WWE NXT",
@@ -606,9 +964,9 @@
     {
         "category": "WWE",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Friday Night SmackDown",
-            "start_time": "24/10/2026 05:30:00",
+            "start_time": "24/10/2026 00:00:00",
             "team_a": "SmackDown",
             "team_a_flag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg",
             "team_b": "SmackDown",
@@ -674,7 +1032,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "MVPW 7",
-            "start_time": "09/11/2026 00:00:00",
+            "start_time": "08/11/2026 18:30:00",
             "team_a": "MVPW ",
             "team_a_flag": "https://thumbs.fite.tv/api_11/icons/1122_publisher_240x240.png",
             "team_b": "MVPW",
@@ -701,11 +1059,35 @@
         "title": "MVPW 7"
     },
     {
+        "category": "Tennis",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "Almaty OPEN ",
+            "start_time": "22/10/2026 06:30:00",
+            "team_a": "ATP",
+            "team_a_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
+            "team_b": "ATP ",
+            "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png"
+        },
+        "id": 1,
+        "image": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
+        "streams": [
+            {
+                "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "name": "BEIN SPORTS - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "Almaty OPEN "
+    },
+    {
         "category": "Mixed Martial Arts",
         "event_info": {
             "end_time": "",
             "event_name": "PFL",
-            "start_time": "14/11/2026 19:30:00",
+            "start_time": "14/11/2026 14:00:00",
             "team_a": "Vadim Nemkov",
             "team_a_flag": "http://img.sofascore.com/api/v1/unique-tournament/19910/image/dark",
             "team_b": "Sergei Bilostenniy",
@@ -746,11 +1128,42 @@
         "title": "PFL"
     },
     {
+        "category": "Tennis",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "NINGBO Open 2026",
+            "start_time": "22/10/2026 05:00:00",
+            "team_a": "WTA",
+            "team_a_flag": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png",
+            "team_b": "WTA",
+            "team_b_flag": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png"
+        },
+        "id": 1,
+        "image": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png",
+        "streams": [
+            {
+                "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "name": "BEIN SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
+                "drm_scheme": "clearkey",
+                "link": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+                "name": "TENNIS 2 - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "NINGBO Open 2026"
+    },
+    {
         "category": "Cricket",
         "event_info": {
             "end_time": "",
             "event_name": "ODI Tri-series in Pakistan",
-            "start_time": "27/10/2026 13:30:00",
+            "start_time": "27/10/2026 08:00:00",
             "team_a": "Pakistan",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/187754/image",
             "team_b": "Sri Lanka",
@@ -830,7 +1243,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "The - Golazo Show",
-            "start_time": "22/10/2026 22:00:00",
+            "start_time": "22/10/2026 16:30:00",
             "team_a": "Golazo Show",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
             "team_b": "Golazo Show",
@@ -866,9 +1279,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "26/10/2026 01:30:00",
+            "start_time": "25/10/2026 20:00:00",
             "team_a": "FC Barcelona",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2817/image",
             "team_b": "Real Madrid",
@@ -888,11 +1301,49 @@
         "title": "LaLiga"
     },
     {
+        "category": " Cycling",
+        "event_info": {
+            "end_time": "18/10/2026 00:00:00",
+            "event_name": "UCI World Championship ",
+            "start_time": "18/10/2026 05:30:00",
+            "team_a": "UCI Cycling",
+            "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMEStUN9YI81f6Mhsy9TcCXBXDHA8NT4K7PKs75bqm8g1xvWTCocFq6s&s=10",
+            "team_b": "UCI Cycling ",
+            "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMEStUN9YI81f6Mhsy9TcCXBXDHA8NT4K7PKs75bqm8g1xvWTCocFq6s&s=10"
+        },
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10",
+        "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd|user-agent=Mozilla/5.0",
+                "name": "EUROSPORT CZ - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://spovt.ru/bpk-tv/000002479/tve/index.m3u8|referer=https://spovt.ru",
+                "name": "EUROSPORT EN - AQ ",
+                "token_api": ""
+            }
+        ],
+        "title": "UCI World Championship "
+    },
+    {
         "category": "Cricket",
         "event_info": {
             "end_time": "",
             "event_name": "One Day International Women",
-            "start_time": "06/03/2027 09:00:00",
+            "start_time": "06/03/2027 03:30:00",
             "team_a": "Australia Women",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/213117/image",
             "team_b": "New Zealand Women",
@@ -928,9 +1379,54 @@
     {
         "category": "Cricket",
         "event_info": {
+            "end_time": "19/10/2026 00:00:00",
+            "event_name": "ODI Tri-Series in United Arab Emirates",
+            "start_time": "19/10/2026 11:30:00",
+            "team_a": "Afghanistan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
+            "team_b": "Zimbabwe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+        "streams": [
+            {
+                "drm_key": "b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+                "name": "A SPORTS HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE IN ",
+                "token_api": ""
+            }
+        ],
+        "title": "ODI Tri-Series in United Arab Emirates"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
             "end_time": "",
             "event_name": "ODI Tri-series in Pakistan",
-            "start_time": "25/10/2026 13:30:00",
+            "start_time": "25/10/2026 08:00:00",
             "team_a": "Pakistan",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/187754/image",
             "team_b": "England",
@@ -1015,9 +1511,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "05/11/2026 05:30:00",
+            "end_time": "05/11/2026 00:00:00",
             "event_name": "SAFF Championship",
-            "start_time": "05/11/2026 19:30:00",
+            "start_time": "05/11/2026 14:00:00",
             "team_a": "Bhutan",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/191564/image",
             "team_b": "Bangladesh",
@@ -1039,9 +1535,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "05/11/2026 05:30:00",
+            "end_time": "05/11/2026 00:00:00",
             "event_name": "SAFF Championship",
-            "start_time": "05/11/2026 15:00:00",
+            "start_time": "05/11/2026 09:30:00",
             "team_a": "Pakistan",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/6081/image",
             "team_b": "India",
@@ -1065,7 +1561,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "UFC",
-            "start_time": "24/10/2026 21:30:00",
+            "start_time": "24/10/2026 16:00:00",
             "team_a": "Alexander Volkanovski",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/467404/image",
             "team_b": "Movsar Evloev",
@@ -1089,7 +1585,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "Ballon D'or Show",
-            "start_time": "26/10/2026 22:30:00",
+            "start_time": "26/10/2026 17:00:00",
             "team_a": "Ballon D'or Show",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2HEA0qictCFe6_UdEFYaSDiLoTuGtXyB6oSYgDRZ8w&s=10",
             "team_b": "Ballon D'or Show",
@@ -1111,9 +1607,663 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Royale Union Saint-Gilloise",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4860/image",
+            "team_b": "Hapoel Be'er Sheva",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/5202/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "3e2c2a57c7238fbd1eadc13881867097:64be8a23fc51f1b92472ed9094d23ca1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vwsp6cxoor/out/v1/01386f4b42ae49e19a1251dc43d4aed2/93fd0b6e-4000-4be5-ba22-dc1ce0103bea-cenc.mpd?aws_sessionId=514c2ac1-5ea6-4f3e-a420-797bea8fa62a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "ba077d61bda1a7fb41445b49f523bd18:8ee296d6f387b56fb3830fb706be950c",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/glz0sgcgux/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "8656372408064d6dbcc447b64f9ebde0:da4c4ecd9d73912468872958f19604b9",
+                "drm_scheme": "clearkey",
+                "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/59b9eeb2.isml/.mpd?t=2026-10-22T16:08:00.000",
+                "name": "AUVIO SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FHD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8|referer=https://tapmad.com",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630655.m3u8?txSecret=5d3d0dc395f55e852fd25e597fca909c&txTime=6ADA4E1A|Referer=https://player.online878.com/",
+                "name": "PlayZ TV LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2105079/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=11af79ed915017695f75c6b54a67048a-1792686604851",
+                "name": "SonyLiv",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/I222AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "FK Crvena zvezda",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/5149/image",
+            "team_b": "FC København",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1284/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Lech Poznań",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3121/image",
+            "team_b": "Sunderland",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/41/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "3011c61c1945ef2226e77665d2aaf2db:dcb71a98b41b596523764694a04a6993",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bvgzog7fgk/out/v1/4a006b4401a946dfbd3db3af22511330/ba9f8aa4-8243-45da-a00c-bc92ee194df3-cenc.mpd?aws_sessionId=c065baf6-3007-4b8a-9081-094d6b49a4d3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "667ca2cae44b4470fe5bb256babd4ae6:61b3cd186cff64be99165aa66ce784b3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kagc4duqbp/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "VIX ESPANOL - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "drm_scheme": "clearkey",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/HAY_TV/manifest.mpd",
+                "name": "ON SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UCL FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8|referer=https://tapmad.com",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630576.m3u8?txSecret=876c4e51de6255603d7bd09f85d3072b&txTime=6ADA4D9A|Referer=https://player.online878.com/",
+                "name": "PlayZ TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120301/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5ded1a18866ea723ee09cbfb68346f94-1792685404669",
+                "name": "SONYLIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.59/hls/J666AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "FK Jablonec",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2205/image",
+            "team_b": "Brighton & Hove Albion",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/30/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "AFC Ajax",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2953/image",
+            "team_b": "Atalanta",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2686/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Beşiktaş JK",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3050/image",
+            "team_b": "Crystal Palace",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/7/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "AS Monaco",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1653/image",
+            "team_b": "SC Freiburg",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2538/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "Saudi Pro League",
+            "start_time": "22/10/2026 13:40:00",
+            "team_a": "Al-Hazem",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/168086/image",
+            "team_b": "Al-Fayha",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/168094/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "streams": [],
+        "title": "Saudi Pro League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "FC Ararat-Armenia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/262229/image",
+            "team_b": "AZ Alkmaar",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2950/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "20eae1f3c161a66579f8803f98a56978:6765f243f290a80a319ffda8950deb3b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vspthya0pt/out/v1/5138edfc4f1749748b1cc3bd0aa02431/5d6466cb-3781-4198-bda8-d00dbb270359-cenc.mpd?aws_sessionId=faf58309-c26a-410c-9bba-194079a719a6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "1585ea4786f5c6e5d4ac6e34619bcd4d:97ca052adba4200e81997a97dee89d73",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/smvuy2nydp/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ECL TV - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FHD STREAM",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630503.m3u8?txSecret=468e5e8d571e1f067d18328d17881339&txTime=6ADA4DDA|Referer=https://player.online878.com/",
+                "name": "PlayZ TV LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5ded1a18866ea723ee09cbfb68346f94-1792685404669",
+                "name": "SonyLiv",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.50/hls/J666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Bournemouth",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/60/image",
+            "team_b": "AC Milan",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2692/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Lillestrøm SK",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/664/image",
+            "team_b": "Real Sociedad",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2824/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Ferencváros TC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1925/image",
+            "team_b": "Torreense",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/25787/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "d5408ef606d71e5f3b15350d182cc5e3:66497a3b16f12ac9601377ddb429de11",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yl1jfk8973/out/v1/ecc2938688744dc7920a32164764043c/0aebc420-09fc-4626-8dc1-89e182bc463f-cenc.mpd?aws_sessionId=b41750a1-cd53-472b-b8af-85c2eef8c406|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PARAMOUNT+ FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630551.m3u8?txSecret=5641826a66edb2622cc44833bc70c97c&txTime=6ADA4E05|Referer=https://player.online878.com/",
+                "name": "PlayZ TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2094590/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=11af79ed915017695f75c6b54a67048a-1792686604851",
+                "name": "SONYLIVE ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/I222A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW ",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Lincoln Red Imps",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/126304/image",
+            "team_b": "FC Twente",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2955/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "SK Sturm Graz",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2051/image",
+            "team_b": "Olympique de Marseille",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1641/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "96b317450e2f6e50d7224479445b8e67:171f0c2651a1a3ba0226f4c5630e0ecd",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ajceoztq65/out/v1/9b3176bbc934402794da863d59ea939f/024b1662-0f77-4456-ad5a-96b6912fcc11-cenc.mpd?aws_sessionId=1eac8494-30d3-42f1-b796-adcf59341d23|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "drm_scheme": "clearkey",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/THETHAO_HD/manifest.mpd",
+                "name": "ON SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630665.m3u8?txSecret=bc4d9c8b0bfa7a3c92c1a122c5f8a710&txTime=6ADA4DCA|Referer=https://player.online878.com/",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8|referer=https://tapmad.com",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.50/hls/J666AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120299/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=11af79ed915017695f75c6b54a67048a-1792686604851",
+                "name": "SonyLiv",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "FK Kauno Žalgiris",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/80741/image",
+            "team_b": "SK Brann",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1159/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Celtic",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2352/image",
+            "team_b": "Celta Vigo",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2821/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Getafe",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2859/image",
+            "team_b": "FC Lugano",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2443/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "FC Thun",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2454/image",
+            "team_b": "HNK Hajduk Split",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2036/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "NK Celje",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2413/image",
+            "team_b": "Red Bull Salzburg",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2046/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "Saudi Pro League",
+            "start_time": "22/10/2026 18:00:00",
+            "team_a": "Al-Ahli",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/34469/image",
+            "team_b": "Al-Khaleej",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/167228/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "streams": [],
+        "title": "Saudi Pro League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "FK Borac Banja Luka",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/5235/image",
+            "team_b": "Kuopion Palloseura",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2244/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "FC Nordsjælland",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1292/image",
+            "team_b": "CSKA Sofia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3275/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UCL TV FHD ",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "CONMEBOL Libertadores",
-            "start_time": "23/10/2026 06:00:00",
+            "start_time": "23/10/2026 00:30:00",
             "team_a": "Flamengo",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/5981/image",
             "team_b": "Estudiantes de La Plata",
@@ -1121,37 +2271,427 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "streams": [
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                "name": "beIN SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-                "name": "SPORTDIGITAL FUSSBALL - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
-                "name": "BeIN XTRA - AQ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "CONMEBOL Libertadores"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "OFI Crete",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3241/image",
+            "team_b": "Bayer 04 Leverkusen",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2681/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "GNK Dinamo Zagreb",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2032/image",
+            "team_b": "NEC Nijmegen",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2962/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "FC Iberia 1999",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/116312/image",
+            "team_b": "Mjällby AIF",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1783/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Omonia Nicosia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3395/image",
+            "team_b": "Benfica",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3006/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Trabzonspor",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3051/image",
+            "team_b": "Heart of Midlothian",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2353/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "FC Viktoria Plzeň",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4502/image",
+            "team_b": "Levski Sofia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3273/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "AGF",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1291/image",
+            "team_b": "KF Egnatia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/264619/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Sporting Braga",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2999/image",
+            "team_b": "KAA Gent",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2903/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Inter Club d'Escaldes",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/37946/image",
+            "team_b": "Universitatea Craiova",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/116223/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [
+            {
+                "drm_key": "fd9367b34ce71d805798b5f11f9da057:efdb0e282930947350bf65c7a8ff0d39",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jkhnmrkjst/out/v1/7763e20ac8e440d8b54ab6420ec7e0dd/0d4c4a8f-5ce6-4444-bce8-1592dd1cb0e6-cenc.mpd?aws_sessionId=ea757606-6c0b-43fe-bd78-029f0d10683b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT+ FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UCL TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Olympiacos FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3245/image",
+            "team_b": "AC Sparta Praha",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2218/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "FC Midtjylland",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/1289/image",
+            "team_b": "Sint-Truidense VV",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2895/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Conference League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Pafos FC",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/171626/image",
+            "team_b": "Riga FC",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/162368/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "streams": [
+            {
+                "drm_key": "7565d545a4d1dc289154519391f4cc1f:3f93de86b18f274ba5aa99cfdcb514cd",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jxig6f0jc4/out/v1/f01f5988f43046cea5d68c78d72e21d1/b7e2f84f-5725-477e-a33d-2f99cf2f40d1-cenc.mpd?aws_sessionId=31d41199-7e20-44b2-9650-8795a8b7fc5a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "name": "PlayZ TV LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.50/hls/J666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=11af79ed915017695f75c6b54a67048a-1792686604851",
+                "name": "SONYLIV",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Conference League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 16:45:00",
+            "team_a": "Juventus",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2687/image",
+            "team_b": "Stade Rennais",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1658/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [
+            {
+                "drm_key": "7f6089c1503b446f92f12afc08d371c3:5b474e1cb1287f360757a56c4a1f473b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/5p8ar53otx/out/v1/c4906227ebac417482d7ae23108c3ef9/c7d82f73-f64a-428e-bdac-83f338925556-cenc.mpd?aws_sessionId=aa1ff4a1-34fb-48b5-b4ef-08d32cdb731f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT + - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "7f36cafa2955e26aaed1450bc27e921f:f6373ee35de662aaeccf2c36a9d508cc",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ztybd2ijid/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                "name": "SPORT CZ 1",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "drm_scheme": "clearkey",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/BONGDA_HD/manifest.mpd",
+                "name": "ON FOOTBALL - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58404/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630568.m3u8?txSecret=bb521511c0aaefe6e2cd921d5a0f4db6&txTime=6ADA4D2A|Referer=https://player.online878.com/",
+                "name": "PlayZ TV LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "HD SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2105080/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5ded1a18866ea723ee09cbfb68346f94-1792685404669",
+                "name": "SonyLiv",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.59/hls/J666AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630576.m3u8?txSecret=876c4e51de6255603d7bd09f85d3072b&txTime=6ADA4D9A|Referer=https://player.online878.com/",
+                "name": "PlayZ TV LIVE",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "HD SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120301/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5ded1a18866ea723ee09cbfb68346f94-1792685404669",
+                "name": "SONYLIV ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.59/hls/J666AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW",
+                "token_api": ""
+            }
+        ],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "Jagiellonia Białystok",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/7691/image",
+            "team_b": "RSC Anderlecht",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2900/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "UEFA Europa League",
+            "start_time": "22/10/2026 19:00:00",
+            "team_a": "TSG Hoffenheim",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/2569/image",
+            "team_b": "Olympique Lyonnais",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1649/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "streams": [],
+        "title": "UEFA Europa League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga 2",
-            "start_time": "24/10/2026 19:45:00",
+            "start_time": "24/10/2026 14:15:00",
             "team_a": "Leganés",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2845/image",
             "team_b": "Mallorca",
@@ -1173,9 +2713,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Bromley",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/180/image",
             "team_b": "Peterborough United",
@@ -1197,9 +2737,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 01:00:00",
+            "start_time": "24/10/2026 19:30:00",
             "team_a": "Vitória",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1962/image",
             "team_b": "Athletico",
@@ -1221,9 +2761,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "Serie A",
-            "start_time": "25/10/2026 17:00:00",
+            "start_time": "25/10/2026 11:30:00",
             "team_a": "Inter",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2697/image",
             "team_b": "Fiorentina",
@@ -1245,9 +2785,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Oxford United",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/95/image",
             "team_b": "Bradford City",
@@ -1269,9 +2809,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 03:00:00",
+            "start_time": "24/10/2026 21:30:00",
             "team_a": "Palmeiras",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1963/image",
             "team_b": "Red Bull Bragantino",
@@ -1293,9 +2833,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Ligue 1",
-            "start_time": "24/10/2026 20:45:00",
+            "start_time": "24/10/2026 15:15:00",
             "team_a": "Toulouse",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1681/image",
             "team_b": "Troyes",
@@ -1309,9 +2849,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Serie A",
-            "start_time": "25/10/2026 00:15:00",
+            "start_time": "24/10/2026 18:45:00",
             "team_a": "Lazio",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2699/image",
             "team_b": "Parma",
@@ -1319,15 +2859,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Serie A"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "MLS",
-            "start_time": "25/10/2026 03:00:00",
+            "start_time": "24/10/2026 21:30:00",
             "team_a": "New York Red Bulls",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2506/image",
             "team_b": "Inter Miami CF",
@@ -1335,15 +2883,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "MLS"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga 2",
-            "start_time": "24/10/2026 22:00:00",
+            "start_time": "24/10/2026 16:30:00",
             "team_a": "Girona FC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/24264/image",
             "team_b": "Celta Fortuna",
@@ -1365,9 +2921,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Reading",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/28/image",
             "team_b": "Barnsley",
@@ -1389,9 +2945,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Blackburn Rovers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/46/image",
             "team_b": "Wrexham",
@@ -1399,15 +2955,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "AFC Wimbledon",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/23957/image",
             "team_b": "Wycombe Wanderers",
@@ -1429,9 +2993,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Eliteserien",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Bodø/Glimt",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/656/image",
             "team_b": "Vålerenga IF",
@@ -1439,15 +3003,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/20/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Eliteserien"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "25/10/2026 18:30:00",
+            "start_time": "25/10/2026 13:00:00",
             "team_a": "Athletic Club",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2825/image",
             "team_b": "Getafe",
@@ -1455,15 +3027,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Wolverhampton",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3/image",
             "team_b": "Watford",
@@ -1471,15 +3051,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Ligue 1",
-            "start_time": "25/10/2026 00:15:00",
+            "start_time": "24/10/2026 18:45:00",
             "team_a": "RC Lens",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1648/image",
             "team_b": "Paris FC",
@@ -1487,15 +3075,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Ligue 1"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Doncaster Rovers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/84/image",
             "team_b": "Sheffield Wednesday",
@@ -1517,9 +3113,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Women's Super League",
-            "start_time": "24/10/2026 21:45:00",
+            "start_time": "24/10/2026 16:15:00",
             "team_a": "Brighton",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/266376/image",
             "team_b": "West Ham",
@@ -1527,15 +3123,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Women's Super League"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "25/10/2026 00:00:00",
+            "start_time": "24/10/2026 18:30:00",
             "team_a": "1. FC Nürnberg",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2523/image",
             "team_b": "1. FC Kaiserslautern",
@@ -1557,9 +3161,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "24/10/2026 19:45:00",
+            "start_time": "24/10/2026 14:15:00",
             "team_a": "Real Racing Club",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2835/image",
             "team_b": "Espanyol",
@@ -1567,23 +3171,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "Women's Super League",
-            "start_time": "25/10/2026 17:30:00",
+            "start_time": "25/10/2026 12:00:00",
             "team_a": "Crystal Palace",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/234204/image",
             "team_b": "Chelsea FC",
@@ -1591,22 +3187,6 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [],
-        "title": "Women's Super League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00",
-            "event_name": "LaLiga 2",
-            "start_time": "25/10/2026 18:30:00",
-            "team_a": "CE Sabadell",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/24335/image",
-            "team_b": "CD Tenerife",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2822/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "streams": [
             {
                 "drm_key": "",
@@ -1616,14 +3196,30 @@
                 "token_api": ""
             }
         ],
+        "title": "Women's Super League"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "25/10/2026 00:00:00",
+            "event_name": "LaLiga 2",
+            "start_time": "25/10/2026 13:00:00",
+            "team_a": "CE Sabadell",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/24335/image",
+            "team_b": "CD Tenerife",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/2822/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "streams": [],
         "title": "LaLiga 2"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 03:00:00",
+            "start_time": "24/10/2026 21:30:00",
             "team_a": "Vasco da Gama",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1974/image",
             "team_b": "Corinthians",
@@ -1645,9 +3241,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Cardiff City",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/61/image",
             "team_b": "Birmingham City",
@@ -1655,23 +3251,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Saudi Pro League",
-            "start_time": "24/10/2026 20:35:00",
+            "start_time": "24/10/2026 15:05:00",
             "team_a": "Al-Kholood",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/269199/image",
             "team_b": "Al-Ettifaq",
@@ -1685,9 +3273,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Burton Albion",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/134/image",
             "team_b": "Leyton Orient",
@@ -1701,9 +3289,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Liga Portugal Betclic",
-            "start_time": "24/10/2026 22:30:00",
+            "start_time": "24/10/2026 17:00:00",
             "team_a": "FC Alverca",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/190328/image",
             "team_b": "FC Arouca",
@@ -1717,9 +3305,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 22:00:00",
+            "start_time": "24/10/2026 16:30:00",
             "team_a": "Borussia Dortmund",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2673/image",
             "team_b": "Eintracht Frankfurt",
@@ -1733,9 +3321,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Lincoln City",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/92/image",
             "team_b": "Burnley",
@@ -1749,9 +3337,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Blackpool",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/67/image",
             "team_b": "Mansfield Town",
@@ -1765,9 +3353,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 01:00:00",
+            "start_time": "24/10/2026 19:30:00",
             "team_a": "Mirassol",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/21982/image",
             "team_b": "São Paulo",
@@ -1781,9 +3369,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Saudi Pro League",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Neom SC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/530631/image",
             "team_b": "Abha",
@@ -1797,9 +3385,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "24/10/2026 22:00:00",
+            "start_time": "24/10/2026 16:30:00",
             "team_a": "Valencia",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2828/image",
             "team_b": "Villarreal",
@@ -1813,9 +3401,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "25/10/2026 18:00:00",
+            "start_time": "25/10/2026 12:30:00",
             "team_a": "Eintracht Braunschweig",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2557/image",
             "team_b": "Hannover 96",
@@ -1829,9 +3417,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Saudi Pro League",
-            "start_time": "24/10/2026 23:30:00",
+            "start_time": "24/10/2026 18:00:00",
             "team_a": "Al-Riyadh",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/168088/image",
             "team_b": "Al-Taawoun",
@@ -1845,9 +3433,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Scottish Premiership",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Rangers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2351/image",
             "team_b": "St. Johnstone",
@@ -1861,9 +3449,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga 2",
-            "start_time": "25/10/2026 00:30:00",
+            "start_time": "24/10/2026 19:00:00",
             "team_a": "Almería",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2858/image",
             "team_b": "Real Oviedo",
@@ -1877,9 +3465,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "25/10/2026 18:00:00",
+            "start_time": "25/10/2026 12:30:00",
             "team_a": "VfL Osnabrück",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2581/image",
             "team_b": "SpVgg Greuther Fürth",
@@ -1893,9 +3481,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 01:00:00",
+            "start_time": "24/10/2026 19:30:00",
             "team_a": "Internacional",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1966/image",
             "team_b": "Botafogo",
@@ -1909,9 +3497,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Preston North End",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/21/image",
             "team_b": "West Bromwich Albion",
@@ -1925,9 +3513,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga 2",
-            "start_time": "24/10/2026 22:00:00",
+            "start_time": "24/10/2026 16:30:00",
             "team_a": "UD Las Palmas",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/6577/image",
             "team_b": "Real Sociedad B",
@@ -1941,9 +3529,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Premier League",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Coventry City",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/11/image",
             "team_b": "Fulham",
@@ -1957,9 +3545,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Queens Park Rangers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1/image",
             "team_b": "Swansea City",
@@ -1973,9 +3561,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Liga Portugal Betclic",
-            "start_time": "25/10/2026 01:00:00",
+            "start_time": "24/10/2026 19:30:00",
             "team_a": "Gil Vicente",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3010/image",
             "team_b": "FC Porto",
@@ -1989,9 +3577,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Notts County",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/56/image",
             "team_b": "Stockport County",
@@ -2005,9 +3593,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 05:30:00",
+            "start_time": "25/10/2026 00:00:00",
             "team_a": "Santos",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1968/image",
             "team_b": "Bahia",
@@ -2021,9 +3609,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Liga Portugal Betclic",
-            "start_time": "24/10/2026 20:00:00",
+            "start_time": "24/10/2026 14:30:00",
             "team_a": "CF Estrela Amadora",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3035/image",
             "team_b": "Casa Pia",
@@ -2037,9 +3625,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "25/10/2026 04:00:00",
+            "start_time": "24/10/2026 22:30:00",
             "team_a": "Chapecoense",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/21845/image",
             "team_b": "Fluminense",
@@ -2053,9 +3641,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "Indian Super League",
-            "start_time": "25/10/2026 17:00:00",
+            "start_time": "25/10/2026 11:30:00",
             "team_a": "Churchill Brothers SC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/40078/image",
             "team_b": "Punjab FC",
@@ -2069,9 +3657,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "25/10/2026 18:00:00",
+            "start_time": "25/10/2026 12:30:00",
             "team_a": "Holstein Kiel",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2573/image",
             "team_b": "SG Dynamo Dresden",
@@ -2085,9 +3673,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Serie A",
-            "start_time": "24/10/2026 21:30:00",
+            "start_time": "24/10/2026 16:00:00",
             "team_a": "SSC Napoli",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2714/image",
             "team_b": "AS Roma",
@@ -2101,9 +3689,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "25/10/2026 00:30:00",
+            "start_time": "24/10/2026 19:00:00",
             "team_a": "Atlético Madrid",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2836/image",
             "team_b": "Deportivo de A Coruña",
@@ -2117,9 +3705,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "25/10/2026 05:30:00",
+            "end_time": "25/10/2026 00:00:00",
             "event_name": "Scottish Premiership",
-            "start_time": "25/10/2026 17:30:00",
+            "start_time": "25/10/2026 12:00:00",
             "team_a": "Hibernian",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2354/image",
             "team_b": "Celtic",
@@ -2133,9 +3721,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Premier League",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Arsenal",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/42/image",
             "team_b": "Everton",
@@ -2149,9 +3737,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Cambridge United",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/63/image",
             "team_b": "Plymouth Argyle",
@@ -2165,9 +3753,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Indian Super League",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Odisha FC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/174592/image",
             "team_b": "NorthEast United FC",
@@ -2181,9 +3769,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Stevenage",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/133/image",
             "team_b": "Milton Keynes Dons",
@@ -2197,9 +3785,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Premier League",
-            "start_time": "24/10/2026 22:00:00",
+            "start_time": "24/10/2026 16:30:00",
             "team_a": "Chelsea",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/38/image",
             "team_b": "Tottenham Hotspur",
@@ -2213,9 +3801,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "Stoke City",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/29/image",
             "team_b": "Bristol City",
@@ -2229,9 +3817,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 19:30:00",
+            "start_time": "24/10/2026 14:00:00",
             "team_a": "West Ham United",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/37/image",
             "team_b": "Southampton",
@@ -2245,9 +3833,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Women's Super League",
-            "start_time": "24/10/2026 17:15:00",
+            "start_time": "24/10/2026 11:45:00",
             "team_a": "Tottenham FC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/273547/image",
             "team_b": "Arsenal",
@@ -2269,9 +3857,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 19:00:00",
+            "start_time": "24/10/2026 13:30:00",
             "team_a": "RB Leipzig",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/36360/image",
             "team_b": "SV 07 Elversberg",
@@ -2293,9 +3881,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "24/10/2026 16:30:00",
+            "start_time": "24/10/2026 11:00:00",
             "team_a": "1. FC Heidenheim",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/5885/image",
             "team_b": "Energie Cottbus",
@@ -2317,9 +3905,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Premier League",
-            "start_time": "24/10/2026 00:30:00",
+            "start_time": "23/10/2026 19:00:00",
             "team_a": "Ipswich Town",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/32/image",
             "team_b": "Nottingham Forest",
@@ -2341,9 +3929,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Indian Super League",
-            "start_time": "23/10/2026 17:00:00",
+            "start_time": "23/10/2026 11:30:00",
             "team_a": "Inter Kashi FC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/494686/image",
             "team_b": "East Bengal FC",
@@ -2365,9 +3953,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 00:00:00",
+            "start_time": "23/10/2026 18:30:00",
             "team_a": "VfB Stuttgart",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2677/image",
             "team_b": "Borussia M'gladbach",
@@ -2389,9 +3977,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 17:00:00",
+            "start_time": "24/10/2026 11:30:00",
             "team_a": "Portsmouth",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2/image",
             "team_b": "Millwall",
@@ -2413,9 +4001,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Liga Portugal Betclic",
-            "start_time": "24/10/2026 01:15:00",
+            "start_time": "23/10/2026 19:45:00",
             "team_a": "Vitória SC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3009/image",
             "team_b": "CS Marítimo",
@@ -2437,9 +4025,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 17:00:00",
+            "start_time": "24/10/2026 11:30:00",
             "team_a": "Sheffield United",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/15/image",
             "team_b": "Derby County",
@@ -2461,9 +4049,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "23/10/2026 22:00:00",
+            "start_time": "23/10/2026 16:30:00",
             "team_a": "VfL Bochum 1848",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2542/image",
             "team_b": "VfL Wolfsburg",
@@ -2485,9 +4073,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 19:00:00",
+            "start_time": "24/10/2026 13:30:00",
             "team_a": "1. FC Köln",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2671/image",
             "team_b": "FC Schalke 04",
@@ -2495,23 +4083,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Saudi Pro League",
-            "start_time": "23/10/2026 21:00:00",
+            "start_time": "23/10/2026 15:30:00",
             "team_a": "Al-Ittihad",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/34315/image",
             "team_b": "Diriyah",
@@ -2533,9 +4113,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "24/10/2026 16:30:00",
+            "start_time": "24/10/2026 11:00:00",
             "team_a": "Hertha BSC",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2528/image",
             "team_b": "Arminia Bielefeld",
@@ -2543,23 +4123,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "2. Bundesliga"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Saudi Pro League",
-            "start_time": "23/10/2026 23:30:00",
+            "start_time": "23/10/2026 18:00:00",
             "team_a": "Al-Qadsiah",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/56027/image",
             "team_b": "Al-Hilal",
@@ -2581,9 +4153,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "AFC Challenge League",
-            "start_time": "23/10/2026 23:00:00",
+            "start_time": "23/10/2026 17:30:00",
             "team_a": "FC Goa",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/174594/image",
             "team_b": "Al Qadsia SC",
@@ -2591,23 +4163,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22795/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Challenge League"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 17:00:00",
+            "start_time": "24/10/2026 11:30:00",
             "team_a": "Charlton Athletic",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/47/image",
             "team_b": "Norwich City",
@@ -2615,23 +4179,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Serie A",
-            "start_time": "24/10/2026 18:30:00",
+            "start_time": "24/10/2026 13:00:00",
             "team_a": "Cagliari",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2719/image",
             "team_b": "Bologna",
@@ -2639,22 +4195,6 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
-        "title": "Serie A"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "24/10/2026 05:30:00",
-            "event_name": "League One",
-            "start_time": "24/10/2026 17:00:00",
-            "team_a": "Luton Town",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/72/image",
-            "team_b": "Leicester City",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/31/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
         "streams": [
             {
                 "drm_key": "",
@@ -2664,14 +4204,30 @@
                 "token_api": ""
             }
         ],
+        "title": "Serie A"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "League One",
+            "start_time": "24/10/2026 11:30:00",
+            "team_a": "Luton Town",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/72/image",
+            "team_b": "Leicester City",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/31/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "streams": [],
         "title": "League One"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Serie A",
-            "start_time": "24/10/2026 18:30:00",
+            "start_time": "24/10/2026 13:00:00",
             "team_a": "Como",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2704/image",
             "team_b": "Sassuolo",
@@ -2693,9 +4249,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "23/10/2026 22:00:00",
+            "start_time": "23/10/2026 16:30:00",
             "team_a": "Darmstadt 98",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2576/image",
             "team_b": "FC St. Pauli",
@@ -2703,23 +4259,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "2. Bundesliga"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga 2",
-            "start_time": "24/10/2026 17:30:00",
+            "start_time": "24/10/2026 12:00:00",
             "team_a": "Córdoba",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2850/image",
             "team_b": "Eibar",
@@ -2727,23 +4275,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga 2"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 19:00:00",
+            "start_time": "24/10/2026 13:30:00",
             "team_a": "1. FSV Mainz 05",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2556/image",
             "team_b": "SV Werder Bremen",
@@ -2751,23 +4291,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 19:00:00",
+            "start_time": "24/10/2026 13:30:00",
             "team_a": "SC Paderborn 07",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2561/image",
             "team_b": "Hamburger SV",
@@ -2781,9 +4313,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Championship",
-            "start_time": "24/10/2026 00:30:00",
+            "start_time": "23/10/2026 19:00:00",
             "team_a": "Bolton Wanderers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/5/image",
             "team_b": "Middlesbrough",
@@ -2797,9 +4329,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Saudi Pro League",
-            "start_time": "23/10/2026 19:00:00",
+            "start_time": "23/10/2026 13:30:00",
             "team_a": "Al Faisaly",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/56035/image",
             "team_b": "Al-Nassr",
@@ -2813,9 +4345,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Premier League",
-            "start_time": "24/10/2026 17:00:00",
+            "start_time": "24/10/2026 11:30:00",
             "team_a": "Aston Villa",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/40/image",
             "team_b": "Manchester City",
@@ -2829,9 +4361,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "League One",
-            "start_time": "24/10/2026 17:00:00",
+            "start_time": "24/10/2026 11:30:00",
             "team_a": "Huddersfield Town",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/59/image",
             "team_b": "Wigan Athletic",
@@ -2845,9 +4377,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Serie A",
-            "start_time": "24/10/2026 00:15:00",
+            "start_time": "23/10/2026 18:45:00",
             "team_a": "Torino",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2696/image",
             "team_b": "Monza",
@@ -2861,9 +4393,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "2. Bundesliga",
-            "start_time": "24/10/2026 16:30:00",
+            "start_time": "24/10/2026 11:00:00",
             "team_a": "1. FC Magdeburg",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2591/image",
             "team_b": "Karlsruher SC",
@@ -2877,9 +4409,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "24/10/2026 00:30:00",
+            "start_time": "23/10/2026 19:00:00",
             "team_a": "Deportivo Alavés",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2885/image",
             "team_b": "Málaga CF",
@@ -2893,9 +4425,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Campeonato Brasileiro Série A",
-            "start_time": "24/10/2026 04:30:00",
+            "start_time": "23/10/2026 23:00:00",
             "team_a": "Cruzeiro",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1954/image",
             "team_b": "Remo",
@@ -2909,9 +4441,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "Ligue 1",
-            "start_time": "24/10/2026 00:15:00",
+            "start_time": "23/10/2026 18:45:00",
             "team_a": "Stade Brestois",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1715/image",
             "team_b": "Nice",
@@ -2925,9 +4457,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "LaLiga 2",
-            "start_time": "24/10/2026 00:00:00",
+            "start_time": "23/10/2026 18:30:00",
             "team_a": "Granada",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/33779/image",
             "team_b": "Real Valladolid",
@@ -2941,9 +4473,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Ligue 2",
-            "start_time": "24/10/2026 17:30:00",
+            "start_time": "24/10/2026 12:00:00",
             "team_a": "Dijon",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1686/image",
             "team_b": "Rodez AF",
@@ -2957,9 +4489,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Ligue 2",
-            "start_time": "24/10/2026 17:30:00",
+            "start_time": "24/10/2026 12:00:00",
             "team_a": "Montpellier",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1642/image",
             "team_b": "Red Star FC",
@@ -2973,9 +4505,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "Bundesliga",
-            "start_time": "24/10/2026 19:00:00",
+            "start_time": "24/10/2026 13:30:00",
             "team_a": "FC Augsburg",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2600/image",
             "team_b": "1. FC Union Berlin",
@@ -2989,9 +4521,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/10/2026 05:30:00",
+            "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga",
-            "start_time": "24/10/2026 17:30:00",
+            "start_time": "24/10/2026 12:00:00",
             "team_a": "Rayo Vallecano",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2818/image",
             "team_b": "Elche",
@@ -3005,9 +4537,54 @@
     {
         "category": "Basketball",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "NBL",
+            "start_time": "22/10/2026 08:30:00",
+            "team_a": "Illawarra Hawks",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/3613/image",
+            "team_b": "Sydney Kings",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/3614/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "ESPN SD",
+                "token_api": ""
+            }
+        ],
+        "title": "NBL"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "NBA",
-            "start_time": "23/10/2026 07:00:00",
+            "start_time": "23/10/2026 01:30:00",
             "team_a": "Oklahoma City Thunder",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3418/image",
             "team_b": "Denver Nuggets",
@@ -3043,9 +4620,9 @@
     {
         "category": "Basketball",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "NBA",
-            "start_time": "23/10/2026 04:30:00",
+            "start_time": "22/10/2026 23:00:00",
             "team_a": "Philadelphia 76ers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3420/image",
             "team_b": "Cleveland Cavaliers",
@@ -3090,7 +4667,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 05:30:00",
+            "start_time": "23/10/2026 00:00:00",
             "team_a": "St. Louis Blues",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3695/image",
             "team_b": "Vegas Golden Knights",
@@ -3114,7 +4691,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 07:30:00",
+            "start_time": "23/10/2026 02:00:00",
             "team_a": "Seattle Kraken",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/381707/image",
             "team_b": "Utah Mammoth",
@@ -3138,7 +4715,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 06:30:00",
+            "start_time": "23/10/2026 01:00:00",
             "team_a": "Calgary Flames",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3679/image",
             "team_b": "Minnesota Wild",
@@ -3162,7 +4739,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 07:30:00",
+            "start_time": "23/10/2026 02:00:00",
             "team_a": "Vancouver Canucks",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3692/image",
             "team_b": "Detroit Red Wings",
@@ -3186,7 +4763,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 04:30:00",
+            "start_time": "22/10/2026 23:00:00",
             "team_a": "Toronto Maple Leafs",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3693/image",
             "team_b": "New York Rangers",
@@ -3224,7 +4801,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 04:30:00",
+            "start_time": "22/10/2026 23:00:00",
             "team_a": "Pittsburgh Penguins",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3697/image",
             "team_b": "Florida Panthers",
@@ -3248,7 +4825,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 06:30:00",
+            "start_time": "23/10/2026 01:00:00",
             "team_a": "Edmonton Oilers",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3686/image",
             "team_b": "Carolina Hurricanes",
@@ -3270,9 +4847,9 @@
     {
         "category": "American football",
         "event_info": {
-            "end_time": "23/10/2026 05:30:00",
+            "end_time": "23/10/2026 00:00:00",
             "event_name": "NFL",
-            "start_time": "23/10/2026 05:45:00",
+            "start_time": "23/10/2026 00:15:00",
             "team_a": "Chicago Bears",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/4391/image",
             "team_b": "New England Patriots",
@@ -3288,7 +4865,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 05:00:00",
+            "start_time": "22/10/2026 23:30:00",
             "team_a": "New York Islanders",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3703/image",
             "team_b": "Los Angeles Kings",
@@ -3312,7 +4889,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 04:30:00",
+            "start_time": "22/10/2026 23:00:00",
             "team_a": "New Jersey Devils",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3704/image",
             "team_b": "Anaheim Ducks",
@@ -3336,7 +4913,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 05:30:00",
+            "start_time": "23/10/2026 00:00:00",
             "team_a": "Dallas Stars",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3684/image",
             "team_b": "Winnipeg Jets",
@@ -3360,7 +4937,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 04:30:00",
+            "start_time": "22/10/2026 23:00:00",
             "team_a": "Ottawa Senators",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3700/image",
             "team_b": "San Jose Sharks",
@@ -3384,7 +4961,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "NHL",
-            "start_time": "23/10/2026 04:30:00",
+            "start_time": "22/10/2026 23:00:00",
             "team_a": "Boston Bruins",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/3677/image",
             "team_b": "Nashville Predators",
@@ -3392,15 +4969,23 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
+    },
+    {
+        "category": "Basketball",
+        "event_info": {
+            "end_time": "22/10/2026 00:00:00",
+            "event_name": "WNBA",
+            "start_time": "22/10/2026 00:00:00",
+            "team_a": "Atlanta Dream",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/35545/image",
+            "team_b": "Golden State Valkyries",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/1041936/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "streams": [],
+        "title": "WNBA"
     }
 ]
