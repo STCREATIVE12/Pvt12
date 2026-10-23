@@ -34,4 +34,4 @@ jobs:
       with:
         commit_message: "🤖 Auto-update livxow_live_events.json via GitHub Actions"
         branch: main
-        file_pattern: "ive-events.json"
+        file_pattern: "live-events.json"
