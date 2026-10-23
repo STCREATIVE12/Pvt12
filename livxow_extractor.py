@@ -6,7 +6,7 @@ from datetime import datetime, timezone, timedelta
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
-# Firebase Config (Fallbacks provided for direct execution or GitHub Actions secrets)
+# Firebase Config
 FIREBASE_CONFIG = {
     "projectNumber": os.getenv("FIREBASE_PROJECT_NUMBER", "459539398637"),
     "appId": os.getenv("FIREBASE_APP_ID", "1:459539398637:android:96270124df48971af131e4"),
@@ -28,9 +28,6 @@ SHUFFLED_ALPHABET = "fFgGjJkKaApPbBmMoOzZeEnNcCdDrRqQtTvVuUxXhHiIwWyYlLsS"
 
 # Build character substitution mapping table
 decode_table = {ord(SHUFFLED_ALPHABET[i]): ord(STANDARD_ALPHABET[i]) for i in range(len(SHUFFLED_ALPHABET))}
-
-# IST Timezone Offset (+5:30)
-IST_OFFSET = timedelta(hours=5, minutes=30)
 
 def decrypt_substitution(s):
     return "".join([chr(decode_table.get(ord(ch), ord(ch))) for ch in s])
@@ -57,26 +54,32 @@ def decrypt_livxow_payload(raw):
         print(f"[-] Decryption error: {e}")
         return raw
 
-def convert_to_ist_24h(time_val):
-    """UTC ya raw time value ko 24-hour IST format me convert karta hai"""
+def convert_to_ist_formatted(time_val):
+    """UTC time string ko IST (+0530) format me convert karta hai"""
     if not time_val:
         return time_val
     try:
-        # Agar timestamp numeric (seconds ya milliseconds) me ho
-        if isinstance(time_val, (int, float)):
-            if time_val > 1e11:  # Milliseconds check
-                time_val = time_val / 1000.0
-            dt_utc = datetime.fromtimestamp(time_val, tz=timezone.utc)
-            dt_ist = dt_utc + IST_OFFSET
-            return dt_ist.strftime("%Y-%m-%d %H:%M:%S")
-        
-        # Agar string format me ho
         time_str = str(time_val).strip()
-        for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d %H:%M", "%H:%M:%S", "%H:%M", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M:%S%z"):
+        # Alag-alag formats ko parse karne ki koshish
+        formats = (
+            "%Y/%m/%d %H:%M:%S %z", "%Y-%m-%d %H:%M:%S %z",
+            "%Y/%m/%d %H:%M:%S", "%Y-%m-%d %H:%M:%S",
+            "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S"
+        )
+        
+        for fmt in formats:
             try:
-                dt = datetime.strptime(time_str.split('.')[0].replace('Z', ''), fmt.replace('%z', ''))
-                dt_ist = dt + IST_OFFSET
-                return dt_ist.strftime("%H:%M" if len(fmt) <= 6 else "%Y-%m-%d %H:%M")
+                if '%z' in fmt or '+' in time_str or 'Z' in time_str:
+                    clean_str = time_str.replace('Z', '+0000')
+                    dt = datetime.strptime(clean_str, fmt if '%z' in fmt else "%Y/%m/%d %H:%M:%S %z")
+                else:
+                    dt = datetime.strptime(time_str, fmt)
+                    dt = dt.replace(tzinfo=timezone.utc)
+                
+                # Convert to IST (+5:30)
+                ist_tz = timezone(timedelta(hours=5, minutes=30))
+                dt_ist = dt.astimezone(ist_tz)
+                return dt_ist.strftime("%Y/%m/%d %H:%M:%S +0530")
             except ValueError:
                 continue
         return time_str
@@ -150,7 +153,7 @@ def fetch_and_decrypt_file(filename):
     return None
 
 def main():
-    print("[+] Starting Enhanced LivXow Live Events Extractor with IST Time Conversion...")
+    print("[+] Starting Enhanced LivXow Live Events Extractor with IST Start/End Time conversion...")
     
     # 1. Fetch Categories
     categories = fetch_and_decrypt_file("categories.txt")
@@ -170,14 +173,15 @@ def main():
             elif isinstance(item, dict):
                 event_list.append(item)
 
-    print(f"[+] Found {len(event_list)} events. Resolving stream links & adjusting times...")
+    print(f"[+] Found {len(event_list)} events. Converting StartTime/endTime to IST & resolving streams...")
     
     processed_events = []
     for ev in event_list:
-        # Time conversion check for common keys in events
-        for time_key in ["time", "start_time", "timestamp", "date", "match_time"]:
-            if time_key in ev:
-                ev[f"ist_{time_key}"] = convert_to_ist_24h(ev[time_key])
+        # StartTime, endTime ya kisi bhi time field ko IST me convert karna
+        for key in list(ev.keys()):
+            if any(k in key.lower() for k in ["start", "end", "time", "date"]):
+                if isinstance(ev[key], str) and len(ev[key]) > 5:
+                    ev[key] = convert_to_ist_formatted(ev[key])
         
         # Resolve stream links
         links_field = ev.get("links")
@@ -224,7 +228,8 @@ def main():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(master_data, f, indent=4, ensure_ascii=False)
         
-    print(f"[+] Success! Live events JSON with 24-hour IST times saved to {output_file}")
+    print(f"[+] Success! Saved with IST converted StartTime/endTime to {output_file}")
 
 if __name__ == "__main__":
     main()
+    
