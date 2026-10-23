@@ -57,7 +57,7 @@ def decrypt_livxow_payload(raw):
 def convert_to_ist_target_format(date_str, time_str):
     """DD/MM/YYYY aur HH:MM:SS ko combine karke UTC se IST (+0530) format me banata hai"""
     if not date_str or not time_str:
-        return None
+        return ""
     try:
         dt_str = f"{date_str.strip()} {time_str.strip()}"
         for fmt in ("%d/%m/%Y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y/%m/%d %H:%M:%S"):
@@ -68,12 +68,12 @@ def convert_to_ist_target_format(date_str, time_str):
                 # Convert to IST (+5:30)
                 ist_tz = timezone(timedelta(hours=5, minutes=30))
                 dt_ist = dt.astimezone(ist_tz)
-                return dt_ist.strftime("%Y/%m/%d %H:%M:%S +0530")
+                return dt_ist.strftime("%d/%m/%Y %H:%M:%S +0530")
             except ValueError:
                 continue
         return f"{date_str} {time_str} +0530"
     except Exception:
-        return None
+        return ""
 
 def fetch_firebase_base_url():
     endpoint = f"https://firebaseremoteconfig.googleapis.com/v1/projects/{FIREBASE_CONFIG['projectNumber']}/namespaces/firebase:fetch"
@@ -144,7 +144,6 @@ def fetch_and_decrypt_file(filename):
 def main():
     print("[+] Starting Enhanced LivXow Live Events Extractor...")
     
-    # Events List Fetch karna (Categories hata diya gaya hai)
     events_raw = fetch_and_decrypt_file("events.txt")
     
     event_list = []
@@ -159,23 +158,29 @@ def main():
             elif isinstance(item, dict):
                 event_list.append(item)
 
-    print(f"[+] Found {len(event_list)} events. Generating StartTime/endTime with +0530 & resolving streams...")
+    print(f"[+] Found {len(event_list)} events. Formatting to custom schema with IST...")
     
-    processed_events = []
-    for ev in event_list:
-        # Generate StartTime from date & time fields with +0530
-        start_date = ev.get("date")
-        start_time = ev.get("time")
-        if start_date and start_time:
-            ev["StartTime"] = convert_to_ist_target_format(start_date, start_time)
-            
-        # Generate endTime from end_date/date & end_time fields with +0530
-        end_date = ev.get("end_date") or start_date
-        end_time = ev.get("end_time")
-        if end_date and end_time:
-            ev["endTime"] = convert_to_ist_target_format(end_date, end_time)
+    formatted_events = []
+    for idx, ev in enumerate(event_list, start=1):
+        # Raw fields mapping
+        category = ev.get("category", "Cricket")
+        event_name = ev.get("eventName") or ev.get("title") or "Live Event"
+        event_logo = ev.get("eventLogo", "")
+        team_a = ev.get("teamAName", "")
+        team_b = ev.get("teamBName", "")
+        team_a_flag = ev.get("teamAFlag", "")
+        team_b_flag = ev.get("teamBFlag", "")
         
-        # Resolve stream links
+        # Date & Time conversion
+        start_date = ev.get("date", "")
+        start_time = ev.get("time", "")
+        start_time_ist = convert_to_ist_target_format(start_date, start_time)
+        
+        end_date = ev.get("end_date", start_date)
+        end_time = ev.get("end_time", "")
+        end_time_ist = convert_to_ist_target_format(end_date, end_time) if end_time else ""
+
+        # Resolve streams
         links_field = ev.get("links")
         slug = None
         if links_field:
@@ -193,34 +198,46 @@ def main():
                 if isinstance(stream_data, list):
                     for s_item in stream_data:
                         if isinstance(s_item, dict):
-                            if "channel" in s_item:
+                            channel_info = s_item.get("channel") or s_item.get("stream") or s_item
+                            if isinstance(channel_info, str):
                                 try:
-                                    streams.append(json.loads(s_item["channel"]))
+                                    channel_info = json.loads(channel_info)
                                 except:
-                                    streams.append(s_item["channel"])
-                            elif "stream" in s_item:
-                                try:
-                                    streams.append(json.loads(s_item["stream"]))
-                                except:
-                                    streams.append(s_item["stream"])
-                            else:
-                                streams.append(s_item)
-                elif isinstance(stream_data, dict):
-                    streams.append(stream_data)
+                                    channel_info = {"name": "Stream", "link": channel_info}
+                            
+                            if isinstance(channel_info, dict):
+                                streams.append({
+                                    "drm_key": channel_info.get("drm_key", ""),
+                                    "drm_scheme": channel_info.get("drm_scheme", ""),
+                                    "link": channel_info.get("link", channel_info.get("url", "")),
+                                    "name": channel_info.get("name", "Stream"),
+                                    "token_api": channel_info.get("token_api", "")
+                                })
 
-        ev["resolved_streams"] = streams
-        processed_events.append(ev)
+        # Target Schema Object
+        formatted_event = {
+            "category": category,
+            "event_info": {
+                "end_time": end_time_ist,
+                "event_name": event_name,
+                "start_time": start_time_ist,
+                "team_a": team_a,
+                "team_a_flag": team_a_flag,
+                "team_b": team_b,
+                "team_b_flag": team_b_flag
+            },
+            "id": idx,
+            "image": event_logo,
+            "streams": streams,
+            "title": event_name
+        }
+        formatted_events.append(formatted_event)
 
-    # Master data structure (Categories removed, only events kept)
-    master_data = {
-        "events": processed_events
-    }
-    
     output_file = "livxow_live_events.json"
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(master_data, f, indent=4, ensure_ascii=False)
+        json.dump(formatted_events, f, indent=4, ensure_ascii=False)
         
-    print(f"[+] Success! Clean events with StartTime/endTime (+0530) saved to {output_file}")
+    print(f"[+] Success! Custom formatted events saved to {output_file}")
 
 if __name__ == "__main__":
     main()
