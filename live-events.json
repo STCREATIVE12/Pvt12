@@ -1476,15 +1476,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -1500,7 +1492,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Ligue 1"
     },
     {
@@ -1548,7 +1548,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga 2"
     },
     {
@@ -1684,7 +1692,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -2404,7 +2420,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Women's Super League"
     },
     {
@@ -2420,7 +2444,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Bundesliga"
     },
     {
@@ -2612,15 +2644,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Serie A"
     },
     {
@@ -2636,15 +2660,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2740,15 +2756,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
@@ -2940,15 +2948,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "One Day International"
     },
     {
@@ -3108,7 +3108,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Saudi Pro League"
     },
     {
@@ -3196,7 +3204,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -3244,7 +3260,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -3276,7 +3300,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NHL"
     },
     {
@@ -3388,7 +3420,15 @@
         },
         "id": 1,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "World Cup"
     },
     {
@@ -3522,7 +3562,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "ICC World Test Championship"
     },
     {
@@ -3538,7 +3586,71 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b",
+                "drm_scheme": "clearkey",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xbks3vyjpt/out/v1/a17d73cc568e4fa4909bf69fb2970a19/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "name": "FANCODE - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": " https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+                "name": "SKY CRICKET - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+                "drm_scheme": "clearkey",
+                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+                "name": "EUROSPORT - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FOX CRICKET FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+                "name": "FOX CRICKET HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8",
+                "name": "SKY CRICKET HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE IN",
+                "token_api": ""
+            }
+        ],
         "title": "ICC World Test Championship"
     },
     {
@@ -3554,7 +3666,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "T20 International"
     },
     {
@@ -3570,7 +3690,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "T20 International"
     },
     {
@@ -3586,7 +3714,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "One Day International"
     },
     {
@@ -3602,7 +3738,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "ODI Tri-series in Pakistan"
     },
     {
@@ -3634,7 +3778,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "T20 International"
     },
     {
@@ -3650,7 +3802,15 @@
         },
         "id": 1,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "WXV, Women"
     },
     {
@@ -3666,7 +3826,15 @@
         },
         "id": 1,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "WXV, Women"
     },
     {
@@ -3706,7 +3874,15 @@
         },
         "id": 1,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "WXV, Women"
     },
     {
