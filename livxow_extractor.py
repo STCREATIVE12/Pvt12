@@ -60,11 +60,9 @@ def convert_to_ist_target_format(date_str, time_str):
         return None
     try:
         dt_str = f"{date_str.strip()} {time_str.strip()}"
-        # Parse format corresponding to DD/MM/YYYY HH:MM:SS
         for fmt in ("%d/%m/%Y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y/%m/%d %H:%M:%S"):
             try:
                 dt = datetime.strptime(dt_str, fmt)
-                # Assume input time is UTC
                 dt = dt.replace(tzinfo=timezone.utc)
                 
                 # Convert to IST (+5:30)
@@ -144,12 +142,9 @@ def fetch_and_decrypt_file(filename):
     return None
 
 def main():
-    print("[+] Starting Enhanced LivXow Live Events Extractor with StartTime & endTime generation...")
+    print("[+] Starting Enhanced LivXow Live Events Extractor...")
     
-    # 1. Fetch Categories
-    categories = fetch_and_decrypt_file("categories.txt")
-    
-    # 2. Fetch Events List
+    # Events List Fetch karna (Categories hata diya gaya hai)
     events_raw = fetch_and_decrypt_file("events.txt")
     
     event_list = []
@@ -164,17 +159,17 @@ def main():
             elif isinstance(item, dict):
                 event_list.append(item)
 
-    print(f"[+] Found {len(event_list)} events. Generating StartTime/endTime and resolving streams...")
+    print(f"[+] Found {len(event_list)} events. Generating StartTime/endTime with +0530 & resolving streams...")
     
     processed_events = []
     for ev in event_list:
-        # Generate StartTime from date & time fields
+        # Generate StartTime from date & time fields with +0530
         start_date = ev.get("date")
         start_time = ev.get("time")
         if start_date and start_time:
             ev["StartTime"] = convert_to_ist_target_format(start_date, start_time)
             
-        # Generate endTime from end_date/date & end_time fields
+        # Generate endTime from end_date/date & end_time fields with +0530
         end_date = ev.get("end_date") or start_date
         end_time = ev.get("end_time")
         if end_date and end_time:
@@ -216,8 +211,8 @@ def main():
         ev["resolved_streams"] = streams
         processed_events.append(ev)
 
+    # Master data structure (Categories removed, only events kept)
     master_data = {
-        "categories": categories if categories else [],
         "events": processed_events
     }
     
@@ -225,7 +220,7 @@ def main():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(master_data, f, indent=4, ensure_ascii=False)
         
-    print(f"[+] Success! Generated StartTime and endTime with IST (+0530) saved to {output_file}")
+    print(f"[+] Success! Clean events with StartTime/endTime (+0530) saved to {output_file}")
 
 if __name__ == "__main__":
     main()
