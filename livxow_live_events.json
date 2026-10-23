@@ -203,6 +203,8 @@
                 }
             ],
             "links": "pro/T0RJIFRyaS1zZXJpZXMgaW4gUGFraXN0YW4tUEFLLXZzLVNMMTc5MTk1MTI0Njg1Ng.txt",
+            "ist_time": "1900-01-01 13:30",
+            "ist_date": "25/10/2026",
             "resolved_streams": [
                 {
                     "name": "WILLOW FHD",
@@ -333,6 +335,8 @@
                 }
             ],
             "links": "pro/VDIwIEludGVybmF0aW9uYWwtTlotdnMtSU5EMTc5MjQxOTc1NjU5MQ.txt",
+            "ist_time": "1900-01-01 12:30",
+            "ist_date": "24/10/2026",
             "resolved_streams": [
                 {
                     "name": "WILLOW FHD",
@@ -495,6 +499,8 @@
                 }
             ],
             "links": "pro/T0RJIFRyaS1TZXJpZXMgaW4gVW5pdGVkIEFyYWIgRW1pcmF0ZXMtQkFOLXZzLVpJTTE3OTIxMjA5MTEwOTE.txt",
+            "ist_time": "1900-01-01 16:50",
+            "ist_date": "23/10/2026",
             "resolved_streams": [
                 {
                     "name": "WILLOW FHD",
@@ -544,8 +550,6 @@
             ]
         },
         {
-            "visible": true,
-            "priority": -1,
             "category": "Cricket",
             "eventName": "One Day International Women",
             "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
@@ -553,13 +557,21 @@
             "teamBName": "ZIM-W",
             "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
             "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-            "date": "23/10/2026",
+            "links": "pro/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1JTkQtVy12cy1aSU0tVzE3OTIxMjEwNjg5Njg.txt",
             "time": "08:30:00",
-            "end_date": "23/10/2026",
+            "date": "23/10/2026",
             "end_time": "17:30:00",
+            "end_date": "23/10/2026",
+            "visible": true,
+            "priority": -1,
             "link_names": [
                 {
                     "name": "WILLOW FHD",
+                    "tag": "FHD",
+                    "colorCode": "#08C7D6"
+                },
+                {
+                    "name": "TNT SPORTS FHD",
                     "tag": "FHD",
                     "colorCode": "#08C7D6"
                 },
@@ -572,29 +584,34 @@
                     "name": "WILLOW HD",
                     "tag": "FHD",
                     "colorCode": "#08C7D6"
-                },
-                {
-                    "name": "HOTSTAR (IND)",
-                    "tag": "FHD",
-                    "colorCode": "#08C7D6"
                 }
             ],
-            "links": "pro/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1JTkQtVy12cy1aSU0tVzE3OTIxMjEwNjg5Njg.txt",
+            "ist_time": "1900-01-01 14:00",
+            "ist_date": "23/10/2026",
             "resolved_streams": [
                 {
                     "name": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qabepxpmhh/out/v1/341ef8839e3a4f2f9a631a9d8feb6917/cenc.mpd",
                     "scheme": 0,
-                    "api": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f",
+                    "api": "de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0",
+                    "tokenApi": "",
+                    "linkTag": "FHD",
+                    "colorHex": "#08C7D6"
+                },
+                {
+                    "name": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "scheme": 0,
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
                     "tokenApi": "",
                     "linkTag": "FHD",
                     "colorHex": "#08C7D6"
                 },
                 {
                     "name": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qabepxpmhh/out/v1/341ef8839e3a4f2f9a631a9d8feb6917/cenc.mpd",
                     "scheme": 0,
-                    "api": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f",
+                    "api": "de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0",
                     "tokenApi": "",
                     "linkTag": "FHD",
                     "colorHex": "#08C7D6"
@@ -604,15 +621,6 @@
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
                     "scheme": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": "",
-                    "linkTag": "FHD",
-                    "colorHex": "#08C7D6"
-                },
-                {
-                    "name": "HOTSTAR (IND)",
-                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd|Cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
-                    "scheme": 0,
-                    "api": "",
                     "tokenApi": "",
                     "linkTag": "FHD",
                     "colorHex": "#08C7D6"
@@ -671,6 +679,8 @@
                 }
             ],
             "links": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLVNBLXZzLUFVUzE3ODk5OTEzMjY2NjU.txt",
+            "ist_time": "1900-01-01 14:00",
+            "ist_date": "27/10/2026",
             "resolved_streams": [
                 {
                     "name": "WILLOW FHD",
@@ -748,7 +758,7 @@
             "teamAFlag": "https://cdn-icons-png.flaticon.com/512/2418/2418779.png",
             "teamBFlag": "https://cdn-icons-png.flaticon.com/512/2418/2418779.png",
             "date": "23/10/2026",
-            "time": "09:50:00",
+            "time": "17:30:00",
             "link_names": [
                 {
                     "name": "SKY SPORTS FHD",
@@ -797,6 +807,8 @@
                 }
             ],
             "links": "pro/Rm9ybXVsYSAxLUYxLXZzLUYxMTc3MzI5ODU5NDA5MQ.txt",
+            "ist_time": "1900-01-01 23:00",
+            "ist_date": "23/10/2026",
             "resolved_streams": [
                 {
                     "name": "SKY SPORTS FHD",
@@ -916,6 +928,8 @@
                 }
             ],
             "links": "pro/TW90b0dQLU1vdG9HUC12cy1Nb3RvR1AxNzczMjk4NzU5ODY1.txt",
+            "ist_time": "1900-01-02 05:00",
+            "ist_date": "22/10/2026",
             "resolved_streams": [
                 {
                     "name": "TNT SPORTS FHD",
@@ -987,6 +1001,8 @@
                 }
             ],
             "links": "pro/TW9uZGF5IE5pZ2h0IFJBVy1XV0UgUkFXLXZzLVdXRSBSQVcxNzczMTU2OTMwODAx.txt",
+            "ist_time": "1900-01-01 05:30",
+            "ist_date": "27/10/2026",
             "resolved_streams": [
                 {
                     "name": "WWE FHD",
@@ -1044,6 +1060,8 @@
                 }
             ],
             "links": "pro/V1dFIE5YVC1XV0UgTlhULXZzLVdXRSBOWFQxNzczMTU2MzUzNjY4.txt",
+            "ist_time": "1900-01-01 05:30",
+            "ist_date": "28/10/2026",
             "resolved_streams": [
                 {
                     "name": "WWE HD",
@@ -1097,6 +1115,8 @@
                 }
             ],
             "links": "pro/QUVXIER5bmFtaXRlLUFFVy12cy1BRVcxNzczMTU3MDA0NzAy.txt",
+            "ist_time": "1900-01-01 05:30",
+            "ist_date": "29/10/2026",
             "resolved_streams": [
                 {
                     "name": "TSN SPORTS FHD",
@@ -1159,6 +1179,8 @@
                 }
             ],
             "links": "pro/T25lIEZyaWRheSBGaWdodHMtT25lIEZyaWRheSBGaWdodHMtdnMtT25lIEZyaWRheSBGaWdodHMxNzczMzczNzcwMzcy.txt",
+            "ist_time": "1900-01-01 17:30",
+            "ist_date": "23/10/2026",
             "resolved_streams": [
                 {
                     "name": "One Fight FHD",
@@ -1221,6 +1243,8 @@
                 }
             ],
             "links": "pro/RnJpZGF5IE5pZ2h0IFNtYWNrRG93bi1TbWFja0Rvd24tdnMtU21hY2tEb3duMTc3MzQxOTI3NjQwOQ.txt",
+            "ist_time": "1900-01-01 05:30",
+            "ist_date": "24/10/2026",
             "resolved_streams": [
                 {
                     "name": "WWE HD",
@@ -1313,6 +1337,8 @@
                 }
             ],
             "links": "pro/TkZMIFJFRFpPTkUtTkZMLXZzLU5GTDE3ODk5MTI2OTE4MDg.txt",
+            "ist_time": "1900-01-01 22:20",
+            "ist_date": "18/10/2026",
             "resolved_streams": [
                 {
                     "name": "REDZONE FHD",
@@ -1416,6 +1442,8 @@
                 "HD SERVER",
                 "SD SERVER"
             ],
+            "ist_time": "1900-01-02 04:30",
+            "ist_date": "11/04/2026",
             "resolved_streams": [
                 {
                     "name": "HD SERVER",
@@ -1465,6 +1493,8 @@
                 }
             ],
             "links": "pro/SW5kaWFuIFN1cGVyIExlYWd1ZS1JU0wtdnMtSVNMMTc5MTcxODM4Mjk3Ng.txt",
+            "ist_time": "1900-01-01 19:30",
+            "ist_date": "19/10/2026",
             "resolved_streams": [
                 {
                     "name": "SonyLiv (ENG)",
@@ -1547,6 +1577,8 @@
                 }
             ],
             "links": "pro/IEFUUCAmIFdUQSBURU5OSVMtQVRQLXZzLVdUQTE3ODc5NDUyNDY3MTI.txt",
+            "ist_time": "1900-01-02 01:30",
+            "ist_date": "28/08/2026",
             "resolved_streams": [
                 {
                     "name": "beIN ENGLISH (ATP)",
@@ -1670,6 +1702,8 @@
                 }
             ],
             "links": "pro/VGVubmlzIFVTIE9wZW4tVVMgT1BFTi12cy1VUyBPUEVOMTc4ODM2MDk2NzQ0Ng.txt",
+            "ist_time": "1900-01-01 20:30",
+            "ist_date": "15/09/2026",
             "resolved_streams": [
                 {
                     "name": "TSN SPORTS 1 FHD",
@@ -1792,6 +1826,8 @@
                 }
             ],
             "links": "pro/VGVubmlzIEV2ZW50by1URU5OSVMtdnMtVEVOTklTMTc4NjgwNTM4MTYzMg.txt",
+            "ist_time": "1900-01-01 20:30",
+            "ist_date": "30/08/2026",
             "resolved_streams": [
                 {
                     "name": "TENNIS 2 FHD",
@@ -1876,6 +1912,8 @@
                 }
             ],
             "links": "pro/Q3ljbGluZy1DeWNsaW5nLXZzLUN5Y2xpbmcxNzg4MTc4MTE0NTk3.txt",
+            "ist_time": "1900-01-02 00:25",
+            "ist_date": "21/10/2026",
             "resolved_streams": [
                 {
                     "name": "PARAMOUNT+ FHD",
@@ -1911,6 +1949,8 @@
             "end_date": "27/10/2026",
             "end_time": "19:00:00",
             "links": "pro/VDIwIEludGVybmF0aW9uYWwtQUZHLXZzLVpJTTE3OTI0NjI2OTg5MDI.txt",
+            "ist_time": "1900-01-01 20:00",
+            "ist_date": "27/10/2026",
             "resolved_streams": [
                 {
                     "name": "Link 1",
@@ -1930,6 +1970,8 @@
             "date": "28/10/2026",
             "time": "04:00:00",
             "links": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUJBTi12cy1XSTE3OTI0NjI3MjAxODU.txt",
+            "ist_time": "1900-01-01 09:30",
+            "ist_date": "28/10/2026",
             "resolved_streams": [
                 {
                     "name": "Link 1",
@@ -1951,332 +1993,12 @@
             "end_date": "23/10/2026",
             "end_time": "13:50:00",
             "links": "pro/SW5kaWFuIFN1cGVyIExlYWd1ZS1JbnRlciBLYXNoaSBGQy12cy1FYXN0IEJlbmdhbDE3OTI2NzQ1MDE1NTk.txt",
+            "ist_time": "1900-01-01 17:00",
+            "ist_date": "23/10/2026",
             "resolved_streams": [
                 {
                     "name": "Link 1",
                     "link": "https://no.link"
-                }
-            ]
-        },
-        {
-            "category": "Football",
-            "eventName": "CONMEBOL Libertadores",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-            "teamAName": "Flamengo",
-            "teamBName": "Estudiantes",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3206/image",
-            "links": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsYW1lbmdvLXZzLUVzdHVkaWFudGVzMTc5MjY3NDUwMTU2MA.txt",
-            "time": "00:30:00",
-            "date": "23/10/2026",
-            "end_time": "02:50:00",
-            "end_date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "beIN ENGLISH FHD",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                },
-                {
-                    "name": "SportDigital Fussball",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "scheme": 0,
-                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                },
-                {
-                    "name": "SportDigital Fussball",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "scheme": 0,
-                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Basketball",
-            "eventName": "NBA",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "teamAName": "Thunder",
-            "teamBName": "Nuggets",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-            "links": "pro/TkJBLVRodW5kZXItdnMtTnVnZ2V0czE3OTI2NzQ1ODY4OTY.txt",
-            "time": "01:30:00",
-            "date": "23/10/2026",
-            "end_time": "04:00:00",
-            "end_date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Hockey",
-            "eventName": "NHL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "teamAName": "Blues",
-            "teamBName": "Golden Knights",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-            "links": "pro/TkhMLUJsdWVzLXZzLUdvbGRlbiBLbmlnaHRzMTc5MjY3NDYwODA4Nw.txt",
-            "time": "00:00:00",
-            "date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream6.pro/hls/poiryezafv56.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Hockey",
-            "eventName": "NHL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "teamAName": "Canucks",
-            "teamBName": "Red Wings",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-            "links": "pro/TkhMLUNhbnVja3MtdnMtUmVkIFdpbmdzMTc5MjY3NDYwODA4Nw.txt",
-            "time": "02:00:00",
-            "date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Hockey",
-            "eventName": "NHL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "teamAName": "Stars",
-            "teamBName": "Jets",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-            "links": "pro/TkhMLVN0YXJzLXZzLUpldHMxNzkyNjc0NjA4MDg3.txt",
-            "time": "00:00:00",
-            "date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream3.pro/hls/rzavbdyua57.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Hockey",
-            "eventName": "NHL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "teamAName": "Flames",
-            "teamBName": "Wild",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-            "links": "pro/TkhMLUZsYW1lcy12cy1XaWxkMTc5MjY3NDYwODA4Nw.txt",
-            "time": "01:00:00",
-            "date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream7.pro/hls/earzfddshg58.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Hockey",
-            "eventName": "NHL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "teamAName": "Oilers",
-            "teamBName": "Hurricanes",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-            "links": "pro/TkhMLU9pbGVycy12cy1IdXJyaWNhbmVzMTc5MjY3NDYwODA4Nw.txt",
-            "time": "01:00:00",
-            "date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream5.pro/hls/bvnzadfvyt59.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "Hockey",
-            "eventName": "NHL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "teamAName": "Kraken",
-            "teamBName": "Mammoth",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-            "links": "pro/TkhMLUtyYWtlbi12cy1NYW1tb3RoMTc5MjY3NDYwODA4Nw.txt",
-            "time": "02:00:00",
-            "date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream5.pro/hls/cwxvbnfghq60.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                }
-            ]
-        },
-        {
-            "category": "American football",
-            "eventName": "NFL",
-            "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-            "teamAName": "Bears",
-            "teamBName": "Patriots",
-            "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-            "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
-            "links": "pro/TkZMLUJlYXJzLXZzLVBhdHJpb3RzMTc5MjY3NDYzNTIxNA.txt",
-            "time": "00:15:00",
-            "date": "23/10/2026",
-            "end_time": "03:15:00",
-            "end_date": "23/10/2026",
-            "visible": true,
-            "priority": -1,
-            "link_names": [
-                {
-                    "name": "TSN SPORTS FHD",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                },
-                {
-                    "name": "HD QUALITY",
-                    "tag": "HD",
-                    "colorCode": "#08C7D6"
-                }
-            ],
-            "resolved_streams": [
-                {
-                    "name": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "scheme": 0,
-                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
-                },
-                {
-                    "name": "HD QUALITY",
-                    "link": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "scheme": 0,
-                    "api": "",
-                    "tokenApi": "",
-                    "linkTag": "HD",
-                    "colorHex": "#08C7D6"
                 }
             ]
         }
