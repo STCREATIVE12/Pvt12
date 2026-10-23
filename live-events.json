@@ -1569,15 +1569,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UFC"
     },
     {
@@ -1593,15 +1585,7 @@
         },
         "id": 1,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYvbAlY7O8JQsx6IwdE1t6uXEaaZKJvjNmw&s",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://playztv.pages.dev/sss/index.m3u8",
-                "name": "PlayZ TV",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Ballon D'or Show"
     },
     {
@@ -1633,7 +1617,36 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "drm_scheme": "clearkey",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/THETHAO_GOLF_HD/manifest.mpd",
+                "name": "ON SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58408/load-playlist?|Referer=https://gooz.aapmains.net",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live1.quickscoreboardz.com/live/channel18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "name": "HD STREAM ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -1681,7 +1694,43 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/sd-1-4599633.m3u8?txSecret=d4ee6da4d0be0a8fab365a5007c4b68a&txTime=6ADA2222|Referer=https://player.online878.com/",
+                "name": "PlayZ TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/thm-arb/1264557.m3u8",
+                "name": "THMANYAH HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216",
+                "drm_scheme": "clearkey",
+                "link": "https://hoast-plm.shop/playztv/links.php?id=thmanyah2.mpd",
+                "name": "THMANYAN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.44/hls/CIIIAAAA.m3u8|referer=http://www.fawanews.sc/",
+                "name": "SD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/thm-arb/1264555.m3u8",
+                "name": "THMANYAH FHD",
+                "token_api": ""
+            }
+        ],
         "title": "Saudi Pro League"
     },
     {
@@ -1697,7 +1746,71 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "52ca896b0fd49cf0ac859c2b4a548dff:d0b24508be2c31c2e8145ac2e13898f9",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1j0rfg20mw/out/v1/7809feb199f04398a835b99c885db5b5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT+ FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
+                "drm_scheme": "clearkey",
+                "link": "https://livebytsctbu.vtvprime.vn/mean/BONGDA_HD/manifest.mpd",
+                "name": "ON SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "drm_scheme": "clearkey",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                "name": "Sport 2 CZ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58406/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "EUL TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630523.m3u8?txSecret=7b6f149bac39548865f86e595f5395af&txTime=6ADA6D5C|Referer=https://player.online878.com/",
+                "name": "PlayZ TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792715180~acl=/*~id=25029118503491533116734949005709~hmac=ea5462b55c1c775ad01858bfd9bc5f8040cfed41b86dc9133d8cc1aa1b8023da|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cb73708bf8ec8dae5186e528494403c2-1792695001279",
+                "name": "SonyLiv ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Europa League"
     },
     {
@@ -1713,7 +1826,36 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "7ffc666b6615aa7a717e4afcaed6dc19:9a6634fc7c18f2895dea9f3817af3b52",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qfoko8m7cf/out/v1/32848a37add24f5c98aafe88b28e0144/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT+ FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58411/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "PARAMOUNT+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UEL TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4630584.m3u8?txSecret=6399899ba26ccb55880c32a8cb631ff7&txTime=6ADA6DD4|Referer=https://player.online878.com/",
+                "name": "PlayZ TV ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Europa League"
     },
     {
@@ -1729,7 +1871,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "5a0b5ce35ce4dc3f1589f4e828322f07:103a1207576822a4232e30476e75c210",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/flsodcfwod/out/v1/156cef2563f74863a10fb42946347933/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT+ FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live1.quickscoreboardz.com/live/channel9.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "name": "HD STREAM ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -1793,7 +1957,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/thm-arb/1264557.m3u8",
+                "name": "THMANYAH HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://baila-lentoo.pages.dev/thm-arb/1264555.m3u8",
+                "name": "THMANYAH FHD",
+                "token_api": ""
+            }
+        ],
         "title": "Saudi Pro League"
     },
     {
@@ -1873,7 +2059,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "040d9f1e25e0f660b6da6b6bb13c4d5d:c03b51c06c64fddcc997fd1dadcd746f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2kzyhsqgvq/out/v1/c4b067d520b84b778f73c1794058ebc5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "PARAMOUNT+ FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live1.quickscoreboardz.com/live/channel8.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "UCL TV FHD ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -2052,15 +2260,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2076,15 +2276,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -2116,7 +2308,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -2164,15 +2364,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Serie A"
     },
     {
@@ -2204,15 +2396,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga 2"
     },
     {
@@ -2244,15 +2428,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -2268,7 +2444,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -2284,7 +2468,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/20/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Eliteserien"
     },
     {
@@ -2348,15 +2540,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2372,15 +2556,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Women's Super League"
     },
     {
@@ -3092,15 +3268,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
@@ -3116,7 +3284,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "2. Bundesliga"
     },
     {
@@ -3132,15 +3308,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Premier League"
     },
     {
@@ -3236,7 +3404,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -3268,7 +3444,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Bundesliga"
     },
     {
@@ -3316,15 +3500,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Saudi Pro League"
     },
     {
@@ -3340,15 +3516,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22795/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Challenge League"
     },
     {
@@ -3364,7 +3532,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Championship"
     },
     {
@@ -3460,7 +3636,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga 2"
     },
     {
@@ -3756,29 +3940,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "NBA LIVE [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "name": "HD STREAM ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3906,29 +4068,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream4.pro/hls/bvnzadfvyt59.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "NHL LIVE [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     },
     {
@@ -4008,7 +4148,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream5.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NHL LIVE [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "NHL"
     },
     {
@@ -4024,7 +4186,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream5.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NHL LIVE [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "NHL"
     },
     {
