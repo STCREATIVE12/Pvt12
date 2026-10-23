@@ -2,6 +2,65 @@
     {
         "category": "Cricket",
         "event_info": {
+            "end_time": "",
+            "event_name": "Twenty20 International Women",
+            "start_time": "23/10/2026 08:30:00",
+            "team_a": "India Women",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/213119/image",
+            "team_b": "Zimbabwe Women",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/417062/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+        "streams": [
+            {
+                "drm_key": "de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0",
+                "drm_scheme": "clearkey",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "b6e0746a53137a564ec5889039bae9ea:c42a5196a2a7f70065ced842c3efaa73",
+                "drm_scheme": "clearkey",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/khff4hi6a2/out/v1/f6f94e06603a4ac4a5231b5fd5b0681e/cenc.mpd",
+                "name": "WILLOW S2 - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "14d0c8ee09944c32bafea44a987d0000:74d35f4034b14854bd3ca83dd3aa2fb1",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068250/1d0752e2f605404886fec4ab49cc3350/index.mpd?|cookie=hdntl=exp=1792821391~acl=%2f*~id=b360c069d5c32858ad5fcefcdc608d6d~data=hdntl~hmac=b33be9f6b9ae14855c5a6e6b3b5c68725d538da8cc47140bfde5fb2f33dbfc9a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a689d8/index.mpd?|cookie=hdntl=exp=1792821391~acl=%2f*~id=b360c069d5c32858ad5fcefcdc608d6d~data=hdntl~hmac=b33be9f6b9ae14855c5a6e6b3b5c68725d538da8cc47140bfde5fb2f33dbfc9a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS HINDI IN",
+                "token_api": ""
+            }
+        ],
+        "title": "Twenty20 International Women"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
             "end_time": "26/10/2026 00:00:00",
             "event_name": "T20 International",
             "start_time": "26/10/2026 07:00:00",
@@ -127,86 +186,6 @@
             }
         ],
         "title": "T20 International"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "Twenty20 International Women",
-            "start_time": "23/10/2026 08:30:00",
-            "team_a": "India Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/213119/image",
-            "team_b": "Zimbabwe Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/417062/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "streams": [
-            {
-                "drm_key": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f",
-                "drm_scheme": "clearkey",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xxcki87hmi/out/v1/f215fd515a544d8586fe506b03d432a5/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "name": "TNT SPORTS - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xbpbqa6j8t/out/v1/4866c32a2cc34d94a4adcd18c7b3b9a1/cenc.mpd",
-                "name": "WILLOW S2 - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "name": "WILLOW SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS EN - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS HINDI - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd?|cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS TEL -IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?|cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS TAM - IN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
-                "drm_scheme": "clearkey",
-                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd?|cookie=hdntl=exp=1792544609~acl=%2f*~id=f4f5056ac8052bcf6b37eaef98aa6d59~data=hdntl~hmac=3a971b203240b65bc975e099a0dcb8af36cf7fdf9e4ebea48e601fe9cd80aff4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-                "name": "SS SPORTS KAN - IN",
-                "token_api": ""
-            }
-        ],
-        "title": "Twenty20 International Women"
     },
     {
         "category": "Cricket",
@@ -1073,7 +1052,7 @@
         "event_info": {
             "end_time": "23/10/2026 00:00:00",
             "event_name": "NINGBO Open 2026",
-            "start_time": "23/10/2026 05:00:00",
+            "start_time": "23/10/2026 09:00:00",
             "team_a": "WTA",
             "team_a_flag": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png",
             "team_b": "WTA",
@@ -1100,6 +1079,13 @@
                 "drm_key": "1dfb5e055f724a88a16bb746bc09b2d7:67a0d501069799e29441436d7cf40001",
                 "drm_scheme": "clearkey",
                 "link": "https://live01-stan.akamaized.net/out/v1/31ade6f1c3df4da7b661cdcbcfc1ee3b/index.mpd",
+                "name": "STAN SPORTS - AQ (AUS) ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "eb02b4a4509745a1b864e57cd1f6f71b:5827484231cd2a5baf17bc0ee60342e7",
+                "drm_scheme": "clearkey",
+                "link": "https://live02-stan.akamaized.net/out/v1/262654ffadcd4dff8e747206059ea62b/index.mpd",
                 "name": "STAN SPORTS - AQ (AUS) ",
                 "token_api": ""
             }
@@ -1247,44 +1233,6 @@
             }
         ],
         "title": "LaLiga"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "One Day International Women",
-            "start_time": "06/03/2027 03:30:00",
-            "team_a": "Australia Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/213117/image",
-            "team_b": "New Zealand Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/213115/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "streams": [
-            {
-                "drm_key": "a1d03c736494cff8eff6c6b208716715:d41a9479cce7c43faf8e212765fd42c0",
-                "drm_scheme": "clearkey",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7r9hazscyk/out/v1/78dae923350f474599687cc9fceca8ae/cenc.mpd",
-                "name": "WILLOW - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                "name": "WILLOW SPORTS",
-                "token_api": ""
-            }
-        ],
-        "title": "One Day International Women"
     },
     {
         "category": "Cricket",
@@ -1472,159 +1420,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "22/10/2026 00:00:00",
-            "event_name": "UEFA Europa League",
-            "start_time": "22/10/2026 19:00:00",
-            "team_a": "Beşiktaş JK",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3050/image",
-            "team_b": "Crystal Palace",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/7/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [
-            {
-                "drm_key": "278e1ebe07689769d9fa033bb3194f82:c8140fed8d1f87a10f4b4ebcf9f6ad95",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8eerytrwa2/out/v1/34ab2e30771a44deb58928a4219237e9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PARAMOUNT+ FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-                "name": "TNT SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
-                "drm_scheme": "clearkey",
-                "link": "https://livebytsctbu.vtvprime.vn/mean/THETHAO_TINTUC_HD/manifest.mpd",
-                "name": "ON SPORTS ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "UEL TV FHD ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58410/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.vivo155.com/live/hd-en-1-4630522.m3u8?txSecret=49b44508d40697186e4e1e08d7d5fe94&txTime=6ADA6DB1|Referer=https://player.online878.com/",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738629~acl=/*~id=22725931798340217335905136680640~hmac=8630f7a5d32dc7f2a980d2bf364509a0b29b555220b8a07cb8f0987b95484548|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cb73708bf8ec8dae5186e528494403c2-1792695001279",
-                "name": "SonyLiv",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "22/10/2026 00:00:00",
-            "event_name": "UEFA Europa League",
-            "start_time": "22/10/2026 19:00:00",
-            "team_a": "Bournemouth",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/60/image",
-            "team_b": "AC Milan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2692/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [
-            {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "name": "TNT SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "52ca896b0fd49cf0ac859c2b4a548dff:d0b24508be2c31c2e8145ac2e13898f9",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1j0rfg20mw/out/v1/7809feb199f04398a835b99c885db5b5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PARAMOUNT+ FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339",
-                "drm_scheme": "clearkey",
-                "link": "https://livebytsctbu.vtvprime.vn/mean/BONGDA_HD/manifest.mpd",
-                "name": "ON SPORTS ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "drm_scheme": "clearkey",
-                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-                "name": "Sport 2 CZ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58406/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PARAMOUNT+ HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "EUL TV FHD ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.vivo155.com/live/hd-en-1-4630523.m3u8?txSecret=7b6f149bac39548865f86e595f5395af&txTime=6ADA6D5C|Referer=https://player.online878.com/",
-                "name": "PlayZ TV FHD ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792715180~acl=/*~id=25029118503491533116734949005709~hmac=ea5462b55c1c775ad01858bfd9bc5f8040cfed41b86dc9133d8cc1aa1b8023da|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cb73708bf8ec8dae5186e528494403c2-1792695001279",
-                "name": "SonyLiv ",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "24/10/2026 00:00:00",
             "event_name": "LaLiga 2",
             "start_time": "24/10/2026 14:15:00",
@@ -1659,7 +1454,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -1699,7 +1502,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Serie A"
     },
     {
@@ -1731,15 +1542,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -1755,15 +1558,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Ligue 1"
     },
     {
@@ -1859,15 +1654,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -1883,7 +1670,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -1931,15 +1726,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -1955,15 +1742,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Ligue 1"
     },
     {
@@ -1979,7 +1758,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "League One"
     },
     {
@@ -2043,15 +1830,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Women's Super League"
     },
     {
@@ -2107,15 +1886,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -2787,15 +2558,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -2811,7 +2574,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Liga Portugal Betclic"
     },
     {
@@ -2875,15 +2646,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
@@ -2899,15 +2662,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "2. Bundesliga"
     },
     {
@@ -2923,15 +2678,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/22795/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Challenge League"
     },
     {
@@ -2963,15 +2710,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Serie A"
     },
     {
@@ -3011,15 +2750,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Serie A"
     },
     {
@@ -3035,15 +2766,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "2. Bundesliga"
     },
     {
@@ -3059,15 +2782,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga 2"
     },
     {
@@ -3083,7 +2798,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Bundesliga"
     },
     {
@@ -3099,7 +2822,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Bundesliga"
     },
     {
@@ -3115,15 +2846,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Championship"
     },
     {
@@ -3299,53 +3022,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-<<<<<<< Updated upstream
-=======
-        "streams": [],
-        "title": "ICC Men's T20 World Cup Qualifier"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "One Day International",
-            "start_time": "24/10/2026 07:30:00",
-            "team_a": "Namibia",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/199275/image",
-            "team_b": "Ireland",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187766/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
->>>>>>> Stashed changes
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792772132~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=90882c778bfa3c216e718dc9819d87496bcf5bc066c79c8ecb323168034801d4/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
                 "name": "PlayZ TV Live",
                 "token_api": ""
             }
         ],
-<<<<<<< Updated upstream
-=======
-        "title": "One Day International"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "ICC Men's T20 World Cup Qualifier",
-            "start_time": "23/10/2026 12:50:00",
-            "team_a": "Gambia",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/456611/image",
-            "team_b": "Uganda",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/402381/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-        "streams": [],
->>>>>>> Stashed changes
         "title": "ICC Men's T20 World Cup Qualifier"
     },
     {
@@ -3385,7 +3070,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "ICC Men's T20 World Cup Qualifier"
     },
     {
@@ -3425,7 +3118,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792772133~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=1b62c348c1e45a21264293fb9eafcd4946aabe1b30bbee307052f08ba16df036/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "ICC Men's T20 World Cup Qualifier"
     },
     {
@@ -3441,7 +3142,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Saudi Pro League"
     },
     {
@@ -3529,7 +3238,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Serie A"
     },
     {
@@ -3545,7 +3262,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Premier League"
     },
     {
@@ -3561,7 +3286,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Premier League"
     },
     {
@@ -3609,7 +3342,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -3657,7 +3398,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -3689,7 +3438,404 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NHL"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "World Cup, Women ",
+            "start_time": "24/10/2026 02:15:00",
+            "team_a": "Papua New Guinea",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/272013/image",
+            "team_b": "Fiji",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/494723/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "streams": [],
+        "title": "World Cup, Women "
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "World Cup, Women ",
+            "start_time": "24/10/2026 09:05:00",
+            "team_a": "Australia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/272011/image",
+            "team_b": "England",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/272012/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
+        "title": "World Cup, Women "
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "World Cup",
+            "start_time": "24/10/2026 06:35:00",
+            "team_a": "England",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/24236/image",
+            "team_b": "France",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/24238/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "streams": [],
+        "title": "World Cup"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "World Cup",
+            "start_time": "24/10/2026 04:25:00",
+            "team_a": "Papua New Guinea",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/24241/image",
+            "team_b": "Samoa",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/24242/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
+        "title": "World Cup"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "23/10/2026 00:00:00",
+            "event_name": "World Cup",
+            "start_time": "23/10/2026 09:05:00",
+            "team_a": "Tonga",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/24244/image",
+            "team_b": "Lebanon",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/234307/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "streams": [
+            {
+                "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                "name": "PREMIER SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8",
+                "name": "SPORTDIGITAL - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
+        "title": "World Cup"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "23/10/2026 00:00:00",
+            "event_name": "WXV, Women",
+            "start_time": "23/10/2026 08:45:00",
+            "team_a": "Australia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/164614/image",
+            "team_b": "Scotland",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/189291/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "streams": [
+            {
+                "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+                "name": "RUGBYPASS TV - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
+        "title": "WXV, Women"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "ICC Women's Championship",
+            "start_time": "25/10/2026 08:30:00",
+            "team_a": "India Women",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/213119/image",
+            "team_b": "Zimbabwe Women",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/417062/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+        "streams": [],
+        "title": "ICC Women's Championship"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "One Day International",
+            "start_time": "27/10/2026 07:30:00",
+            "team_a": "Namibia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/199275/image",
+            "team_b": "Ireland",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "streams": [],
+        "title": "One Day International"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "ICC World Test Championship",
+            "start_time": "28/10/2026 04:00:00",
+            "team_a": "Bangladesh",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187744/image",
+            "team_b": "West Indies",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187760/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "streams": [],
+        "title": "ICC World Test Championship"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "ICC World Test Championship",
+            "start_time": "27/10/2026 08:30:00",
+            "team_a": "South Africa",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187747/image",
+            "team_b": "Australia",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187746/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "streams": [],
+        "title": "ICC World Test Championship"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "T20 International",
+            "start_time": "27/10/2026 07:00:00",
+            "team_a": "New Zealand",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187755/image",
+            "team_b": "India",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [],
+        "title": "T20 International"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "T20 International",
+            "start_time": "27/10/2026 14:30:00",
+            "team_a": "Afghanistan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
+            "team_b": "Zimbabwe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [],
+        "title": "T20 International"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "One Day International",
+            "start_time": "30/10/2026 07:30:00",
+            "team_a": "Namibia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/199275/image",
+            "team_b": "Ireland",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187766/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
+        "title": "One Day International"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "ODI Tri-series in Pakistan",
+            "start_time": "29/10/2026 08:00:00",
+            "team_a": "Sri Lanka",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187756/image",
+            "team_b": "England",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187757/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
+        "streams": [],
+        "title": "ODI Tri-series in Pakistan"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "T20 International",
+            "start_time": "29/10/2026 14:30:00",
+            "team_a": "Afghanistan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187575/image",
+            "team_b": "Zimbabwe",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187745/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [],
+        "title": "T20 International"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "",
+            "event_name": "T20 International",
+            "start_time": "30/10/2026 07:00:00",
+            "team_a": "New Zealand",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187755/image",
+            "team_b": "India",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "streams": [],
+        "title": "T20 International"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "WXV, Women",
+            "start_time": "24/10/2026 09:30:00",
+            "team_a": "Japan",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/262242/image",
+            "team_b": "Wales",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/164620/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
+        "title": "WXV, Women"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "WXV, Women",
+            "start_time": "23/10/2026 23:00:00",
+            "team_a": "Canada",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/164600/image",
+            "team_b": "England",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/164602/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "streams": [],
+        "title": "WXV, Women"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "WXV, Women",
+            "start_time": "24/10/2026 02:05:00",
+            "team_a": "New Zealand",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/164610/image",
+            "team_b": "France",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/164616/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "streams": [],
+        "title": "WXV, Women"
+    },
+    {
+        "category": "Rugby",
+        "event_info": {
+            "end_time": "24/10/2026 00:00:00",
+            "event_name": "WXV, Women",
+            "start_time": "24/10/2026 13:00:00",
+            "team_a": "South Africa",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/164618/image",
+            "team_b": "Ireland",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/164606/image"
+        },
+        "id": 1,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "streams": [],
+        "title": "WXV, Women"
     }
 ]
