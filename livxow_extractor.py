@@ -54,27 +54,18 @@ def decrypt_livxow_payload(raw):
         print(f"[-] Decryption error: {e}")
         return raw
 
-def convert_to_ist_formatted(time_val):
-    """UTC time string ko IST (+0530) format me convert karta hai"""
-    if not time_val:
-        return time_val
+def convert_to_ist_target_format(date_str, time_str):
+    """DD/MM/YYYY aur HH:MM:SS ko combine karke UTC se IST (+0530) format me banata hai"""
+    if not date_str or not time_str:
+        return None
     try:
-        time_str = str(time_val).strip()
-        # Alag-alag formats ko parse karne ki koshish
-        formats = (
-            "%Y/%m/%d %H:%M:%S %z", "%Y-%m-%d %H:%M:%S %z",
-            "%Y/%m/%d %H:%M:%S", "%Y-%m-%d %H:%M:%S",
-            "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S"
-        )
-        
-        for fmt in formats:
+        dt_str = f"{date_str.strip()} {time_str.strip()}"
+        # Parse format corresponding to DD/MM/YYYY HH:MM:SS
+        for fmt in ("%d/%m/%Y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y/%m/%d %H:%M:%S"):
             try:
-                if '%z' in fmt or '+' in time_str or 'Z' in time_str:
-                    clean_str = time_str.replace('Z', '+0000')
-                    dt = datetime.strptime(clean_str, fmt if '%z' in fmt else "%Y/%m/%d %H:%M:%S %z")
-                else:
-                    dt = datetime.strptime(time_str, fmt)
-                    dt = dt.replace(tzinfo=timezone.utc)
+                dt = datetime.strptime(dt_str, fmt)
+                # Assume input time is UTC
+                dt = dt.replace(tzinfo=timezone.utc)
                 
                 # Convert to IST (+5:30)
                 ist_tz = timezone(timedelta(hours=5, minutes=30))
@@ -82,9 +73,9 @@ def convert_to_ist_formatted(time_val):
                 return dt_ist.strftime("%Y/%m/%d %H:%M:%S +0530")
             except ValueError:
                 continue
-        return time_str
+        return f"{date_str} {time_str} +0530"
     except Exception:
-        return time_val
+        return None
 
 def fetch_firebase_base_url():
     endpoint = f"https://firebaseremoteconfig.googleapis.com/v1/projects/{FIREBASE_CONFIG['projectNumber']}/namespaces/firebase:fetch"
@@ -153,7 +144,7 @@ def fetch_and_decrypt_file(filename):
     return None
 
 def main():
-    print("[+] Starting Enhanced LivXow Live Events Extractor with IST Start/End Time conversion...")
+    print("[+] Starting Enhanced LivXow Live Events Extractor with StartTime & endTime generation...")
     
     # 1. Fetch Categories
     categories = fetch_and_decrypt_file("categories.txt")
@@ -173,15 +164,21 @@ def main():
             elif isinstance(item, dict):
                 event_list.append(item)
 
-    print(f"[+] Found {len(event_list)} events. Converting StartTime/endTime to IST & resolving streams...")
+    print(f"[+] Found {len(event_list)} events. Generating StartTime/endTime and resolving streams...")
     
     processed_events = []
     for ev in event_list:
-        # StartTime, endTime ya kisi bhi time field ko IST me convert karna
-        for key in list(ev.keys()):
-            if any(k in key.lower() for k in ["start", "end", "time", "date"]):
-                if isinstance(ev[key], str) and len(ev[key]) > 5:
-                    ev[key] = convert_to_ist_formatted(ev[key])
+        # Generate StartTime from date & time fields
+        start_date = ev.get("date")
+        start_time = ev.get("time")
+        if start_date and start_time:
+            ev["StartTime"] = convert_to_ist_target_format(start_date, start_time)
+            
+        # Generate endTime from end_date/date & end_time fields
+        end_date = ev.get("end_date") or start_date
+        end_time = ev.get("end_time")
+        if end_date and end_time:
+            ev["endTime"] = convert_to_ist_target_format(end_date, end_time)
         
         # Resolve stream links
         links_field = ev.get("links")
@@ -228,7 +225,7 @@ def main():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(master_data, f, indent=4, ensure_ascii=False)
         
-    print(f"[+] Success! Saved with IST converted StartTime/endTime to {output_file}")
+    print(f"[+] Success! Generated StartTime and endTime with IST (+0530) saved to {output_file}")
 
 if __name__ == "__main__":
     main()
