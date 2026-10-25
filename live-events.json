@@ -1,197 +1,5 @@
 [
     {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "LaLiga",
-            "start_time": "26/10/2026 01:30:00 +0530",
-            "team_a": "FC Barcelona",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2817/image",
-            "team_b": "Real Madrid",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2829/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                "name": "beIN SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "name": "PREMIER SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                "name": "BeIN SPORTS S2 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "D SPORTS ES - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-                "name": "CAZE TV BR UHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD BDIX - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58667/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "ESPN DEPORTES HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://www.rtmpcdn.com/live/1d889eaf-ea5a-4eb4-b239-6f9dbbbeb11e.m3u8",
-                "name": "HD SERVER",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live-cdn.ryazanslah3.space/hls/x2a____e6.m3u8?|Referer=https://www.arena8x.live/",
-                "name": "beIN SPORTS FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "ESPN+ FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "ESPN+ [AQ])",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.vivo155.com/live/hd-en-1-4565473.m3u8?txSecret=e338556b950ad0bff95e9ed11cc0f76d&txTime=6ADE72BA|Referer=https://player.online878.com/",
-                "name": "FAST SERVER HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58668/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "PREMIER SPORTS HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://1cdn.syria-player.info/proxy.php?stream=bein1/master.m3u8|referer=https://mood.kora-live-tv-eg.com/",
-                "name": "BeIN ARABIC HD ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8|referer=https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-                "name": "HD FAST ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pr.footballii.ir/hls2/bein1.m3u8",
-                "name": "BeIN Arabic HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://www.tapmad.com/&origin=https://www.tapmad.com",
-                "name": "TAPMAD S2",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "German - DAZN [AQ])",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "Italian - DAZN [AQ])",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "French - DAZN [AQ])",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "Spanish - DAZN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "Spanish - ESPN Deportes [AQ])",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://pull.qjkngv.com/live/stream-597728_lhd.m3u8",
-                "name": "FAST SERVER ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.44/hls/Z000B.m3u8|referer=http://www.fawanews.sc/",
-                "name": "SD STREAM",
-                "token_api": ""
-            }
-        ],
-        "title": "LaLiga"
-    },
-    {
         "category": "Cricket",
         "event_info": {
             "end_time": "26/10/2026 05:30:00 +0530",
@@ -420,7 +228,7 @@
     {
         "category": "Motorsport",
         "event_info": {
-            "end_time": "",
+            "end_time": "25/10/2026 05:30:00 +0530",
             "event_name": "Formula 1",
             "start_time": "26/10/2026 01:30:00 +0530",
             "team_a": "Formula 1",
@@ -1798,115 +1606,6 @@
         "category": "Football",
         "event_info": {
             "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "LaLiga 2",
-            "start_time": "25/10/2026 23:00:00 +0530",
-            "team_a": "CD Castellón",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/5067/image",
-            "team_b": "Sporting Gijón",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2852/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-                "drm_scheme": "clearkey",
-                "link": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-                "name": "LALIGA HYPEMOTION ES - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "LaLiga 2"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "LaLiga",
-            "start_time": "25/10/2026 23:00:00 +0530",
-            "team_a": "Real Sociedad",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2824/image",
-            "team_b": "Levante UD",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2849/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [
-            {
-                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                "name": "beIN SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "name": "PREMIER SPORTS - AQ",
-                "token_api": ""
-            }
-        ],
-        "title": "LaLiga"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "Serie A",
-            "start_time": "26/10/2026 01:15:00 +0530",
-            "team_a": "Udinese",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2695/image",
-            "team_b": "AC Milan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2692/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [],
-        "title": "Serie A"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "VriendenLoterij Eredivisie",
-            "start_time": "26/10/2026 00:30:00 +0530",
-            "team_a": "AZ Alkmaar",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2950/image",
-            "team_b": "FC Twente",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2955/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.55/hls/JNNNAAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                "name": "SD STREAM ",
-                "token_api": ""
-            }
-        ],
-        "title": "VriendenLoterij Eredivisie"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
             "event_name": "Liga Portugal Betclic",
             "start_time": "26/10/2026 02:00:00 +0530",
             "team_a": "Sporting CP",
@@ -1916,39 +1615,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [],
-        "title": "Liga Portugal Betclic"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "Liga Portugal Betclic",
-            "start_time": "25/10/2026 23:30:00 +0530",
-            "team_a": "CD Nacional",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3013/image",
-            "team_b": "Sporting Braga",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2999/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [],
-        "title": "Liga Portugal Betclic"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "Liga Portugal Betclic",
-            "start_time": "25/10/2026 23:30:00 +0530",
-            "team_a": "Rio Ave",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3036/image",
-            "team_b": "Famalicão",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/49531/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "D Sports FHD",
+                "token_api": ""
+            }
+        ],
         "title": "Liga Portugal Betclic"
     },
     {
@@ -1964,7 +1639,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Ligue 1"
     },
     {
@@ -1980,13 +1663,21 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "UFC"
     },
     {
         "category": "American football",
         "event_info": {
-            "end_time": "",
+            "end_time": "25/10/2026 05:30:00 +0530",
             "event_name": "NFL | NFL REDZONE",
             "start_time": "25/10/2026 22:15:00 +0530",
             "team_a": "NFL REDZONE",
@@ -2004,22 +1695,6 @@
         "event_info": {
             "end_time": "25/10/2026 05:30:00 +0530",
             "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "Atlanta Falcons",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4393/image",
-            "team_b": "San Francisco 49ers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4389/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
             "start_time": "26/10/2026 01:35:00 +0530",
             "team_a": "Arizona Cardinals",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/4412/image",
@@ -2028,39 +1703,57 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "Carolina Panthers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4415/image",
-            "team_b": "Tampa Bay Buccaneers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4388/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "New York Jets",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4427/image",
-            "team_b": "Miami Dolphins",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4287/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "CBS SPORTS ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58659/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "HD SERVER ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NFL TV FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58660/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "NFL TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZ TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream6.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
+                "name": "HD STREAM ",
+                "token_api": ""
+            }
+        ],
         "title": "NFL"
     },
     {
@@ -2128,50 +1821,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [
-            {
-                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "TSN SPORTS FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "FHD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58661/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "HD STREAM 1",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/58662/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-                "name": "HD STREAM S2",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream1.pro/hls/poertjnvnev40.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
-                "name": "HD STREAM ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NFL"
     },
     {
@@ -2184,70 +1834,6 @@
             "team_a_flag": "https://img.sofascore.com/api/v1/team/4419/image",
             "team_b": "Green Bay Packers",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/4420/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "Houston Texans",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4324/image",
-            "team_b": "New York Giants",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4426/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "Tennessee Titans",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4431/image",
-            "team_b": "Cleveland Browns",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4417/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "Baltimore Ravens",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4413/image",
-            "team_b": "Cincinnati Bengals",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4416/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
-        "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "NFL",
-            "start_time": "25/10/2026 22:30:00 +0530",
-            "team_a": "Minnesota Vikings",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4423/image",
-            "team_b": "Indianapolis Colts",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4421/image"
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
@@ -2379,7 +1965,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NBA LIVE [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -2555,15 +2163,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "CWC Challenge League"
     },
     {
@@ -2579,15 +2179,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "CWC Challenge League"
     },
     {
@@ -2603,15 +2195,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "CWC Challenge League"
     },
     {
@@ -2627,15 +2211,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "T20 International"
     },
     {
@@ -2651,15 +2227,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -2675,15 +2243,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -2699,15 +2259,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Liga de Primera"
     },
     {
@@ -2723,15 +2275,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Saudi Pro League"
     },
     {
@@ -2747,15 +2291,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga"
     },
     {
@@ -2771,15 +2307,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Liga Portugal Betclic"
     },
     {
@@ -3251,7 +2779,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -3267,7 +2803,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -3283,7 +2827,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/21/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "EFL Cup"
     },
     {
@@ -3299,7 +2851,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -3315,7 +2875,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -3829,29 +3397,5 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
         "streams": [],
         "title": "Copa del Rey"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "25/10/2026 05:30:00 +0530",
-            "event_name": "Canadian Premier League",
-            "start_time": "26/10/2026 01:30:00 +0530",
-            "team_a": "Cavalry FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/309889/image",
-            "team_b": "Vancouver FC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/463097/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "streams": [
-            {
-                "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "TSN SPORTS ",
-                "token_api": ""
-            }
-        ],
-        "title": "Canadian Premier League"
     }
 ]
