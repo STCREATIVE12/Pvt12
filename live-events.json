@@ -23,15 +23,22 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "",
-                "name": "DAZN FHD",
+                "link": "https://chatgpt.hereisman.net/playlist/58697/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "DAZN SPORTS HD",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://tedesco.formaturamaxi.com.br/balon.m3u8|referer=https://roxiestreams.info/",
-                "name": "HD STREAM EN",
+                "link": "https://pl.playlist4.space/playlist/58697/a.newvegan6.space/caxi-low",
+                "name": "DAZN SPORTS SD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://c4lycho7.skibid.im:8443/t/v2.1.98439517-cc33-480e-9ba6-665e706fa733.1793040862.1793055202.18XFYZC139VliHxn3c4ANbJ1FmcmquOdGlZJgoP3e_E/f064a4f0/s/042b2f81acc47e84c1165772efcd6d20/0/index.m3u8",
+                "name": "PlayZ TV FHD",
                 "token_api": ""
             },
             {
@@ -39,6 +46,20 @@
                 "drm_scheme": "",
                 "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8|Referer=https://xlz.domainkqt.cc/",
                 "name": "FAST HD SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://admin2.formaturamaxi.com.br/balon.m3u8",
+                "name": "PlayZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN FHD",
                 "token_api": ""
             },
             {
@@ -58,28 +79,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://c4lycho7.skibid.im:8443/t/v2.1.98439517-cc33-480e-9ba6-665e706fa733.1793040862.1793055202.18XFYZC139VliHxn3c4ANbJ1FmcmquOdGlZJgoP3e_E/f064a4f0/s/042b2f81acc47e84c1165772efcd6d20/0/index.m3u8",
-                "name": "PlayZ TV Live EN",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://admin2.formaturamaxi.com.br/dazn.m3u8|referer=https://roxiestreams.info/",
-                "name": "HD STREAM ES",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://admin2.formaturamaxi.com.br/equipe.m3u8|referer=https://roxiestreams.info/",
-                "name": "HD STREAM FR",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.50/hls/AFFF.m3u8|Referer=http://www.fawanews.sc/",
+                "link": "http://193.47.62.55/hls/AFFFc.m3u8|Referer=http://www.fawanews.sc/",
                 "name": "SD SERVER",
                 "token_api": ""
             }
@@ -1558,6 +1558,13 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
         "streams": [
             {
+                "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=c932d10f-7c9e-4119-858b-e0661b560c63|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS FHD",
+                "token_api": ""
+            },
+            {
                 "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1569,6 +1576,20 @@
                 "drm_scheme": "",
                 "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/58696/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+                "name": "Ligue1+ HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4550913.m3u8?txSecret=2867e667290d4e96f26e193b8861eca8&txTime=6ADFBD1D|Referer=https://player.on8on8.com/",
+                "name": "PlayZ TV Live ",
                 "token_api": ""
             },
             {
@@ -1597,6 +1618,20 @@
                 "drm_scheme": "",
                 "link": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8",
                 "name": "SETANTA SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8|Referer=https://xlz.domainkqt.cc/",
+                "name": "HD SERVER",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.41/hls/D444FQQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                "name": "LOW SERVER",
                 "token_api": ""
             }
         ],
@@ -1691,7 +1726,85 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+                "name": "TNT SPORTS - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39",
+                "drm_scheme": "clearkey",
+                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd",
+                "name": "WILLOW S2 - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "14d0c8ee09944c32bafea44a987d0000:74d35f4034b14854bd3ca83dd3aa2fb1",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068250/1d0752e2f605404886fec4ab49cc3350/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS2 SPORTS - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a689d8/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS2 SPORTS HINDI IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS EN - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS HINDI - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS TEL -IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS TAM - IN",
+                "token_api": ""
+            },
+            {
+                "drm_key": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
+                "drm_scheme": "clearkey",
+                "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                "name": "SS SPORTS KAN - IN",
+                "token_api": ""
+            }
+        ],
         "title": "ICC Women's Championship"
     },
     {
@@ -1779,15 +1892,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "CWC Challenge League"
     },
     {
@@ -1883,15 +1988,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Liga de Primera"
     },
     {
@@ -1977,22 +2074,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-                "drm_scheme": "clearkey",
-                "link": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-                "name": "LALIGA HYPEMOTION ES - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga 2"
     },
     {
@@ -2008,15 +2090,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/217/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "DFB Pokal"
     },
     {
@@ -2048,7 +2122,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/217/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "DFB Pokal"
     },
     {
@@ -2112,15 +2194,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/217/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "DFB Pokal"
     },
     {
@@ -2136,7 +2210,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -2152,15 +2234,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Serie A"
     },
     {
@@ -2176,15 +2250,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2200,15 +2266,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "League One"
     },
     {
@@ -2224,15 +2282,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2248,15 +2298,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2272,15 +2314,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/21/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "EFL Cup"
     },
     {
@@ -2296,15 +2330,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2320,15 +2346,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2344,15 +2362,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2368,15 +2378,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2781,7 +2783,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream1.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NHL LIVE [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "NHL"
     },
     {
@@ -2797,7 +2821,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NHL LIVE [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream7.pro/hls/poiryezafv56.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
+                "name": "HD STREAM ",
+                "token_api": ""
+            }
+        ],
         "title": "NHL"
     },
     {
@@ -2829,29 +2875,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "NBA LIVE [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2883,29 +2907,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream4.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "NBA LIVE [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2921,36 +2923,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=1916cb522e0b257abff9242348936e08&wsABSTime=1793075356",
-                "name": "HD FAST",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream3.pro/sh/cdn/hls/mlkijfezag65.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "FHD STREAM ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2966,7 +2939,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://edgestream4.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
+                "name": "HD STREAM ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "NBA LIVE [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -2998,29 +2993,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://edgestream7.pro/hls/ztyarueaghj71.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "NBA LIVE [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3084,7 +3057,29 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.vivo155.com/live/hd-en-1-4621476.m3u8?txSecret=0fff4ce619c428d33c8980a6d3ddcc2e&txTime=6ADFAC8B|Referer=https://player.on8on8.com/",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.44/hls/GGGGA.m3u8|Referer=http://www.fawanews.sc/",
+                "name": "SD STREAM ",
+                "token_api": ""
+            }
+        ],
         "title": "AFC Champions League Elite"
     },
     {
