@@ -1,141 +1,5 @@
 [
     {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "T20 International",
-            "start_time": "27/10/2026 12:30:00 +0530",
-            "team_a": "New Zealand",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187755/image",
-            "team_b": "India",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [
-            {
-                "drm_key": "b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967",
-                "drm_scheme": "clearkey",
-                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "4dcd41b8ecbc6d0182037e457e2baec9:14a48156510444cc189cdf12c1249670",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd",
-                "name": "PRIME VIDEO HINDI",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f61a0f45500e86607d1467ac70431693:41649554b2a83f221406756debfe3834",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd?",
-                "name": "PRIME VIDEO - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "name": "TNT SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "f61a0f45500e86607d1467ac70431693:41649554b2a83f221406756debfe3834",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd?",
-                "name": "SONYLIV PPV EN - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd?",
-                "name": "SONYLIV PPV TEL - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8",
-                "name": "PLAYZTV - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
-                "name": "WILLOW S2 - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
-                "name": "SONYLIV ENG - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
-                "name": "SONYLIV HIN - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-                "name": "SONYLIV TAM - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
-                "name": "SONYLIV TEL - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
-                "name": "SONYLIV KAN - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793125251~acl=/*~id=08133072583082121495450677842310~hmac=544813feaf3b1e69ee08116a6880a4a859438726bbcd513c79247327e9d43c32",
-                "name": "SONYLIV GLOBAL - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
-                "name": "SONYLIV EN BD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dai.google.com/ssai/event/AN3dE5kTSt6ZIfxddIcoag/master.m3u8",
-                "name": "SONYLIV 50FPS",
-                "token_api": ""
-            }
-        ],
-        "title": "T20 International"
-    },
-    {
         "category": "Snooker",
         "event_info": {
             "end_time": "25/10/2026 05:30:00 +0530",
@@ -867,9 +731,9 @@
     {
         "category": "Tennis",
         "event_info": {
-            "end_time": "26/10/2026 05:30:00 +0530",
+            "end_time": "27/10/2026 05:30:00 +0530",
             "event_name": "Vienna OPEN ",
-            "start_time": "26/10/2026 22:00:00 +0530",
+            "start_time": "27/10/2026 18:00:00 +0530",
             "team_a": "ATP",
             "team_a_flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
             "team_b": "ATP ",
@@ -938,7 +802,7 @@
         "event_info": {
             "end_time": "27/10/2026 05:30:00 +0530",
             "event_name": "Tokyo Open 2026",
-            "start_time": "27/10/2026 07:00:00 +0530",
+            "start_time": "27/10/2026 13:30:00 +0530",
             "team_a": "WTA",
             "team_a_flag": "https://crystalpng.com/wp-content/uploads/2025/03/wta-logo.png",
             "team_b": "WTA",
@@ -1000,10 +864,10 @@
                 "token_api": ""
             },
             {
-                "drm_key": "3942bb0dd3a2c6c22814705725e22885:8cea7d844678df5ad86bf851d27a7f69",
-                "drm_scheme": "clearkey",
-                "link": "https://hoast-plm.shop/playztv/links.php?id=peo1.mpd",
-                "name": "PEO TV - AQ ",
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index.m3u8",
+                "name": "TAMASHA - AQ ",
                 "token_api": ""
             },
             {
@@ -1014,10 +878,10 @@
                 "token_api": ""
             },
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1",
-                "name": "TAMASHA - AQ ",
+                "drm_key": "3942bb0dd3a2c6c22814705725e22885:8cea7d844678df5ad86bf851d27a7f69",
+                "drm_scheme": "clearkey",
+                "link": "https://hoast-plm.shop/playztv/links.php?id=peo1.mpd",
+                "name": "PEO TV - AQ (SL) ",
                 "token_api": ""
             },
             {
@@ -1030,7 +894,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap259/master.m3u8|referer=https://tapmad.com/",
+                "link": "https://t-prod-pk.tapmad.com/v1/01a153e67b331567ee931e109fa596/01a153e6ca051567ee931e109fa599/main.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD HD",
                 "token_api": ""
             },
@@ -1159,6 +1023,13 @@
                 "token_api": ""
             },
             {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW HD",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
                 "link": " https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
@@ -1168,7 +1039,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8|referer=https://tapmad.com/",
+                "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8|referer=https://tapmad.com/",
                 "name": "TAPMAD - AQ",
                 "token_api": ""
             },
@@ -1203,7 +1074,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "link": "https://dai-fancode.pages.dev/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                 "name": "FANCODE IN",
                 "token_api": ""
             }
@@ -1339,10 +1210,122 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
         "streams": [
             {
+                "drm_key": "b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967",
+                "drm_scheme": "clearkey",
+                "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "4dcd41b8ecbc6d0182037e457e2baec9:14a48156510444cc189cdf12c1249670",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd",
+                "name": "PRIME VIDEO HINDI",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f61a0f45500e86607d1467ac70431693:41649554b2a83f221406756debfe3834",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd?",
+                "name": "PRIME VIDEO - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "name": "TNT SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "f61a0f45500e86607d1467ac70431693:41649554b2a83f221406756debfe3834",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgprfsmcco/out/v1/eb3926a34c6c4e4fa9c62c23726f5ff6/cenc.mpd?",
+                "name": "SONYLIV PPV EN - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd?",
+                "name": "SONYLIV PPV TEL - AQ ",
+                "token_api": ""
+            },
+            {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8",
+                "name": "PLAYZTV - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0mieq8c3c/out/v1/b346ac4cf7864dd39245d688e66d4b42/cenc.mpd",
+                "name": "WILLOW S2 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
+                "name": "SONYLIV ENG - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
+                "name": "SONYLIV HIN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
+                "name": "SONYLIV TAM - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
+                "name": "SONYLIV TEL - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
+                "name": "SONYLIV KAN - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793125251~acl=/*~id=08133072583082121495450677842310~hmac=544813feaf3b1e69ee08116a6880a4a859438726bbcd513c79247327e9d43c32",
+                "name": "SONYLIV GLOBAL - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a",
+                "name": "SONYLIV EN BD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dai.google.com/ssai/event/AN3dE5kTSt6ZIfxddIcoag/master.m3u8",
+                "name": "SONYLIV 50FPS",
                 "token_api": ""
             }
         ],
@@ -1638,7 +1621,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793123441~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f63c395fb9f9095e6830c44a8806c3b8207c4ae025a64e99eda177057b96c92c/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "ICC CWC League 2"
     },
     {
@@ -1678,15 +1669,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "streams": [
-            {
-                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "drm_scheme": "clearkey",
-                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793110533~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f384ca41fa81e4cc074b38a83c5e333d2915e4393660d55484943c7aae37c8cf/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "CWC Challenge League"
     },
     {
@@ -1718,7 +1701,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/23342/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793125537~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=f31ff681b66dfdc705f692c0214872bedbd0dd5ef12dce585b6a92eb0fbf3488/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "CWC Challenge League"
     },
     {
@@ -1734,7 +1725,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "T20 International"
     },
     {
@@ -1750,15 +1749,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PREMIERER BR",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -1774,15 +1765,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Saudi Pro League"
     },
     {
@@ -1942,22 +1925,6 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "streams": [],
-        "title": "League One"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "27/10/2026 05:30:00 +0530",
-            "event_name": "League One",
-            "start_time": "28/10/2026 01:15:00 +0530",
-            "team_a": "Oxford United",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/95/image",
-            "team_b": "Stockport County",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/10/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
         "streams": [
             {
                 "drm_key": "",
@@ -1973,6 +1940,22 @@
         "category": "Football",
         "event_info": {
             "end_time": "27/10/2026 05:30:00 +0530",
+            "event_name": "League One",
+            "start_time": "28/10/2026 01:15:00 +0530",
+            "team_a": "Oxford United",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/95/image",
+            "team_b": "Stockport County",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/10/image"
+        },
+        "id": 1,
+        "image": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "streams": [],
+        "title": "League One"
+    },
+    {
+        "category": "Football",
+        "event_info": {
+            "end_time": "27/10/2026 05:30:00 +0530",
             "event_name": "Copa del Rey",
             "start_time": "27/10/2026 23:30:00 +0530",
             "team_a": "UD Pinatar",
@@ -1982,7 +1965,15 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -2016,10 +2007,10 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/21/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
+                "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS FHD",
                 "token_api": ""
             }
         ],
@@ -2422,36 +2413,7 @@
         },
         "id": 1,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://hugh.cdn.rumble.cloud/live/r8wvl35k/live-hls/zrk3-916q/chunklist_i1_DVR.m3u8?tk=5jV9rA1eyFed0UUcPd6enw&e=1793129269|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "STAR SPORTS HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
-                "name": "STAR SPORTS ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://baila-lentoo.pages.dev/all-sp/373201.m3u8",
-                "name": "SS SPORTS FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://dai-fancode.pages.dev/mumbai/4250356_english_hls_8953a306e829984_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE - AQ (IND) ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Nepal Premier League "
     },
     {
@@ -2491,15 +2453,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2519,8 +2473,22 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
+                "link": "https://live.vivo155.com/live/hd-en-1-4621532.m3u8?txSecret=881cc1a1de999e6174009d20401a793f&txTime=6AE0834A|Referer=https://player.on8on8.com/",
                 "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xoilac.domainkqt.cc/",
+                "name": "HD SERVER",
                 "token_api": ""
             }
         ],
@@ -2539,15 +2507,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2563,15 +2523,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2611,15 +2563,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2635,15 +2579,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2659,15 +2595,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2683,15 +2611,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Elite"
     },
     {
@@ -2707,15 +2627,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "AFC Champions League Two"
     },
     {
@@ -2731,15 +2643,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "MLB"
     },
     {
@@ -2755,15 +2659,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2779,15 +2675,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2803,15 +2691,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2827,15 +2707,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -2875,15 +2747,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     },
     {
@@ -2899,15 +2763,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     },
     {
@@ -3051,15 +2907,7 @@
         },
         "id": 1,
         "image": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     }
 ]
