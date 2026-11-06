@@ -1630,7 +1630,22 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "SKY SPORTS PL FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "FUBO SPORTS FHD",
+                "token_api": ""
+            }
+        ],
         "title": "Premier League"
     },
     {
@@ -1693,15 +1708,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Bundesliga"
     },
     {
@@ -1812,7 +1819,22 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPORTS FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CAZE TV FHD",
+                "token_api": ""
+            }
+        ],
         "title": "Ligue 1"
     },
     {
@@ -1828,7 +1850,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "NBA"
     },
     {
@@ -2020,7 +2050,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Nations Championship"
     },
     {
@@ -2036,7 +2074,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "World Cup, Women "
     },
     {
@@ -2123,7 +2169,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "LaLiga 2"
     },
     {
@@ -3691,7 +3745,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "U19 Asia Cup"
     },
     {
@@ -3707,7 +3769,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "U19 Asia Cup"
     },
     {
@@ -3803,36 +3873,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "streams": [
-            {
-                "drm_key": "f5792322b3a44e5aa7a5faa9aa0d4b12:59d43f73391d4b8b9c7edaca0d2b0763",
-                "drm_scheme": "clearkey",
-                "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794067533~acl=*dash%2flive%2f2001591%2f316589-337426%2f*!*dash%2flive%2f2001591-b%2f316589-337426-b%2f*~id=aca18c9a-c755-4606-8a4d-e571fb553e11~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTkuNzMuOTYuMTI4JmV4cD0xNzk0MDY3NTYzJmVpZD0zMTY1ODkmY2lkPWRjZS53b3JsZHJ1Z2J5Jm9pZD0zNzgmdHlwZT1MSVZF~hmac=4ed968aa0713fb13ecd52e212b9c40396f9486cf9ac60598969b12a840834838/dash/live/2001591/316589-337426/manifest-d.mpd",
-                "name": "RUGBYPASS TV AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.41/hls/EEEEAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            },
-            {
-                "drm_key": "c0fea601de4945ed90871501b4223eca:719e2fb69f27023d437238b261fa49a6",
-                "drm_scheme": "clearkey",
-                "link": "https://live01-stan.akamaized.net/out/v1/036494b93c45485b8a77d2d19d162e6c/index.mpd",
-                "name": "STAN SPORTS AQ (AUS) ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Nations Cup"
     }
 ]
