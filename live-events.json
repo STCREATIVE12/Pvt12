@@ -1680,22 +1680,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "streams": [
-            {
-                "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-                "drm_scheme": "clearkey",
-                "link": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-                "name": "LALIGA HYPEMOTION ES - AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "LaLiga 2"
     },
     {
@@ -1775,7 +1760,57 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "4a4ff5eedffeb58b538053b556578b9c:ade1a30a4508fb94fec2c6e19dacb069",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/99c1spmqf4/out/v1/6df8df24c10e4f5babaad97b0e9b2624/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "DAZN SPORTS FHD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN ENGLISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "beIN SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "CAZETV - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://hoast-plm.shop/playztv/links.php?id=setanta1.m3u8",
+                "name": "SETANTA SPORTS RU AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "Ligue 1"
     },
     {
@@ -1935,7 +1970,43 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "c79965c6e98d75014af324695469beb1:1e13d1bd23ca2b97cf02d59013dd0d08",
+                "drm_scheme": "clearkey",
+                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ccyildnmm0/out/v1/bae85fd9be274c13a7e0c658cef09664/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+                "name": "SKY CRICKET - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                "name": "WILLOW SPORTS",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://dai-fancode.pages.dev/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE [IND]",
+                "token_api": ""
+            }
+        ],
         "title": "Women's Big Bash League"
     },
     {
@@ -1967,7 +2038,43 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd",
+                "name": "WILLOW - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "ba574d2f843814a52b478ede5f2d1801:075d45773a901e56cea8f12bc4e2e7f1",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dl1fffpemp/out/v1/1614fa801f50438792fcc1c8ca3938ef/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "SONYLIV PPV AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ACC-MEN-U19-avod-B-abr/playlist.m3u8",
+                "name": "TAMASHA AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=654424ac4c1d5d648028c4d670c26f52-1794025803004",
+                "name": "SONYLIVE ENG - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+                "name": "PTV SPORTS HD",
+                "token_api": ""
+            }
+        ],
         "title": "U19 Asia Cup"
     },
     {
@@ -2047,7 +2154,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34898/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Nations Cup"
     },
     {
@@ -2063,7 +2178,29 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+                "drm_scheme": "clearkey",
+                "link": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+                "name": "RUGBYPASS TV - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "25930faf5459448494a6138dbf6e6458:b5aa188f718f5d18335085d7b5838510",
+                "drm_scheme": "clearkey",
+                "link": "https://live01-stan.akamaized.net/out/v1/e516c722d45240a081ca8ba80143f70d/index.mpd",
+                "name": "STAN SPORTS AQ (AUS) ",
+                "token_api": ""
+            }
+        ],
         "title": "Nations Championship"
     },
     {
@@ -2127,36 +2264,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://chatgpt.hereisman.net/playlist/59499/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-                "name": "PlayZTV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.55/hls/KIKIKIAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "MLS"
     },
     {
@@ -2252,7 +2360,22 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -2268,7 +2391,36 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59504/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                "name": "PlayZTV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/KIKIKIAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "SD STREAM",
+                "token_api": ""
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -2300,7 +2452,36 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59498/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                "name": "PlayZTV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/KIKIKIAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "SD STREAM",
+                "token_api": ""
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -2316,7 +2497,36 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://chatgpt.hereisman.net/playlist/59505/load-playlist-multi|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                "name": "PlayZTV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.55/hls/KIKIKIAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "SD STREAM",
+                "token_api": ""
+            }
+        ],
         "title": "MLS"
     },
     {
@@ -2596,22 +2806,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
