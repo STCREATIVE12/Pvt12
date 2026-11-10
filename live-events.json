@@ -2,9 +2,9 @@
     {
         "category": "Cricket",
         "event_info": {
-            "end_time": "07/11/2026 05:30:00 +0530",
+            "end_time": "",
             "event_name": "One Day International",
-            "start_time": "07/11/2026 07:30:00 +0530",
+            "start_time": "10/11/2026 07:30:00 +0530",
             "team_a": "New Zealand",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/187755/image",
             "team_b": "India",
@@ -14,107 +14,107 @@
         "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "streams": [
             {
-                "drm_key": "d1be89e5a60d67f753be9b35a803c8b9:f8e35aafae8c3f3dd92dac7be4642a8b",
+                "drm_key": "8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd",
                 "name": "WILLOW - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "8e3eef73bb953c9da96600b47e2190d1:f1dbf72267c0bb24aa5fa2ab61987df8",
+                "drm_key": "c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "PRIME HINDI - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "d6fa7afe010c5fd6a05338599da7158f:865584ea64ec125cd6524ab3fb7d0e80",
+                "drm_key": "c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "PRIME VIDEO - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd",
+                "name": "PRIME ENG - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
                 "name": "TNT SPORTS - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794320123~acl=/*~id=69594299885460653397203984665684~hmac=e70be473cd4715b44d7fdea5770bd053ca81b2e18a952b3b76c93c47250ad828",
                 "name": "SONYLIV ENG - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
                 "name": "TAPMAD - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
+                "drm_key": "e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "WILLOW S2 - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794320123~acl=/*~id=69594299885460653397203984665684~hmac=e70be473cd4715b44d7fdea5770bd053ca81b2e18a952b3b76c93c47250ad828",
                 "name": "SONYLIV HIN - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
-                "name": "SONYLIV TAM - AQ ",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794301211~acl=/*~id=00858194213530836677264756418285~hmac=655ba2e25cfc6ca0b7a3da4acd6270abc89c7125f6ba418bac948e1f98cd33ca",
+                "name": "SONYLIV TAM - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
-                "name": "SONYLIV TEL - AQ ",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794320123~acl=/*~id=69594299885460653397203984665684~hmac=e70be473cd4715b44d7fdea5770bd053ca81b2e18a952b3b76c93c47250ad828",
+                "name": "SONYLIV TEL - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794320123~acl=/*~id=69594299885460653397203984665684~hmac=e70be473cd4715b44d7fdea5770bd053ca81b2e18a952b3b76c93c47250ad828",
                 "name": "SONYLIV KAN - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794320123~acl=/*~id=69594299885460653397203984665684~hmac=e70be473cd4715b44d7fdea5770bd053ca81b2e18a952b3b76c93c47250ad828",
                 "name": "SONYLIV GLOBAL - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794320123~acl=/*~id=69594299885460653397203984665684~hmac=e70be473cd4715b44d7fdea5770bd053ca81b2e18a952b3b76c93c47250ad828",
                 "name": "SONYLIV EN BD - AQ",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/Cricodi_0611/ENG/master.m3u8?hdnea=exp=1794054729~acl=/*~id=ce51118c160dd2ed14be81cff9449eb0-1794011528755~hmac=777fc217992f3d0218eef2d0af95b24d645effd90c93995c9224e5a6a4e09018",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
                 "name": "SONYLIV 50FPS",
                 "token_api": ""
             },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/Cricodi_0611/HIN/master.m3u8?hdnea=exp=1794054601~acl=/*~id=39276a4c571e805f709e8353ebdf8be6-1794011401069~hmac=39a999a3bed5dcae1a70d90039376b6ba2f6d5ea74de45be15e4002b2046927b",
+                "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
                 "name": "SONYLIV HIN 50FPS",
                 "token_api": ""
             },
@@ -128,7 +128,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794056574~acl=/*~id=90637407514746629489185502876710~hmac=99ab5bcfd33712e923de8d85bba493cf8e0463207e4c951eedfa220f9967cb3d",
+                "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794318652~acl=/*~id=27739781108605900451080966186628~hmac=10c7f7c75ce6e6144e1373605dee4c490ed69f1eb0b08bfb12b34b82ebf86b9f",
                 "name": "SONY SKY FEED",
                 "token_api": ""
             },
@@ -142,7 +142,7 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8|referer=https://tapmad.com/",
+                "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
                 "name": "TAPMAD S2 - AQ",
                 "token_api": ""
             },
@@ -1232,30 +1232,6 @@
         "title": "Nepal Premier League "
     },
     {
-        "category": "Cricket",
-        "event_info": {
-            "end_time": "",
-            "event_name": "One Day International",
-            "start_time": "10/11/2026 07:30:00 +0530",
-            "team_a": "New Zealand",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187755/image",
-            "team_b": "India",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/187765/image"
-        },
-        "id": 1,
-        "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "streams": [
-            {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "name": "TNT SPORTS - AQ",
-                "token_api": ""
-            }
-        ],
-        "title": "One Day International"
-    },
-    {
         "category": "Football",
         "event_info": {
             "end_time": "05/11/2026 05:30:00 +0530",
@@ -1705,15 +1681,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Women's Champions League"
     },
     {
@@ -1745,7 +1713,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Women's Champions League"
     },
     {
@@ -1801,7 +1777,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/18897/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Campeonato Carioca Feminino"
     },
     {
@@ -1817,15 +1801,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Women's Champions League"
     },
     {
@@ -1857,15 +1833,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -1881,7 +1849,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -1897,15 +1873,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -1953,7 +1921,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Copa del Rey"
     },
     {
@@ -2001,7 +1977,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Africa Cup of Nations Qual."
     },
     {
@@ -2033,15 +2017,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2105,15 +2081,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2225,15 +2193,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2265,15 +2225,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2289,15 +2241,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2313,15 +2257,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2337,15 +2273,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2361,15 +2289,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2385,15 +2305,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2409,15 +2321,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2433,15 +2337,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2457,15 +2353,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2481,15 +2369,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2505,15 +2385,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2529,15 +2401,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2553,15 +2417,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2577,15 +2433,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2601,15 +2449,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2625,15 +2465,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2649,15 +2481,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2673,15 +2497,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2697,15 +2513,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Nations League"
     },
     {
@@ -2937,7 +2745,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/853/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Club Friendly Games"
     },
     {
@@ -3145,7 +2961,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "CONCACAF Nations League"
     },
     {
@@ -3161,7 +2985,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Africa Cup of Nations Qual."
     },
     {
@@ -3177,7 +3009,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "CONCACAF Nations League"
     },
     {
@@ -3193,7 +3033,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Africa Cup of Nations Qual."
     },
     {
@@ -3209,7 +3057,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "Africa Cup of Nations Qual."
     },
     {
@@ -3321,36 +3177,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
-        "streams": [
-            {
-                "drm_key": "d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972",
-                "drm_scheme": "clearkey",
-                "link": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd",
-                "name": "WILLOW - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
-                "name": "A SPORTS HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.44/hls/D222A.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Test Series"
     },
     {
@@ -3398,7 +3225,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "International Friendly Games"
     },
     {
@@ -3462,7 +3297,15 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "Ok",
+                "name": "PlayZ TV Live",
+                "token_api": ""
+            }
+        ],
         "title": "International Friendly Games"
     },
     {
@@ -3542,15 +3385,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "International Friendly Games"
     },
     {
@@ -3590,15 +3425,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "International Friendly Games"
     },
     {
@@ -3614,15 +3441,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "International Friendly Games"
     },
     {
@@ -3638,15 +3457,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "International Friendly Games"
     },
     {
@@ -3662,15 +3473,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "International Friendly Games"
     },
     {
@@ -3734,15 +3537,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "International Friendly Games"
     },
     {
@@ -3758,22 +3553,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3820,22 +3600,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3851,22 +3616,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3882,22 +3632,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3913,22 +3648,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -3944,22 +3664,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NBA"
     },
     {
@@ -4006,15 +3711,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "name": "PREMIER SPORTS - AQ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     },
     {
@@ -4030,15 +3727,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-                "name": "PREMIER SPORTS - AQ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     },
     {
@@ -4054,22 +3743,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NHL"
     },
     {
@@ -4085,50 +3759,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [
-            {
-                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                "name": "TSN - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                "name": "SporTV BR - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-                "name": "TSN 3",
-                "token_api": ""
-            },
-            {
-                "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-                "name": "TSN 4",
-                "token_api": ""
-            },
-            {
-                "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-                "name": "TSN 5",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "NFL"
     },
     {
@@ -4144,15 +3775,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "U19 Asia Cup"
     },
     {
@@ -4168,22 +3791,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cdn05khi-n.tamashaweb.com:8087/appcast/ACCMEN-U19-2026-avod-abr/playlist.m3u8",
-                "name": "TAMASHA AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-                "name": "TEN SPORTS HD",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "U19 Asia Cup"
     },
     {
@@ -4199,15 +3807,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UFC"
     }
 ]
