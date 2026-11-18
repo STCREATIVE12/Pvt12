@@ -1,50 +1,5 @@
 [
     {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "International Friendly Games",
-            "start_time": "18/11/2026 04:30:00 +0530",
-            "team_a": "Argentina",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4819/image",
-            "team_b": "Costa Rica",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4756/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "SporTV BR FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "SporTV BR ALT",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                "name": "HD STREAM ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.44/hls/YPPPAAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
         "category": "Snooker",
         "event_info": {
             "end_time": "08/11/2026 05:30:00 +0530",
@@ -1290,7 +1245,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "Nepal Premier League ",
-            "start_time": "18/11/2026 12:15:00 +0530",
+            "start_time": "18/11/2026 16:45:00 +0530",
             "team_a": "NPL",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10",
             "team_b": "NPL",
@@ -1304,13 +1259,6 @@
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                 "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936",
-                "drm_scheme": "clearkey",
-                "link": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
-                "name": "NPL LIVE FHD",
                 "token_api": ""
             },
             {
@@ -1525,22 +1473,6 @@
         "title": "ICC World Test Championship"
     },
     {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "International Friendly Games",
-            "start_time": "18/11/2026 05:00:00 +0530",
-            "team_a": "Uruguay",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4725/image",
-            "team_b": "Dominican Republic",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/21813/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [],
-        "title": "International Friendly Games"
-    },
-    {
         "category": "Cricket",
         "event_info": {
             "end_time": "",
@@ -1555,9 +1487,9 @@
         "image": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
         "streams": [
             {
-                "drm_key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
+                "drm_key": "a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd",
                 "name": "WILLOW - AQ",
                 "token_api": ""
             },
@@ -1573,13 +1505,6 @@
                 "drm_scheme": "",
                 "link": "https://cdn03khi-n.tamashaweb.com:8087/appcast/SL-vs-PAK-2026-SVOD-abr/playlist.m3u8",
                 "name": "TAMASHA PRO AQ ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "WILLOW S2 - AQ",
                 "token_api": ""
             },
             {
@@ -1657,44 +1582,6 @@
         "event_info": {
             "end_time": "18/11/2026 05:30:00 +0530",
             "event_name": "International Friendly Games",
-            "start_time": "18/11/2026 04:30:00 +0530",
-            "team_a": "Chile",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4754/image",
-            "team_b": "Colombia",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4820/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "streams": [
-            {
-                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "D Sports FHD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
-                "name": "HD stream  ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.41/hls/YPPPA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            }
-        ],
-        "title": "International Friendly Games"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "International Friendly Games",
             "start_time": "18/11/2026 05:00:00 +0530",
             "team_a": "Ecuador",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/4757/image",
@@ -1705,70 +1592,6 @@
         "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "streams": [],
         "title": "International Friendly Games"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "CONCACAF Nations League",
-            "start_time": "18/11/2026 05:30:00 +0530",
-            "team_a": "USA",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4724/image",
-            "team_b": "Haiti",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/7229/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "streams": [],
-        "title": "CONCACAF Nations League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "CONCACAF Nations League",
-            "start_time": "18/11/2026 06:30:00 +0530",
-            "team_a": "El Salvador",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4825/image",
-            "team_b": "Saint Martin",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/33812/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "streams": [],
-        "title": "CONCACAF Nations League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "CONCACAF Nations League",
-            "start_time": "18/11/2026 08:30:00 +0530",
-            "team_a": "Nicaragua",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/21817/image",
-            "team_b": "Montserrat",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/21815/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "streams": [],
-        "title": "CONCACAF Nations League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "CONCACAF Nations League",
-            "start_time": "18/11/2026 08:00:00 +0530",
-            "team_a": "Mexico",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4781/image",
-            "team_b": "Jamaica",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4769/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "streams": [],
-        "title": "CONCACAF Nations League"
     },
     {
         "category": "Cricket",
@@ -1839,40 +1662,16 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                "drm_scheme": "clearkey",
+                "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795006966~acl=*%2Fchannel(vcg-01-ch-hd-07)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=a442e7513aa54b4dff0acf0a6d2bbfb5469d09d595f36b01e8d2ad02265beafd/manifest.mpd?vcfilter=f4e483dc-fc25-46c7-a270-0a28978bfe20&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+                "name": "ICC TV FHD",
+                "token_api": ""
+            }
+        ],
         "title": "Womens Emerging Nations Trophy"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "NBA",
-            "start_time": "18/11/2026 09:00:00 +0530",
-            "team_a": "Los Angeles Clippers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3425/image",
-            "team_b": "Utah Jazz",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3434/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "NBA",
-            "start_time": "18/11/2026 06:30:00 +0530",
-            "team_a": "Minnesota Timberwolves",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3426/image",
-            "team_b": "Portland Trail Blazers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3414/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
-        "title": "NBA"
     },
     {
         "category": "Basketball",
@@ -1887,399 +1686,8 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "NBA",
-            "start_time": "18/11/2026 06:30:00 +0530",
-            "team_a": "San Antonio Spurs",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3429/image",
-            "team_b": "Detroit Pistons",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3424/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
         "streams": [],
         "title": "NBA"
-    },
-    {
-        "category": "Basketball",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "NBA",
-            "start_time": "18/11/2026 06:00:00 +0530",
-            "team_a": "Toronto Raptors",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3433/image",
-            "team_b": "New York Knicks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3421/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "streams": [],
-        "title": "NBA"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 05:30:00 +0530",
-            "team_a": "Florida Panthers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3687/image",
-            "team_b": "Edmonton Oilers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3686/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 08:30:00 +0530",
-            "team_a": "San Jose Sharks",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3696/image",
-            "team_b": "Calgary Flames",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3679/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 08:30:00 +0530",
-            "team_a": "Vegas Golden Knights",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/257523/image",
-            "team_b": "Dallas Stars",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3684/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 05:30:00 +0530",
-            "team_a": "Philadelphia Flyers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3699/image",
-            "team_b": "Buffalo Sabres",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3678/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 05:30:00 +0530",
-            "team_a": "New York Islanders",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3703/image",
-            "team_b": "Columbus Blue Jackets",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3683/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 06:30:00 +0530",
-            "team_a": "St. Louis Blues",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3695/image",
-            "team_b": "Anaheim Ducks",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3675/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 06:30:00 +0530",
-            "team_a": "Minnesota Wild",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3689/image",
-            "team_b": "Nashville Predators",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3705/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 06:00:00 +0530",
-            "team_a": "Tampa Bay Lightning",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3694/image",
-            "team_b": "Washington Capitals",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3691/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                "name": "PREMIER SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 06:00:00 +0530",
-            "team_a": "Chicago Blackhawks",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3681/image",
-            "team_b": "Toronto Maple Leafs",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3693/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 05:30:00 +0530",
-            "team_a": "Winnipeg Jets",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3676/image",
-            "team_b": "Ottawa Senators",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3700/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
-    },
-    {
-        "category": "Hockey",
-        "event_info": {
-            "end_time": "",
-            "event_name": "NHL",
-            "start_time": "18/11/2026 05:30:00 +0530",
-            "team_a": "Boston Bruins",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3677/image",
-            "team_b": "Los Angeles Kings",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3688/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PLAYZTV Live [FHD]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "",
-                "name": "PlayZ TV [FHD]",
-                "token_api": ""
-            }
-        ],
-        "title": "NHL"
     },
     {
         "category": "Cricket",
@@ -2294,43 +1702,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "streams": [
-            {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-                "name": "TNT SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                "name": "FANCODE - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-                "drm_scheme": "clearkey",
-                "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-                "name": "EURO SPORTS - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                "drm_scheme": "clearkey",
-                "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-                "name": "WILLOW HD",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8|referer=https://tapmad.com/",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "One Day International"
     },
     {
@@ -2346,64 +1718,8 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Women's Champions League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "Campeonato Carioca Feminino",
-            "start_time": "18/11/2026 23:30:00 +0530",
-            "team_a": "Flamengo",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/248722/image",
-            "team_b": "Fluminense",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/312739/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/18897/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Campeonato Carioca Feminino"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "Campeonato Carioca Feminino",
-            "start_time": "18/11/2026 23:30:00 +0530",
-            "team_a": "Botafogo",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/312884/image",
-            "team_b": "Vasco da Gama",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/312835/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/18897/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Campeonato Carioca Feminino"
     },
     {
         "category": "Football",
@@ -2442,15 +1758,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Women's Champions League"
     },
     {
@@ -2466,40 +1774,8 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "Campeonato Carioca Feminino",
-            "start_time": "19/11/2026 00:30:00 +0530",
-            "team_a": "Flamengo",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/248722/image",
-            "team_b": "Botafogo",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/312884/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/18897/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Campeonato Carioca Feminino"
     },
     {
         "category": "Football",
@@ -2514,15 +1790,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Women's Champions League"
     },
     {
@@ -2538,15 +1806,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -2562,15 +1822,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "UEFA Women's Champions League"
     },
     {
@@ -2586,40 +1838,8 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "Copa del Rey",
-            "start_time": "18/11/2026 23:30:00 +0530",
-            "team_a": "Utebo FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/212294/image",
-            "team_b": "CE Sabadell",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/24335/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Copa del Rey"
     },
     {
         "category": "Football",
@@ -2634,15 +1854,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
@@ -2658,15 +1870,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Campeonato Brasileiro Série A"
     },
     {
@@ -2706,39 +1910,7 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Copa del Rey"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "18/11/2026 05:30:00 +0530",
-            "event_name": "Copa del Rey",
-            "start_time": "19/11/2026 01:00:00 +0530",
-            "team_a": "Reus FC Reddis",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/486292/image",
-            "team_b": "Barakaldo CF",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2879/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
+        "streams": [],
         "title": "Copa del Rey"
     },
     {
