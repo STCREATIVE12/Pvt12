@@ -2,7 +2,7 @@
     {
         "category": "Cricket",
         "event_info": {
-            "end_time": "",
+            "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "Men's Asia Cup Rising Stars",
             "start_time": "26/11/2026 15:30:00 +0530",
             "team_a": "India A",
@@ -13,6 +13,13 @@
         "id": 1,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
         "streams": [
+            {
+                "drm_key": "115086768751d95aac011169ff3547bd:3e3c4e34b782a6ffe98df710f8dc0a00",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sqn5t3keuo/out/v1/9d5e81f1ef7a4f39baa79cec0073d671/cenc.mpd?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+                "name": "PRIME VIDEO (Multi-Audio)",
+                "token_api": ""
+            },
             {
                 "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
                 "drm_scheme": "clearkey",
@@ -406,9 +413,9 @@
     {
         "category": "WWE",
         "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
+            "end_time": "03/12/2026 05:30:00 +0530",
             "event_name": "AEW Dynamite",
-            "start_time": "26/11/2026 06:30:00 +0530",
+            "start_time": "03/12/2026 06:30:00 +0530",
             "team_a": "DYNAMITE",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
             "team_b": "DYNAMITE ",
@@ -572,6 +579,51 @@
             }
         ],
         "title": "ONE FRIDAY FIGHTS 179"
+    },
+    {
+        "category": "Boxing",
+        "event_info": {
+            "end_time": "",
+            "event_name": "MatchRoom Boxing ",
+            "start_time": "05/12/2026 22:30:00 +0530",
+            "team_a": "Conah Walker",
+            "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
+            "team_b": "Alexis Rocha",
+            "team_b_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10"
+        },
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
+        "streams": [
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60107\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                "name": "PlayZTV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.41/hls/NGGG.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "SD STREAM",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "DAZN SD",
+                "token_api": ""
+            }
+        ],
+        "title": "MatchRoom Boxing "
     },
     {
         "category": "WWE",
@@ -850,12 +902,12 @@
     {
         "category": "Mixed Martial Arts",
         "event_info": {
-            "end_time": "21/11/2026 05:30:00 +0530",
-            "event_name": "OKTAGON 98",
-            "start_time": "21/11/2026 22:00:00 +0530",
-            "team_a": "Mateusz Legierski",
+            "end_time": "",
+            "event_name": "OKTAGON 99",
+            "start_time": "15/12/2026 22:30:00 +0530",
+            "team_a": "ARAS",
             "team_a_flag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
-            "team_b": "Ivan Buchinger",
+            "team_b": "FLORES",
             "team_b_flag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png"
         },
         "id": 1,
@@ -876,7 +928,7 @@
                 "token_api": ""
             }
         ],
-        "title": "OKTAGON 98"
+        "title": "OKTAGON 99"
     },
     {
         "category": "Boxing",
@@ -957,9 +1009,9 @@
     {
         "category": "Mixed Martial Arts",
         "event_info": {
-            "end_time": "21/11/2026 05:30:00 +0530",
-            "event_name": "BKFC 97",
-            "start_time": "21/11/2026 07:30:00 +0530",
+            "end_time": "05/12/2026 05:30:00 +0530",
+            "event_name": "BKFC FIGHT NIGHT ",
+            "start_time": "05/12/2026 05:30:00 +0530",
             "team_a": "BKFC",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
             "team_b": "BKFC",
@@ -997,14 +1049,14 @@
                 "token_api": ""
             }
         ],
-        "title": "BKFC 97"
+        "title": "BKFC FIGHT NIGHT "
     },
     {
         "category": "Boxing",
         "event_info": {
-            "end_time": "15/11/2026 05:30:00 +0530",
+            "end_time": "19/12/2026 05:30:00 +0530",
             "event_name": "MISFITS",
-            "start_time": "15/11/2026 00:30:00 +0530",
+            "start_time": "19/12/2026 05:30:00 +0530",
             "team_a": "MISFITS",
             "team_a_flag": "https://pbs.twimg.com/profile_images/1524910562164998162/aPSdO8zt_400x400.jpg",
             "team_b": "MISFITS",
@@ -1040,9 +1092,9 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "24/11/2026 05:30:00 +0530",
+            "end_time": "",
             "event_name": "The - Golazo Show",
-            "start_time": "25/11/2026 01:25:00 +0530",
+            "start_time": "26/11/2026 23:10:00 +0530",
             "team_a": "Golazo Show",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
             "team_b": "Golazo Show",
@@ -1052,10 +1104,17 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
         "streams": [
             {
-                "drm_key": "acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2",
+                "drm_key": "629217a2952c541bed541053bebb6e79:78329d9e16fd79edd93ff9f7f9c758e8",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfwewesw54/out/v1/522359f03dd5411fa96d4fb84375f0df/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                 "name": "PARAMOUNT+",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+                "name": "CBS SPORTS GOLAZO AQ ",
                 "token_api": ""
             }
         ],
@@ -1326,7 +1385,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "International League T20",
-            "start_time": "26/11/2026 20:00:00 +0530",
+            "start_time": "27/11/2026 20:00:00 +0530",
             "team_a": "ILT T20",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
             "team_b": "ILT T20",
@@ -1336,9 +1395,9 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
         "streams": [
             {
-                "drm_key": "d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce",
+                "drm_key": "d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd",
                 "name": "WILLOW - AQ",
                 "token_api": ""
             },
@@ -1350,9 +1409,9 @@
                 "token_api": ""
             },
             {
-                "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
                 "name": "TNT SPORTS - AQ",
                 "token_api": ""
             },
@@ -1387,8 +1446,8 @@
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "https://in-mc-vod.fancode.com/mumbai/4251054_english_hls_b961d4d41363338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE AQ (IND) ",
+                "link": "https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE [IND]",
                 "token_api": ""
             }
         ],
@@ -1399,7 +1458,7 @@
         "event_info": {
             "end_time": "",
             "event_name": "Italia T10 2026",
-            "start_time": "26/11/2026 16:30:00 +0530",
+            "start_time": "27/11/2026 16:30:00 +0530",
             "team_a": "Italia T10",
             "team_a_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
             "team_b": "Italia T10",
@@ -1437,11 +1496,11 @@
         "event_info": {
             "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "Davis Cup",
-            "start_time": "26/11/2026 14:30:00 +0530",
-            "team_a": "Great Britain",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/15766/image",
-            "team_b": "Germany",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/4711/image"
+            "start_time": "26/11/2026 21:30:00 +0530",
+            "team_a": "Austria",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/4718/image",
+            "team_b": "Spain",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/4698/image"
         },
         "id": 1,
         "image": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
@@ -1465,6 +1524,55 @@
                 "drm_scheme": "clearkey",
                 "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                 "name": "TSN SPORTS AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PZ TV HD",
                 "token_api": ""
             }
         ],
@@ -1497,51 +1605,6 @@
     {
         "category": "Cricket",
         "event_info": {
-            "end_time": "25/11/2026 05:30:00 +0530",
-            "event_name": "Womens Emerging Nations Trophy",
-            "start_time": "25/11/2026 10:30:00 +0530",
-            "team_a": "Sri Lanka Women",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/187806/image",
-            "team_b": "Ireland Women",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/213116/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "streams": [
-            {
-                "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                "drm_scheme": "clearkey",
-                "link": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                "name": "PLAYZ TV LIVE ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/",
-                "name": "MYCO - AQ [PK]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8",
-                "name": "TAMASHA - AQ [PK]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE AQ [ind] ",
-                "token_api": ""
-            }
-        ],
-        "title": "Womens Emerging Nations Trophy"
-    },
-    {
-        "category": "Cricket",
-        "event_info": {
             "end_time": "",
             "event_name": "T20 International",
             "start_time": "27/11/2026 13:45:00 +0530",
@@ -1566,7 +1629,7 @@
     {
         "category": "Cricket",
         "event_info": {
-            "end_time": "",
+            "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "Women's Big Bash League",
             "start_time": "26/11/2026 13:40:00 +0530",
             "team_a": "Sydney Sixers Women",
@@ -1576,56 +1639,58 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "streams": [],
-        "title": "Women's Big Bash League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 19:30:00 +0530",
-            "team_a": "Uzbekistan U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/22662/image",
-            "team_b": "Italy U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/22616/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
         "streams": [
             {
-                "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+                "drm_key": "41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-                "name": "D Sports ES - AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd",
+                "name": "WILLOW - AQ",
                 "token_api": ""
-            }
-        ],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 21:30:00 +0530",
-            "team_a": "Tajikistan U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/229664/image",
-            "team_b": "Senegal U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/323076/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
+                "link": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2GapTrGM8HC5WXnbA6bzAozHCCBMY52Y3TC69oRNUsW2vE2ZqcprUHApPAgvNRbeECYmKzYiConP/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=193794596381",
+                "name": "CRICKET AU AQ ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "WILLOW HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "FOX CRICKET [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|referer=https://tapmad.com/",
+                "name": "TAPMAD HD",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                "name": "FANCODE [IND]",
                 "token_api": ""
             }
         ],
-        "title": "U17 World Championship"
+        "title": "Women's Big Bash League"
     },
     {
         "category": "Football",
@@ -1642,149 +1707,28 @@
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "streams": [
             {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Beşiktaş JK",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3050/image",
-            "team_b": "Hapoel Be'er Sheva",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/5202/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Pafos FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/171626/image",
-            "team_b": "FC Midtjylland",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1289/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 20:30:00 +0530",
-            "team_a": "Morocco U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/48862/image",
-            "team_b": "Spain U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/22479/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [
-            {
-                "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "drm_key": "a1f2f5f9b9b7caf40763d6fe67dd3048:60ba52351ffc4c6b6ae3ee8966ddbe1c",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-                "name": "TSN SPORTS - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ldaubazqbc/out/v1/71a959b551d342a89613f362dfaca109/cenc.mpd",
+                "name": "DAZN SPORTS - AQ",
                 "token_api": ""
             },
             {
-                "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                "drm_key": "1e2df296fc484d87ba17a83d29ff90e4:9e1af717b5d201582ff00a5ed53f15cf",
                 "drm_scheme": "clearkey",
-                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                "name": "D Sports ES - AQ",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yxovu0ikea/out/v1/942a4df6f8014b9ca76a7ae254e66fe3/cenc.mpd",
+                "name": "PARAMOUNT+ - AQ",
                 "token_api": ""
-            }
-        ],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "FK Kauno Žalgiris",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/80741/image",
-            "team_b": "Riga FC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/162368/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "AFC Champions League Two",
-            "start_time": "26/11/2026 17:45:00 +0530",
-            "team_a": "BG Pathum United",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/35607/image",
-            "team_b": "Lion City Sailors",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3041/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
+            },
             {
                 "drm_key": "",
                 "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
                 "token_api": ""
             }
         ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "KF Egnatia",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/264619/image",
-            "team_b": "Lincoln Red Imps",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/126304/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "UEFA Conference League"
+        "title": "UEFA Europa League"
     },
     {
         "category": "Football",
@@ -1822,30 +1766,6 @@
         "category": "Football",
         "event_info": {
             "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "Saudi Pro League",
-            "start_time": "26/11/2026 23:00:00 +0530",
-            "team_a": "Al Faisaly",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/56035/image",
-            "team_b": "Diriyah",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/853574/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "Ok",
-                "name": "PlayZ TV Live",
-                "token_api": ""
-            }
-        ],
-        "title": "Saudi Pro League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "UEFA Europa League",
             "start_time": "27/11/2026 01:30:00 +0530",
             "team_a": "Ferencváros TC",
@@ -1855,7 +1775,29 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "2a13189e1cf415f4784d670ecf4c58e1:06e086f9e17f1150382a1ae106494807",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s51xhb5ixx/out/v1/52f83b89e42640bba700c51db2cb65fe/cenc.mpd",
+                "name": "DAZN SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "dd0e0d3eaccde2b6f4bcd972f10089ed:9de35ccdc10b5cb474996c42f117c807",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z1ztodpfsz/out/v1/8e34bf69a8374ced8eae2afb5912ec32/cenc.mpd",
+                "name": "PARAMOUNT+ - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Europa League"
     },
     {
@@ -1887,24 +1829,23 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "124fab59784417d9b78fe1369571712b:182610e03e1b1925385eb13fa90449f9",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b5pbwl1cne/out/v1/50c08b0c9e264918af62eeb3f268c2ba/cenc.mpd",
+                "name": "PARAMOUNT+ - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "515d1e79ac40d29d322aaff7d72a38e3:eff3f71e227fd37ce120500794ac09cf",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vdivyuprtt/out/v1/9d3fbdd64a7c46e6aaef568fd4e6b18b/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Olympiacos FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3245/image",
-            "team_b": "AC Milan",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2692/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
     },
     {
         "category": "Football",
@@ -1919,7 +1860,29 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "29cabc40079948889270672cdb4e8bda:18b4ecca3274892bb397388378d9c98d",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d7xcz7rioe/out/v1/96e07a52601443afb0716f1f629cb125/cenc.mpd",
+                "name": "PARAMOUNT+ - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "5aa0c86d77284f235e97c5d7e801f492:50cc7b4c45c75abc80d92753c44d2741",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/in1byv9kxb/out/v1/5b47785e66814ea59c06686245b2db19/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -1932,70 +1895,6 @@
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2903/image",
             "team_b": "FK Crvena zvezda",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/5149/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "GNK Dinamo Zagreb",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2032/image",
-            "team_b": "Bayer 04 Leverkusen",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2681/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "SK Brann",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1159/image",
-            "team_b": "AGF",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1291/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "AFC Champions League Two",
-            "start_time": "26/11/2026 15:30:00 +0530",
-            "team_a": "Tampines Rovers",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/3043/image",
-            "team_b": "Shanghai Shenhua",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3373/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "AFC Ajax",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2953/image",
-            "team_b": "FC Thun",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2454/image"
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
@@ -2022,91 +1921,12 @@
         "category": "Football",
         "event_info": {
             "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 19:30:00 +0530",
-            "team_a": "Jamaica U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/22617/image",
-            "team_b": "Côte d'Ivoire U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/48857/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 20:30:00 +0530",
-            "team_a": "China U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/468402/image",
-            "team_b": "Fiji U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1096685/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "AFC Champions League Two",
-            "start_time": "26/11/2026 17:45:00 +0530",
-            "team_a": "Tai Po",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/40662/image",
-            "team_b": "Adelaide United",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2946/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            },
-            {
-                "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                "drm_scheme": "clearkey",
-                "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-                "name": "SPORTDIGITAL FUSSBALL - AQ",
-                "token_api": ""
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "UEFA Conference League",
             "start_time": "27/11/2026 01:30:00 +0530",
             "team_a": "Sporting Braga",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2999/image",
             "team_b": "Kuopion Palloseura",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2244/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 21:00:00 +0530",
-            "team_a": "FC Kairat Almaty",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/5172/image",
-            "team_b": "Mjällby AIF",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1783/image"
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
@@ -2134,38 +1954,6 @@
         "event_info": {
             "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Red Bull Salzburg",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2046/image",
-            "team_b": "FC Ararat-Armenia",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/262229/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "AFC Champions League Two",
-            "start_time": "26/11/2026 17:45:00 +0530",
-            "team_a": "Preah Khan Reach Svay Rieng FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/153474/image",
-            "team_b": "Machida Zelvia",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/44409/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
             "start_time": "27/11/2026 01:30:00 +0530",
             "team_a": "Olympique Lyonnais",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/1649/image",
@@ -2181,114 +1969,12 @@
         "category": "Football",
         "event_info": {
             "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Brighton & Hove Albion",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/30/image",
-            "team_b": "Universitatea Craiova",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/116223/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "UEFA Europa League",
             "start_time": "27/11/2026 01:30:00 +0530",
             "team_a": "AC Sparta Praha",
             "team_a_flag": "https://img.sofascore.com/api/v1/team/2218/image",
             "team_b": "AZ Alkmaar",
             "team_b_flag": "https://img.sofascore.com/api/v1/team/2950/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 18:30:00 +0530",
-            "team_a": "New Zealand U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/22634/image",
-            "team_b": "Belgium U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/22583/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Royale Union Saint-Gilloise",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4860/image",
-            "team_b": "Lech Poznań",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3121/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "AFC Champions League Two",
-            "start_time": "26/11/2026 15:30:00 +0530",
-            "team_a": "Kuching City",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/338334/image",
-            "team_b": "Phnom Penh Crown",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/35605/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-                "name": "TAPMAD - AQ",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "https://in-mc-vod.fancode.com/mumbai/4249032_english_hls_a51be743a28523_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                "name": "FANCODE [IND]",
-                "token_api": ""
-            },
-            {
-                "drm_key": "",
-                "drm_scheme": "",
-                "link": "http://193.47.62.41/hls/WAWAWAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "name": "SD STREAM",
-                "token_api": ""
-            }
-        ],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "FC Viktoria Plzeň",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/4502/image",
-            "team_b": "Benfica",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3006/image"
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -2324,23 +2010,22 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "FC Iberia 1999",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/116312/image",
-            "team_b": "Getafe",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2859/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "f40bf13f64c926d6e45f3dbb21fc388b:6e845b0b01a882963c3fca4e5c6d30e7",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1pd1mojapn/out/v1/2f3d0a26cd724ecba544def690bbf788/cenc.mpd",
+                "name": "PARAMOUNT+ - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "e45d4841675035e24df02030b935a95c:17acede99bade461a89630bb86a084a6",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1z0b6t9gvm/out/v1/b55e36403f7042409bb6f5fcfcc160c4/cenc.mpd",
+                "name": "VIX SPANISH - AQ",
+                "token_api": ""
+            }
+        ],
         "title": "UEFA Conference League"
     },
     {
@@ -2363,38 +2048,6 @@
         "category": "Football",
         "event_info": {
             "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 18:30:00 +0530",
-            "team_a": "Vietnam U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/468404/image",
-            "team_b": "Mali U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/203876/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "AFC Champions League Two",
-            "start_time": "26/11/2026 15:30:00 +0530",
-            "team_a": "Gangwon FC",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/34220/image",
-            "team_b": "Kitchee SC",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/42199/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "streams": [],
-        "title": "AFC Champions League Two"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
             "event_name": "League One",
             "start_time": "27/11/2026 01:30:00 +0530",
             "team_a": "Doncaster Rovers",
@@ -2406,22 +2059,6 @@
         "image": "https://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
         "streams": [],
         "title": "League One"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "FK Jablonec",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2205/image",
-            "team_b": "FC Lugano",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/2443/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
     },
     {
         "category": "Football",
@@ -2474,22 +2111,6 @@
     {
         "category": "Football",
         "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "U17 World Championship",
-            "start_time": "26/11/2026 21:30:00 +0530",
-            "team_a": "Croatia U17",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/22594/image",
-            "team_b": "Cuba U17",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/190704/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "streams": [],
-        "title": "U17 World Championship"
-    },
-    {
-        "category": "Football",
-        "event_info": {
             "end_time": "27/11/2026 05:30:00 +0530",
             "event_name": "A-League Men",
             "start_time": "27/11/2026 14:10:00 +0530",
@@ -2502,54 +2123,6 @@
         "image": "https://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
         "streams": [],
         "title": "A-League Men"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Olympique de Marseille",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/1641/image",
-            "team_b": "Levski Sofia",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/3273/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Conference League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Heart of Midlothian",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2353/image",
-            "team_b": "AS Monaco",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/1653/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "streams": [],
-        "title": "UEFA Conference League"
-    },
-    {
-        "category": "Football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "UEFA Europa League",
-            "start_time": "26/11/2026 23:15:00 +0530",
-            "team_a": "Celta Vigo",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/2821/image",
-            "team_b": "Bournemouth",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/60/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "streams": [],
-        "title": "UEFA Europa League"
     },
     {
         "category": "American football",
@@ -2596,24 +2169,72 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "8ffce5bdfb9f1e24dd990efa3a7cd53d:a2be61d34703e9a19d2a8f5b713e2701",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9mzqkbpf1d/out/v1/fe39e2b4831e41ae9fce52a28c1baa46/cenc.mpd",
+                "name": "NFL GAMEPASS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                "name": "TSN SPORTS - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS 3 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS 4 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "TSN SPORTS 5 - AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c4409968-32d7-4250-9f26-e2c9c306ace5/master.m3u8",
+                "name": "PLAYZ TV FHD ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist|referer=https://gooz.aapmains.net/|origin=https://gooz.aapmains.net|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+                "name": "PlayZTV Live",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "",
+                "name": "PLAYZTV Live [FHD]",
+                "token_api": ""
+            },
+            {
+                "drm_key": "",
+                "drm_scheme": "",
+                "link": "http://193.47.62.50/hls/I555A.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "name": "SD STREAM",
+                "token_api": ""
+            }
+        ],
         "title": "NFL"
-    },
-    {
-        "category": "American football",
-        "event_info": {
-            "end_time": "26/11/2026 05:30:00 +0530",
-            "event_name": "NCAA, Regular Season",
-            "start_time": "27/11/2026 01:30:00 +0530",
-            "team_a": "Alabama State Hornets",
-            "team_a_flag": "https://img.sofascore.com/api/v1/team/296545/image",
-            "team_b": "Tuskegee Golden Tigers",
-            "team_b_flag": "https://img.sofascore.com/api/v1/team/454023/image"
-        },
-        "id": 1,
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/19510/image/dark",
-        "streams": [],
-        "title": "NCAA, Regular Season"
     },
     {
         "category": "American football",
@@ -2628,7 +2249,38 @@
         },
         "id": 1,
         "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "streams": [],
+        "streams": [
+            {
+                "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                "name": "Sky Top Event- AQ",
+                "token_api": ""
+            },
+            {
+                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                "drm_scheme": "clearkey",
+                "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                "name": "TSN SPORTS - AQ",
+                "token_api": ""
+            }
+        ],
         "title": "NFL"
+    },
+    {
+        "category": "Cricket",
+        "event_info": {
+            "end_time": "27/11/2026 05:30:00 +0530",
+            "event_name": "Sheffield Shield",
+            "start_time": "27/11/2026 05:30:00 +0530",
+            "team_a": "South Australia",
+            "team_a_flag": "https://img.sofascore.com/api/v1/team/187750/image",
+            "team_b": "Victoria",
+            "team_b_flag": "https://img.sofascore.com/api/v1/team/187749/image"
+        },
+        "id": 1,
+        "image": "https://img.sofascore.com/api/v1/unique-tournament/11160/image/dark",
+        "streams": [],
+        "title": "Sheffield Shield"
     }
 ]
